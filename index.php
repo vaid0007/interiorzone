@@ -2,158 +2,135 @@
 <html class="no-js" lang="zxx">
   <!-- Mirrored from html.themehour.net/faren/demo/home-real-estate-property.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 May 2026 18:53:21 GMT -->
   <head>
+
+    <!-- Basic Page Needs -->
     <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>
-      Faren - Architecture & Interior Design Template - home real estate
-      property
-    </title>
-    <meta name="author" content="themeholy" />
-    <meta
-      name="description"
-      content="Faren   - Architecture & Interior Design Template"
-    />
-    <meta
-      name="keywords"
-      content="Faren   - Architecture & Interior Design Template"
-    />
-    <meta name="robots" content="INDEX,FOLLOW" />
-    <meta
-      name="viewport"
-      content="width=device-width,initial-scale=1,shrink-to-fit=no"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="57x57"
-      href="assets/img/favicons/apple-icon-57x57.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="60x60"
-      href="assets/img/favicons/apple-icon-60x60.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="72x72"
-      href="assets/img/favicons/apple-icon-72x72.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="76x76"
-      href="assets/img/favicons/apple-icon-76x76.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="114x114"
-      href="assets/img/favicons/apple-icon-114x114.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="120x120"
-      href="assets/img/favicons/apple-icon-120x120.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="144x144"
-      href="assets/img/favicons/apple-icon-144x144.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="152x152"
-      href="assets/img/favicons/apple-icon-152x152.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="assets/img/favicons/apple-icon-180x180.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="192x192"
-      href="assets/img/favicons/android-icon-192x192.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="assets/img/favicons/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="96x96"
-      href="assets/img/favicons/favicon-96x96.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="assets/img/favicons/favicon-16x16.png"
-    />
-    <link rel="manifest" href="assets/img/favicons/manifest.json" />
-    <meta name="msapplication-TileColor" content="#ffffff" />
-    <meta
-      name="msapplication-TileImage"
-      content="assets/img/favicons/ms-icon-144x144.png"
-    />
-    <meta name="theme-color" content="#ffffff" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- SEO -->
+    <title>Interior Zone | Best Interior Designer in Janakpuri East, New Delhi</title>
+
+    <meta name="title" content="Interior Zone | Best Interior Designer in Janakpuri East, New Delhi" />
+
+    <meta name="description"
+        content="Interior Zone is a leading Interior Design, Architecture and Construction Company in Janakpuri East, New Delhi. We specialize in Modular Kitchens, Home Interiors, Office Interiors, Wood Work, PVC Panels, Civil Construction, Glass Design and Turnkey Projects." />
+
+    <meta name="keywords"
+        content="Interior Designer Janakpuri East, Interior Design Delhi, Architecture Services Delhi, Construction Company Delhi, Modular Kitchen Delhi, Home Interior Design Delhi, Office Interior Design Delhi, Civil Contractor Delhi, Wood Work Delhi, PVC Panels Delhi, Glass Design Delhi, Turnkey Interior Solutions, Interior Zone" />
+
+    <meta name="author" content="Interior Zone" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="English" />
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://yourdomain.com/" />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#111111" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Interior Zone | Interior Design & Construction Services in Delhi" />
+
+    <meta property="og:description"
+        content="Professional Interior Design, Architecture, Construction, Modular Kitchen, Renovation and Turnkey Solutions in Janakpuri East, New Delhi." />
+
+    <meta property="og:url" content="https://yourdomain.com/" />
+    <meta property="og:site_name" content="Interior Zone" />
+
+    <meta property="og:image" content="assets/img/logo1.png" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta name="twitter:title"
+        content="Interior Zone | Best Interior Designer in Janakpuri East" />
+
+    <meta name="twitter:description"
+        content="Premium Interior Design, Architecture, Construction and Renovation Services in Delhi NCR." />
+
+    <meta name="twitter:image" content="assets/img/logo1.png" />
+
+    <!-- Local SEO -->
+    <meta name="geo.region" content="IN-DL" />
+    <meta name="geo.placename" content="Janakpuri East, New Delhi" />
+    <meta name="geo.position" content="28.6278;77.0910" />
+    <meta name="ICBM" content="28.6278,77.0910" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="assets/img/favicons/apple-touch-icon.png" />
+
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="assets/img/favicons/favicon-32x32.png" />
+
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="assets/img/favicons/favicon-16x16.png" />
+
+    <link rel="icon"
+        href="assets/img/favicons/favicon.ico" />
+
+    <link rel="icon" type="image/png" sizes="192x192"
+        href="assets/img/favicons/android-chrome-192x192.png" />
+
+    <link rel="icon" type="image/png" sizes="512x512"
+        href="assets/img/favicons/android-chrome-512x512.png" />
+
+    <link rel="manifest"
+        href="assets/img/favicons/site.webmanifest" />
+
+    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+
     <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;display=swap"
-      rel="stylesheet"
-    />
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,100..1000;1,100..1000&display=swap"
+        rel="stylesheet" />
+
+    <!-- CSS Files -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
-  </head>
+
+    <!-- Local Business Schema -->
+    <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"LocalBusiness",
+      "name":"Interior Zone",
+      "image":"https://yourdomain.com/assets/img/logo1.png",
+      "url":"https://yourdomain.com",
+      "telephone":"+91-9217664414",
+      "address":{
+        "@type":"PostalAddress",
+        "streetAddress":"G-36 Jaina Tower-II, District Centre",
+        "addressLocality":"Janakpuri East",
+        "addressRegion":"Delhi",
+        "postalCode":"110058",
+        "addressCountry":"IN"
+      },
+      "description":"Interior Design, Architecture, Construction, Modular Kitchen, Wood Work, PVC Panels, Glass Design and Turnkey Solutions.",
+      "areaServed":"Delhi NCR"
+    }
+    </script>
+
+</head>
   <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
-    <div class="color-scheme-wrap active">
-      <button class="switchIcon"><i class="fa-solid fa-palette"></i></button>
-      <h4 class="color-scheme-wrap-title">
-        <i class="far fa-palette me-2"></i>Style Swicher
-      </h4>
-      <div class="color-switch-btns">
-        <button data-color="#3E66F3">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#684DF4">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#008080">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#323F7C">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#FC3737">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#8a2be2">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-      </div>
-      <a
-        href="https://themeforest.net/user/themeholy"
-        class="th-btn text-center w-100"
-        ><i class="fa fa-shopping-cart me-2"></i> Purchase</a
-      >
-    </div>
+    
     <div class="loader-wrap">
       <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
         <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
       </svg>
-      <div class="loader-wrap-heading">
-        <div class="load-text">
-          <span>L</span> <span>o</span> <span>a</span> <span>d</span>
-          <span>i</span> <span>n</span> <span>g</span>
-        </div>
-      </div>
+      <div class="preloader" style="position:fixed;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:99999;display:flex;align-items:center;justify-content:center;transition:opacity .5s ease;">
+    <img src="assets/img/logo1.png" alt="Interior Zone" style="width:300px;height:auto;">
+</div>
     </div>
     <div class="sidemenu-wrapper">
       <div class="sidemenu-content">
@@ -425,22 +402,23 @@
                     <div class="col-xl-7">
                       <div class="hero-style4">
                         <h1
-                      class="hero-title"
-                      data-ani="slideinleft"
-                      data-ani-delay="0.3s"
-                    >
-                      Transform Your Space Into
-                      <span class="text-theme">Luxury Interiors</span>
-                    </h1>
+  class="hero-title"
+  data-ani="slideinleft"
+  data-ani-delay="0.3s"
+>
+  Best <span class="text-theme">Interior Designer</span>
+  In Janakpuri East, Delhi
+</h1>
 
-                    <p
-                      class="hero-text"
-                      data-ani="slideinleft"
-                      data-ani-delay="0.4s"
-                    >
-                      We create elegant, modern, and functional interiors
-                      designed to match your lifestyle and vision.
-                    </p>
+<p
+  class="hero-text"
+  data-ani="slideinleft"
+  data-ani-delay="0.4s"
+>
+  Interior Zone offers premium interior design, architecture,
+  construction, modular kitchen, woodwork, and turnkey solutions
+  for residential and commercial spaces across Delhi NCR.
+</p>
                         <div
                           class="btn-group justify-content-xl-start justify-content-center"
                           data-ani="slideinleft"
@@ -470,23 +448,23 @@
                     <div class="col-xl-7">
                       <div class="hero-style4">
                         <h1
-                      class="hero-title"
-                      data-ani="slideinleft"
-                      data-ani-delay="0.3s"
-                    >
-                      Designing Stylish &
-                      <span class="text-theme">Modern Living</span>
-                      Spaces
-                    </h1>
+  class="hero-title"
+  data-ani="slideinleft"
+  data-ani-delay="0.3s"
+>
+  Modern <span class="text-theme">Architecture & Construction</span>
+  Solutions
+</h1>
 
-                    <p
-                      class="hero-text"
-                      data-ani="slideinleft"
-                      data-ani-delay="0.4s"
-                    >
-                      From residential to commercial interiors, we deliver
-                      timeless designs with comfort and sophistication.
-                    </p>
+<p
+  class="hero-text"
+  data-ani="slideinleft"
+  data-ani-delay="0.4s"
+>
+  From architectural planning and civil engineering to complete
+  construction contracts, we deliver innovative and reliable
+  solutions tailored to your vision and budget.
+</p>
                         <div
                           class="btn-group justify-content-xl-start justify-content-center"
                           data-ani="slideinleft"
@@ -516,23 +494,23 @@
                     <div class="col-xl-7">
                       <div class="hero-style4">
                         <h1
-                      class="hero-title"
-                      data-ani="slideinleft"
-                      data-ani-delay="0.3s"
-                    >
-                      Bringing Your
-                      <span class="text-theme">Dream Interiors</span>
-                      To Life
-                    </h1>
+  class="hero-title"
+  data-ani="slideinleft"
+  data-ani-delay="0.3s"
+>
+  Transform Your Home With
+  <span class="text-theme">Luxury Interiors</span>
+</h1>
 
-                    <p
-                      class="hero-text"
-                      data-ani="slideinleft"
-                      data-ani-delay="0.4s"
-                    >
-                      Experience premium interior solutions crafted with
-                      creativity, innovation, and attention to detail.
-                    </p>
+<p
+  class="hero-text"
+  data-ani="slideinleft"
+  data-ani-delay="0.4s"
+>
+  Enhance your living space with modular kitchens, bedrooms,
+  PVC panels, glass work, painting, electrical, plumbing,
+  and custom interior solutions designed by experts.
+</p>
                         <div
                           class="btn-group justify-content-xl-start justify-content-center"
                           data-ani="slideinleft"
@@ -569,30 +547,27 @@
         data-bg-src="assets/img/shape/scale.png"
       ></div>
     </div>
-    <section class="space-top overflow-hidden">
+    <section class="space-top overflow-hidden px-5">
       <div class="container">
         <div class="row justify-content-center text-center">
           <div class="col-12">
             <div class="title-area text-center mb-35">
-              <span class="sub-title style3 text-anime">our story</span>
-              <h2 class="sec-title split-text">
-                We believe that great <span class="text-theme">interior</span
-                ><span class="story-img1 style2"
-                  ><img src="assets/img/normal/story-1.jpg" alt="" /></span
-                >has the power to<span class="story-img1 style2"
-                  ><img src="assets/img/normal/story-2.jpg" alt="" /></span
-                >Sustainability and improve lives, and we are dedicated to<span
-                  class="story-img1 style2"
-                  ><img src="assets/img/normal/story-3.jpg" alt="" /></span
-                >delivering Projects<span class="star"
-                  ><img src="assets/img/normal/star.png" alt=""
-                /></span>
-              </h2>
-            </div>
-            <div class="founder">
-              <img src="assets/img/normal/signature3.png" alt="" />
-              <span class="desig">FOUNDER OF THE COMPANY</span>
-            </div>
+    <span class="sub-title style3 text-anime">About Interior Zone</span>
+    
+    <h2 class="sec-title split-text">
+        Creating <span class="text-theme">Luxury Interiors</span>,
+        Smart Architecture & Premium Construction Solutions
+        in Janakpuri East, Delhi
+    </h2>
+
+    <p class="mt-4">
+        Interior Zone specializes in residential and commercial interior design,
+        architecture, construction, modular kitchens, woodwork, PVC panels,
+        glass work, electrical, plumbing, and turnkey project execution.
+        We transform ordinary spaces into elegant, functional, and modern
+        environments that reflect your lifestyle and vision.
+    </p>
+</div>
           </div>
         </div>
       </div>
@@ -601,137 +576,87 @@
       class="position-relative overflow-hidden space overflow-hidden"
       id="about-sec"
     >
-      <div class="container">
+      <div class="container px-5">
         <div class="title-area">
-          <h2 class="sec-title style3">About Our Company</h2>
-        </div>
-        <hr class="line mb-60" />
-        <div class="row gy-4 justify-content-between">
-          <div class="col-xxl-5">
-            <p class="fs-18 wow fadeInUp" data-wow-delay=".3s">
-              Elementum metus. Suspendisse potenti. Donec vehicula velit nisl,
-              quis facilisis massa dignissim et. hasellus massa lacus, ornare in
-              elit id, tincidunt dapibus nunc. In porta sem mattis ullamcorper
-              bibendum. In every project at Faren, the essence of tradition is
-              evident.
-            </p>
-            <div class="btn-group mt-60">
-              <a href="contact.html" class="th-btn style4">Learn More</a>
-              <div class="client-box mb-sm-0 mb-3">
+    <h2 class="sec-title style3">About Interior Zone</h2>
+</div>
+
+<hr class="line mb-60" />
+
+<div class="row gy-4 justify-content-between">
+    
+    <div class="col-xxl-5">
+        <p class="fs-18 wow fadeInUp" data-wow-delay=".3s">
+            Interior Zone is a leading Interior Design, Architecture, and Construction
+            company based in Janakpuri East, Delhi. We specialize in residential and
+            commercial interior design, modular kitchens, woodwork, PVC panels,
+            glass work, civil engineering, electrical, plumbing, painting, and
+            turnkey project solutions. Our mission is to create beautiful,
+            functional, and innovative spaces that reflect our clients' vision,
+            lifestyle, and business goals.
+        </p>
+
+        <div class="btn-group mt-60">
+            <a href="contact.html" class="th-btn style4">
+                Get Free Consultation
+            </a>
+
+            <div class="client-box mb-sm-0 mb-3">
                 <div class="client-thumb-group">
-                  <div class="thumb">
-                    <img src="assets/img/shape/client-1-1.png" alt="avater" />
-                  </div>
-                  <div class="thumb">
-                    <img src="assets/img/shape/client-1-2.png" alt="avater" />
-                  </div>
-                  <div class="thumb">
-                    <img src="assets/img/shape/client-1-3.png" alt="avater" />
-                  </div>
-                  <h4 class="box-title">12M+ Happy Customers</h4>
+                    <h4 class="box-title">500+ Successfully Completed Projects</h4>
                 </div>
-              </div>
             </div>
-          </div>
-          <div class="col-xxl-5">
-            <div class="skill-card">
-              <div class="skill-feature">
-                <h3 class="skill-feature_title">Architecture</h3>
-                <div class="progress">
-                  <div class="progress-bar" style="width: 68%"></div>
-                  <div class="progress-value">68%</div>
-                </div>
-              </div>
-              <div class="skill-feature">
-                <h3 class="skill-feature_title">Construction</h3>
-                <div class="progress">
-                  <div class="progress-bar" style="width: 66%"></div>
-                  <div class="progress-value">66%</div>
-                </div>
-              </div>
-              <div class="skill-feature">
-                <h3 class="skill-feature_title">Engineering</h3>
-                <div class="progress">
-                  <div class="progress-bar" style="width: 72%"></div>
-                  <div class="progress-value">72%</div>
-                </div>
-              </div>
-              <div class="skill-feature">
-                <h3 class="skill-feature_title">Urban Planning</h3>
-                <div class="progress">
-                  <div class="progress-bar" style="width: 65%"></div>
-                  <div class="progress-value">65%</div>
-                </div>
-              </div>
-              <div class="skill-feature">
+        </div>
+    </div>
+
+    <div class="col-xxl-5">
+        <div class="skill-card">
+
+            <div class="skill-feature">
                 <h3 class="skill-feature_title">Interior Design</h3>
                 <div class="progress">
-                  <div class="progress-bar" style="width: 75%"></div>
-                  <div class="progress-value">75%</div>
+                    <div class="progress-bar" style="width: 98%"></div>
+                    <div class="progress-value">98%</div>
                 </div>
-              </div>
             </div>
-          </div>
+
+            <div class="skill-feature">
+                <h3 class="skill-feature_title">Architecture Planning</h3>
+                <div class="progress">
+                    <div class="progress-bar" style="width: 95%"></div>
+                    <div class="progress-value">95%</div>
+                </div>
+            </div>
+
+            <div class="skill-feature">
+                <h3 class="skill-feature_title">Construction Services</h3>
+                <div class="progress">
+                    <div class="progress-bar" style="width: 96%"></div>
+                    <div class="progress-value">96%</div>
+                </div>
+            </div>
+
+            <div class="skill-feature">
+                <h3 class="skill-feature_title">Modular Kitchen & Furniture</h3>
+                <div class="progress">
+                    <div class="progress-bar" style="width: 97%"></div>
+                    <div class="progress-value">97%</div>
+                </div>
+            </div>
+
+            <div class="skill-feature">
+                <h3 class="skill-feature_title">Turnkey Project Solutions</h3>
+                <div class="progress">
+                    <div class="progress-bar" style="width: 99%"></div>
+                    <div class="progress-value">99%</div>
+                </div>
+            </div>
+
         </div>
+    </div>
+
+</div>
         <div class="row mt-60">
-          <div
-            class="nav tab-menu1 style2 indicator-active"
-            id="tab-menu1"
-            role="tablist"
-          >
-            <button
-              class="tab-btn active"
-              id="nav-one-tab"
-              data-bs-toggle="tab"
-              data-bs-target="#nav-one"
-              type="button"
-              role="tab"
-              aria-controls="nav-one"
-              aria-selected="true"
-            >
-              <span><img src="assets/img/icon/1.svg" alt="" /></span>3D Space
-              Designing
-            </button>
-            <button
-              class="tab-btn"
-              id="nav-two-tab"
-              data-bs-toggle="tab"
-              data-bs-target="#nav-two"
-              type="button"
-              role="tab"
-              aria-controls="nav-two"
-              aria-selected="false"
-            >
-              <span><img src="assets/img/icon/2.svg" alt="" /></span
-              >Architectural Drawing
-            </button>
-            <button
-              class="tab-btn"
-              id="nav-three-tab"
-              data-bs-toggle="tab"
-              data-bs-target="#nav-three"
-              type="button"
-              role="tab"
-              aria-controls="nav-three"
-              aria-selected="false"
-            >
-              <span><img src="assets/img/icon/3.svg" alt="" /></span>3D Model
-              Building
-            </button>
-            <button
-              class="tab-btn"
-              id="nav-four-tab"
-              data-bs-toggle="tab"
-              data-bs-target="#nav-four"
-              type="button"
-              role="tab"
-              aria-controls="nav-four"
-              aria-selected="false"
-            >
-              <span><img src="assets/img/icon/4.svg" alt="" /></span>3D Model
-              Building
-            </button>
-          </div>
           <div class="tab-content">
             <div
               class="tab-pane fade show active"
@@ -750,11 +675,11 @@
                       <div class="gallery-card style3">
                         <div class="box-img global-img">
                           <img
-                            src="assets/img/gallery/gallery_5_1.jpg"
+                            src="assets/img/img/1.jpeg"
                             alt="gallery image"
                           />
                           <a
-                            href="assets/img/gallery/gallery_5_1.jpg"
+                            href="assets/img/img/1.jpeg"
                             class="icon-btn th-popup-image"
                             ><i class="far fa-plus"></i
                           ></a>
@@ -771,11 +696,11 @@
                       <div class="gallery-card style3">
                         <div class="box-img global-img">
                           <img
-                            src="assets/img/gallery/gallery_5_2.jpg"
+                            src="assets/img/img/2.jpeg"
                             alt="gallery image"
                           />
                           <a
-                            href="assets/img/gallery/gallery_5_2.jpg"
+                            href="assets/img/img/2.jpeg"
                             class="icon-btn th-popup-image"
                             ><i class="far fa-plus"></i
                           ></a>
@@ -792,11 +717,11 @@
                       <div class="gallery-card style3">
                         <div class="box-img global-img">
                           <img
-                            src="assets/img/gallery/gallery_5_3.jpg"
+                            src="assets/img/img/3.jpeg"
                             alt="gallery image"
                           />
                           <a
-                            href="assets/img/gallery/gallery_5_3.jpg"
+                            href="assets/img/img/3.jpeg"
                             class="icon-btn th-popup-image"
                             ><i class="far fa-plus"></i
                           ></a>
@@ -813,11 +738,11 @@
                       <div class="gallery-card style3">
                         <div class="box-img global-img">
                           <img
-                            src="assets/img/gallery/gallery_5_4.jpg"
+                            src="assets/img/img/4.jpeg"
                             alt="gallery image"
                           />
                           <a
-                            href="assets/img/gallery/gallery_5_4.jpg"
+                            href="assets/img/img/4.jpeg"
                             class="icon-btn th-popup-image"
                             ><i class="far fa-plus"></i
                           ></a>
@@ -834,11 +759,11 @@
                       <div class="gallery-card style3">
                         <div class="box-img global-img">
                           <img
-                            src="assets/img/gallery/gallery_5_5.jpg"
+                            src="assets/img/img/5.jpeg"
                             alt="gallery image"
                           />
                           <a
-                            href="assets/img/gallery/gallery_5_5.jpg"
+                            href="assets/img/img/5.jpeg"
                             class="icon-btn th-popup-image"
                             ><i class="far fa-plus"></i
                           ></a>
@@ -855,11 +780,11 @@
                       <div class="gallery-card style3">
                         <div class="box-img global-img">
                           <img
-                            src="assets/img/gallery/gallery_5_6.jpg"
+                            src="assets/img/img/6.jpeg"
                             alt="gallery image"
                           />
                           <a
-                            href="assets/img/gallery/gallery_5_6.jpg"
+                            href="assets/img/img/6.jpeg"
                             class="icon-btn th-popup-image"
                             ><i class="far fa-plus"></i
                           ></a>
@@ -889,484 +814,13 @@
                   </button>
                 </div>
               </div>
-            </div>
-            <div
-              class="tab-pane fade"
-              id="nav-two"
-              role="tabpanel"
-              aria-labelledby="nav-two-tab"
-            >
-              <div class="slider-area about-Slider">
-                <div
-                  class="swiper th-slider aboutSlide slider-drag-wrap has-shadow"
-                  id="aboutSlide2"
-                  data-slider-options='{"loop":true,"mousewheel": {"enabled": true,"sensitivity": 4},"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'
-                >
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_1.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_1.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_2.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_2.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_3.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_3.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_4.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_4.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_5.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_5.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_6.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_6.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="icon-box">
-                  <button
-                    data-slider-prev="#aboutSlide2"
-                    class="slider-arrow default slider-prev"
-                  >
-                    <i class="fa-regular fa-arrow-right"></i>
-                  </button>
-                  <button
-                    data-slider-next="#aboutSlide2"
-                    class="slider-arrow default slider-next"
-                  >
-                    <i class="fa-regular fa-arrow-left"></i>
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div
-              class="tab-pane fade"
-              id="nav-three"
-              role="tabpanel"
-              aria-labelledby="nav-three-tab"
-            >
-              <div class="slider-area about-Slider">
-                <div
-                  class="swiper th-slider aboutSlide slider-drag-wrap has-shadow"
-                  id="aboutSlide3"
-                  data-slider-options='{"loop":true,"mousewheel": {"enabled": true,"sensitivity": 4},"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'
-                >
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_1.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_1.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_2.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_2.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_3.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_3.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_4.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_4.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_5.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_5.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_6.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_6.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="icon-box">
-                  <button
-                    data-slider-prev="#aboutSlide3"
-                    class="slider-arrow default slider-prev"
-                  >
-                    <i class="fa-regular fa-arrow-right"></i>
-                  </button>
-                  <button
-                    data-slider-next="#aboutSlide3"
-                    class="slider-arrow default slider-next"
-                  >
-                    <i class="fa-regular fa-arrow-left"></i>
-                  </button>
-                </div>
-              </div>
-            </div>
-            <div
-              class="tab-pane fade"
-              id="nav-four"
-              role="tabpanel"
-              aria-labelledby="nav-four-tab"
-            >
-              <div class="slider-area about-Slider">
-                <div
-                  class="swiper th-slider aboutSlide slider-drag-wrap has-shadow"
-                  id="aboutSlide4"
-                  data-slider-options='{"loop":true,"mousewheel": {"enabled": true,"sensitivity": 4},"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'
-                >
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_1.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_1.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_2.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_2.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_3.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_3.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_4.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_4.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_5.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_5.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="gallery-card style3">
-                        <div class="box-img global-img">
-                          <img
-                            src="assets/img/gallery/gallery_5_6.jpg"
-                            alt="gallery image"
-                          />
-                          <a
-                            href="assets/img/gallery/gallery_5_6.jpg"
-                            class="icon-btn th-popup-image"
-                            ><i class="far fa-plus"></i
-                          ></a>
-                          <div class="shape">
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                            <div class="dot"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="icon-box">
-                  <button
-                    data-slider-prev="#aboutSlide4"
-                    class="slider-arrow default slider-prev"
-                  >
-                    <i class="fa-regular fa-arrow-right"></i>
-                  </button>
-                  <button
-                    data-slider-next="#aboutSlide4"
-                    class="slider-arrow default slider-next"
-                  >
-                    <i class="fa-regular fa-arrow-left"></i>
-                  </button>
-                </div>
-              </div>
-            </div>
+            </div>  
           </div>
         </div>
       </div>
     </div>
     <div class="overflow-hidden overflow-hidden" id="contact-sec">
-      <div class="container">
+      <div class="container px-5">
         <div class="contact-area2">
           <div class="row align-items-center flex-row-reverse">
             <div class="col-xl-6">
@@ -1451,7 +905,7 @@
             <div class="col-xl-6">
               <div class="contact-image4">
                 <div class="img1 img-anim-left">
-                  <img src="assets/img/normal/contact-3-1.jpg" alt="" />
+                  <img src="assets/img/img/10.jpeg" alt="" />
                 </div>
               </div>
             </div>
@@ -1460,92 +914,10 @@
       </div>
     </div>
     <section
-      class="position-relative overflow-hidden space-top overflow-hidden"
-      id="service-sec"
-    >
-      <div class="service-area2" data-bg-src="assets/img/bg/service_bg_1.jpg">
-        <div class="container">
-          <div class="title-area mb-0">
-            <h2 class="sec-title style3 split-text text-white">
-              Select Category
-            </h2>
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="service-list-area style2">
-          <div class="service-list style2 hover-item item-active">
-            <div class="service-wrapp">
-              <div class="service-img">
-                <img src="assets/img/service/ser_2_1.jpg" alt="" />
-              </div>
-              <div class="service-img2">
-                <img src="assets/img/service/ser_2_1_1.jpg" alt="" />
-              </div>
-            </div>
-            <div class="service-list-content">
-              <div class="service-wrapp">
-                <span class="number">01.</span>
-                <h3 class="box-title">Architecture</h3>
-              </div>
-            </div>
-          </div>
-          <div class="service-list style2 hover-item">
-            <div class="service-wrapp">
-              <div class="service-img">
-                <img src="assets/img/service/ser_1_1.jpg" alt="" />
-              </div>
-              <div class="service-img2">
-                <img src="assets/img/service/ser_1.jpg" alt="" />
-              </div>
-            </div>
-            <div class="service-list-content">
-              <div class="service-wrapp">
-                <span class="number">02.</span>
-                <h3 class="box-title">Planning</h3>
-              </div>
-            </div>
-          </div>
-          <div class="service-list style2 hover-item">
-            <div class="service-wrapp">
-              <div class="service-img">
-                <img src="assets/img/service/ser_1_2.jpg" alt="" />
-              </div>
-              <div class="service-img2">
-                <img src="assets/img/service/ser_2.jpg" alt="" />
-              </div>
-            </div>
-            <div class="service-list-content">
-              <div class="service-wrapp">
-                <span class="number">03</span>
-                <h3 class="box-title">Construction</h3>
-              </div>
-            </div>
-          </div>
-          <div class="service-list style2 hover-item">
-            <div class="service-wrapp">
-              <div class="service-img">
-                <img src="assets/img/service/ser_1_3.jpg" alt="" />
-              </div>
-              <div class="service-img2">
-                <img src="assets/img/service/ser_3.jpg" alt="" />
-              </div>
-            </div>
-            <div class="service-list-content">
-              <div class="service-wrapp">
-                <span class="number">04</span>
-                <h3 class="box-title">Development</h3>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section
       class="position-relative overflow-hidden space overflow-hidden"
       id="project-sec"
     >
-      <div class="container">
+      <div class="container px-5">
         <div
           class="row justify-content-lg-between justify-content-center align-items-end"
         >
@@ -1553,7 +925,7 @@
             <div class="title-area text-center text-lg-start">
               <span class="sub-title style3 text-anime">Our Projects</span>
               <h2 class="sec-title split-text">
-                Our Featured Property Designs
+                Featured Interior Design & Construction Projects
               </h2>
             </div>
           </div>
@@ -1566,87 +938,84 @@
           </div>
         </div>
         <div class="row gx-50 gy-50">
-          <div class="col-lg-6">
+          <div class="col-lg-4">
             <div class="project-grid">
               <div class="box-img global-img">
                 <img
-                  src="assets/img/project/project_4_1.jpg"
+                  src="assets/img/img/11.jpeg"
                   alt="project image"
+                  style="height:500px;"
                 />
-                <span class="year">Year: 2025</span>
+                <span class="year">Year: 2026</span>
               </div>
               <div class="box-content">
-                <span class="sub-title">Tower & Plaza</span>
-                <h3 class="box-title">
-                  <a href="project-details.html">The Horizon Residences</a>
-                </h3>
-                <p class="box-text">
-                  We blend creativity with technical mastery to deliver iconic,
-                  functional, and timeless architecture...
-                </p>
+                <span class="sub-title">Residential Interior Design</span>
+
+<h3 class="box-title">
+    <a href="project-details.html">Luxury Home Interior in Janakpuri</a>
+</h3>
+
+<p class="box-text">
+    Complete home interior transformation featuring modular kitchen,
+    custom furniture, PVC panels, premium lighting, and elegant living spaces.
+</p>
                 <a href="project.html" class="icon-btn"
                   ><img src="assets/img/icon/project-icon.svg" alt=""
                 /></a>
               </div>
             </div>
           </div>
-          <div class="col-lg-6">
+          <div class="col-lg-4">
             <div class="project-grid">
               <div class="box-img global-img">
                 <img
-                  src="assets/img/project/project_4_2.jpg"
+                  src="assets/img/img/30.jpeg"
                   alt="project image"
+                  style="height:500px;"
                 />
-                <span class="year">Year: 2025</span>
+                <span class="year">Year: 2026</span>
               </div>
               <div class="box-content">
-                <span class="sub-title">Tower & Plaza</span>
-                <h3 class="box-title">
-                  <a href="project-details.html">The Horizon Residences</a>
-                </h3>
-                <p class="box-text">
-                  We blend creativity with technical mastery to deliver iconic,
-                  functional, and timeless architecture...
-                </p>
+                <span class="sub-title">Modular Kitchen Design</span>
+
+<h3 class="box-title">
+    <a href="project-details.html">Modern Modular Kitchen Project</a>
+</h3>
+
+<p class="box-text">
+    Contemporary modular kitchen with smart storage solutions,
+    premium finishes, functional layouts, and high-quality accessories.
+</p>
                 <a href="project.html" class="icon-btn"
                   ><img src="assets/img/icon/project-icon.svg" alt=""
                 /></a>
               </div>
             </div>
           </div>
-          <div class="col-lg-6">
+          <div class="col-lg-4">
             <div class="project-grid">
               <div class="box-img global-img">
                 <img
-                  src="assets/img/project/project_4_3.jpg"
+                  src="assets/img/img/29.jpeg"
                   alt="project image"
+                  style="height:500px;"
                 />
-                <span class="year">Year: 2025</span>
+                <span class="year">Year: 2026</span>
               </div>
               <div class="box-content">
-                <span class="sub-title">Tower & Plaza</span>
-                <h3 class="box-title">
-                  <a href="project-details.html">The Horizon Residences</a>
-                </h3>
-                <p class="box-text">
-                  We blend creativity with technical mastery to deliver iconic,
-                  functional, and timeless architecture...
-                </p>
+                <span class="sub-title">Commercial Interior Design</span>
+
+<h3 class="box-title">
+    <a href="project-details.html">Corporate Office Interior</a>
+</h3>
+
+<p class="box-text">
+    Professional office interior design with modern workspaces,
+    glass partitions, custom furniture, and efficient space planning.
+</p>
                 <a href="project.html" class="icon-btn"
                   ><img src="assets/img/icon/project-icon.svg" alt=""
                 /></a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="th-experience style2">
-              <div class="th-experience_content">
-                <div class="experience-img">
-                  <img src="assets/img/shape/counter-number.png" alt="" />
-                </div>
-                <p class="experience-text">
-                  Years of Property & Development Service
-                </p>
               </div>
             </div>
           </div>
@@ -1658,10 +1027,11 @@
         <div class="row justify-content-center">
           <div class="col-lg-7">
             <div class="title-area text-center">
-              <span class="sub-title style4 text-white">Why Choose Us</span>
-              <h3 class="sec-title split-text text-white">
-                Why Should You Choose Us
-              </h3>
+              <span class="sub-title style4 text-white">Why Choose Interior Zone</span>
+
+<h3 class="sec-title split-text text-white">
+    Trusted Interior Design & Construction Experts in Delhi
+</h3>
             </div>
           </div>
         </div>
@@ -1679,11 +1049,13 @@
                     <img src="assets/img/icon/choose_2_1.svg" alt="img" />
                   </div>
                   <div class="box-content">
-                    <h3 class="box-title text-white">Design Excellence</h3>
-                    <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
-                    </p>
+                    <h3 class="box-title text-white">
+    Complete Turnkey Solutions
+</h3>
+
+<p class="box-text">
+    From design and planning to execution and handover, we provide end-to-end interior, architecture, and construction services under one roof.
+</p>
                   </div>
                 </div>
               </div>
@@ -1694,12 +1066,12 @@
                   </div>
                   <div class="box-content">
                     <h3 class="box-title text-white">
-                      Client-Centered Approach
-                    </h3>
-                    <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
-                    </p>
+    Experienced Design Team
+</h3>
+
+<p class="box-text">
+    Our skilled interior designers, architects, and engineers create modern, functional, and visually stunning spaces tailored to your needs.
+</p>
                   </div>
                 </div>
               </div>
@@ -1710,12 +1082,12 @@
                   </div>
                   <div class="box-content">
                     <h3 class="box-title text-white">
-                      Customer-Focused Design
-                    </h3>
-                    <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
-                    </p>
+    Premium Quality Materials
+</h3>
+
+<p class="box-text">
+    We use high-quality materials, premium finishes, and trusted brands to ensure durability, elegance, and long-lasting value.
+</p>
                   </div>
                 </div>
               </div>
@@ -1725,11 +1097,13 @@
                     <img src="assets/img/icon/choose_2_4.svg" alt="img" />
                   </div>
                   <div class="box-content">
-                    <h3 class="box-title text-white">Sustainable Innovation</h3>
-                    <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
-                    </p>
+                    <h3 class="box-title text-white">
+    On-Time Project Delivery
+</h3>
+
+<p class="box-text">
+    With professional project management and expert execution, we ensure timely completion without compromising on quality.
+</p>
                   </div>
                 </div>
               </div>
@@ -1739,11 +1113,13 @@
                     <img src="assets/img/icon/choose_2_1.svg" alt="img" />
                   </div>
                   <div class="box-content">
-                    <h3 class="box-title text-white">Design Excellence</h3>
-                    <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
-                    </p>
+                    <h3 class="box-title text-white">
+    Customized Interior Solutions
+</h3>
+
+<p class="box-text">
+    Every project is designed according to your lifestyle, preferences, space requirements, and budget for a truly personalized experience.
+</p>
                   </div>
                 </div>
               </div>
@@ -1754,12 +1130,12 @@
                   </div>
                   <div class="box-content">
                     <h3 class="box-title text-white">
-                      Client-Centered Approach
-                    </h3>
-                    <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
-                    </p>
+    Serving Delhi NCR & Beyond
+</h3>
+
+<p class="box-text">
+    Based in Janakpuri East, Delhi, we provide residential and commercial interior design, modular kitchens, construction, and renovation services across India.
+</p>
                   </div>
                 </div>
               </div>
@@ -1793,12 +1169,13 @@
         <div class="row justify-content-center">
           <div class="col-xxl-7">
             <div class="title-area text-center pe-xxl-3 ps-xxl-3">
-              <span class="sub-title style4 text-anime text-white"
-                >Most Demanding Service</span
-              >
-              <h2 class="sec-title split-text text-white">
-                We’re Giving The Best Services
-              </h2>
+              <span class="sub-title style4 text-anime text-white">
+    Our Premium Services
+</span>
+
+<h2 class="sec-title split-text text-white">
+    Complete Interior Design & Construction Solutions
+</h2>
             </div>
           </div>
         </div>
@@ -1810,15 +1187,16 @@
               </div>
               <div class="box-content">
                 <h3 class="box-title">
-                  <a href="service-details.html">Landscape Architecture</a>
-                </h3>
-                <p class="box-text">
-                  Faren architects is a team of young talented experts whose
-                  professional activity is entirely
-                </p>
-                <a href="service.html" class="line-btn"
-                  >Read More <i class="fa-regular fa-arrow-right"></i
-                ></a>
+    <a href="service-details.html">Interior Design</a>
+</h3>
+
+<p class="box-text">
+    Professional residential and commercial interior design services that combine creativity, functionality, and modern aesthetics.
+</p>
+
+<a href="service.html" class="line-btn">
+    Learn More <i class="fa-regular fa-arrow-right"></i>
+</a>
               </div>
             </div>
           </div>
@@ -1829,15 +1207,16 @@
               </div>
               <div class="box-content">
                 <h3 class="box-title">
-                  <a href="service-details.html">Multipurpose</a>
-                </h3>
-                <p class="box-text">
-                  Faren architects is a team of young talented experts whose
-                  professional activity is entirely
-                </p>
-                <a href="service.html" class="line-btn"
-                  >Read More <i class="fa-regular fa-arrow-right"></i
-                ></a>
+    <a href="service-details.html">Architecture & Planning</a>
+</h3>
+
+<p class="box-text">
+    Expert architectural planning, 2D & 3D designs, construction drawings, and innovative space planning solutions.
+</p>
+
+<a href="service.html" class="line-btn">
+    Learn More <i class="fa-regular fa-arrow-right"></i>
+</a>
               </div>
             </div>
           </div>
@@ -1848,15 +1227,16 @@
               </div>
               <div class="box-content">
                 <h3 class="box-title">
-                  <a href="service-details.html">Decor & Art Design</a>
-                </h3>
-                <p class="box-text">
-                  Faren architects is a team of young talented experts whose
-                  professional activity is entirely
-                </p>
-                <a href="service.html" class="line-btn"
-                  >Read More <i class="fa-regular fa-arrow-right"></i
-                ></a>
+    <a href="service-details.html">Modular Kitchen & Furniture</a>
+</h3>
+
+<p class="box-text">
+    Custom modular kitchens, wardrobes, bedrooms, vanity units, and furniture designed for comfort and style.
+</p>
+
+<a href="service.html" class="line-btn">
+    Learn More <i class="fa-regular fa-arrow-right"></i>
+</a>
               </div>
             </div>
           </div>
@@ -1867,15 +1247,16 @@
               </div>
               <div class="box-content">
                 <h3 class="box-title">
-                  <a href="service-details.html">Exterior Design</a>
-                </h3>
-                <p class="box-text">
-                  Faren architects is a team of young talented experts whose
-                  professional activity is entirely
-                </p>
-                <a href="service.html" class="line-btn"
-                  >Read More <i class="fa-regular fa-arrow-right"></i
-                ></a>
+    <a href="service-details.html">Construction & Renovation</a>
+</h3>
+
+<p class="box-text">
+    Complete construction, renovation, civil engineering, electrical, plumbing, painting, and turnkey project execution services.
+</p>
+
+<a href="service.html" class="line-btn">
+    Learn More <i class="fa-regular fa-arrow-right"></i>
+</a>
               </div>
             </div>
           </div>
@@ -1886,27 +1267,35 @@
       <div class="container">
         <div class="counter-card_wrapp style4">
           <div class="counter-card style4 wow fadeInUp" data-wow-delay=".2s">
-            <h3 class="box-number"><span class="counter-number">98</span>%</h3>
-            <p class="box-text">happy customer</p>
-          </div>
-          <div class="counter-card style4 wow fadeInUp" data-wow-delay=".4s">
-            <h3 class="box-number"><span class="counter-number">4.9</span></h3>
-            <p class="box-text">average reviews</p>
-          </div>
-          <div class="counter-card style4 wow fadeInUp" data-wow-delay=".5s">
-            <h3 class="box-number">
-              <span class="counter-number">1.6</span>k+
-            </h3>
-            <p class="box-text">Complete Project</p>
-          </div>
-          <div class="counter-card style4 wow fadeInUp" data-wow-delay=".6s">
-            <h3 class="box-number"><span class="counter-number">29</span>+</h3>
-            <p class="box-text">Complete Project</p>
-          </div>
-          <div class="counter-card style4 wow fadeInUp" data-wow-delay=".7s">
-            <h3 class="box-number"><span class="counter-number">126</span></h3>
-            <p class="box-text">Award Win</p>
-          </div>
+    <h3 class="box-number"><span class="counter-number">98</span>%</h3>
+    <p class="box-text">Client Satisfaction</p>
+</div>
+
+<div class="counter-card style4 wow fadeInUp" data-wow-delay=".4s">
+    <h3 class="box-number"><span class="counter-number">4.9</span></h3>
+    <p class="box-text">Customer Rating</p>
+</div>
+
+<div class="counter-card style4 wow fadeInUp" data-wow-delay=".5s">
+    <h3 class="box-number">
+        <span class="counter-number">500</span>+
+    </h3>
+    <p class="box-text">Projects Completed</p>
+</div>
+
+<div class="counter-card style4 wow fadeInUp" data-wow-delay=".6s">
+    <h3 class="box-number">
+        <span class="counter-number">10</span>+
+    </h3>
+    <p class="box-text">Years Experience</p>
+</div>
+
+<div class="counter-card style4 wow fadeInUp" data-wow-delay=".7s">
+    <h3 class="box-number">
+        <span class="counter-number">50</span>+
+    </h3>
+    <p class="box-text">Expert Team Members</p>
+</div>
         </div>
       </div>
     </div>
@@ -1914,12 +1303,14 @@
       class="testi-area2 overflow-hidden space overflow-hidden"
       id="testi-sec"
     >
-      <div class="container">
+      <div class="container px-5">
         <div class="row justify-content-between align-items-center">
           <div class="col-md">
             <div class="title-area text-center text-md-start">
-              <h2 class="sec-title style3">Customer Feedback</h2>
-            </div>
+              <h2 class="sec-title style3">
+    What Our Clients Say
+</h2>
+            </div>  
           </div>
           <div class="col-md-auto d-none d-lg-block">
             <div class="sec-btn mt-n3 mt-md-0">
@@ -1952,7 +1343,7 @@
                   <div class="box-author">
                     <img
                       class="img"
-                      src="assets/img/testimonial/testi_4_1.png"
+                      src="assets/img/testimonial/testi_4_1."
                       alt="Avater"
                     />
                     <div class="box-quote">
@@ -1961,15 +1352,12 @@
                   </div>
                   <div class="box-content">
                     <p class="box-text">
-                      "Working with Faren Design was a seamless experience from
-                      start to finish. Their architects not only understood our
-                      vision but enhanced it with creative ideas and smart,
-                      sustainable solutions. "
-                    </p>
+    "Interior Zone transformed our home exactly as we imagined. From the modular kitchen to the living room design, every detail was executed perfectly. The team was professional, creative, and completed the project on time."
+</p>
                     <div class="box-profile">
                       <div class="box-info">
-                        <h3 class="box-title">Alex James</h3>
-                        <span class="box-desig">Company Owner</span>
+                        <h3 class="box-title">Rahul Sharma</h3>
+<span class="box-desig">Homeowner, Janakpuri</span>
                       </div>
                       <div class="box-rating">
                         <span class="rating">4.9/5.0</span>
@@ -1990,7 +1378,7 @@
                   <div class="box-author">
                     <img
                       class="img"
-                      src="assets/img/testimonial/testi_4_2.png"
+                      src="assets/img/testimonial/testi_4_2."
                       alt="Avater"
                     />
                     <div class="box-quote">
@@ -1999,15 +1387,12 @@
                   </div>
                   <div class="box-content">
                     <p class="box-text">
-                      "Working with Faren Design was a seamless experience from
-                      start to finish. Their architects not only understood our
-                      vision but enhanced it with creative ideas and smart,
-                      sustainable solutions. "
-                    </p>
+    "The team handled our complete interior and construction project with great professionalism. Their quality workmanship, timely delivery, and transparent communication made the entire process stress-free."
+</p>
                     <div class="box-profile">
                       <div class="box-info">
-                        <h3 class="box-title">MIchel Smith</h3>
-                        <span class="box-desig">Company Owner</span>
+                        <h3 class="box-title">Priya Kapoor</h3>
+<span class="box-desig">Residential Client</span>
                       </div>
                       <div class="box-rating">
                         <span class="rating">4.9/5.0</span>
@@ -2028,7 +1413,7 @@
                   <div class="box-author">
                     <img
                       class="img"
-                      src="assets/img/testimonial/testi_4_1.png"
+                      src="assets/img/testimonial/testi_4_1."
                       alt="Avater"
                     />
                     <div class="box-quote">
@@ -2066,7 +1451,7 @@
         </div>
       </div>
     </section>
-    <div class="overflow-hidden space-bottom overflow-hidden bg-smoke2">
+    <!-- <div class="overflow-hidden space-bottom overflow-hidden bg-smoke2">
       <div class="container">
         <div class="title-area text-center">
           <span class="sub-title style3 text-anime"
@@ -2227,26 +1612,27 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <section
       class="blog-area overflow-hidden space overflow-hidden"
       id="blog-sec"
     >
-      <div class="container">
+      <div class="container px-5">
         <div
           class="row justify-content-lg-between justify-content-center align-items-end"
         >
           <div class="col-lg-8">
             <div class="title-area text-center text-lg-start">
-              <span class="sub-title style3 text-anime">blog & news</span>
-              <h2 class="sec-title reveal-title">
-                Browse Our Latest <span class="text-theme">Articles</span>& News
-              </h2>
+              <span class="sub-title style3 text-anime">Interior Design Blog</span>
+
+<h2 class="sec-title reveal-title">
+    Latest <span class="text-theme">Interior Design</span> Tips & Ideas
+</h2>
             </div>
           </div>
           <div class="col-auto">
             <div class="sec-btn wow fadeInUp">
-              <a href="blog.html" class="th-btn black-border">Browse All</a>
+              <a href="blog.html" class="th-btn black-border">View All Articles</a>
             </div>
           </div>
         </div>
@@ -2263,21 +1649,21 @@
                     <img src="assets/img/blog/blog_3_1.jpg" alt="blog image" />
                     <div class="box-date">
                       <span class="date">15</span>
-                      <span class="month">AUG, 2025</span>
+                      <span class="month">Feb, 2026</span>
                     </div>
                   </div>
                   <div class="box-content">
                     <div class="blog-meta">
-                      <a href="blog.html">Lighting</a>
-                      <a href="blog.html">by Alex Turner</a>
-                    </div>
-                    <h3 class="box-title">
-                      <a href="blog-details.html"
-                        >How does proper lighting enhance the ambiance of a
-                        room?</a
-                      >
-                    </h3>
-                    <a href="blog-details.html" class="th-btn black-border"
+    <a href="blog.html">Interior Design</a>
+    <a href="blog.html">Interior Zone</a>
+</div>
+
+<h3 class="box-title">
+    <a href="blog-details.html">
+        Top Interior Design Trends for Modern Homes in Delhi
+    </a>
+</h3>
+                    <a href="blog.php" class="th-btn black-border"
                       >Read More</a
                     >
                   </div>
@@ -2289,20 +1675,20 @@
                     <img src="assets/img/blog/blog_3_2.jpg" alt="blog image" />
                     <div class="box-date">
                       <span class="date">18</span>
-                      <span class="month">AUG, 2025</span>
+                      <span class="month">Mar, 2026</span>
                     </div>
                   </div>
                   <div class="box-content">
                     <div class="blog-meta">
-                      <a href="blog.html">Interior</a>
-                      <a href="blog.html">by Johon Smith</a>
-                    </div>
-                    <h3 class="box-title">
-                      <a href="blog-details.html"
-                        >Are custom-made sofas a good choice for premium quality
-                        interior design?</a
-                      >
-                    </h3>
+    <a href="blog.html">Modular Kitchen</a>
+    <a href="blog.html">Interior Zone</a>
+</div>
+
+<h3 class="box-title">
+    <a href="blog-details.html">
+        How to Choose the Perfect Modular Kitchen for Your Home
+    </a>
+</h3>
                     <a href="blog-details.html" class="th-btn black-border"
                       >Read More</a
                     >
@@ -2315,20 +1701,20 @@
                     <img src="assets/img/blog/blog_3_3.jpg" alt="blog image" />
                     <div class="box-date">
                       <span class="date">22</span>
-                      <span class="month">AUG, 2025</span>
+                      <span class="month">Apr, 2026</span>
                     </div>
                   </div>
                   <div class="box-content">
                     <div class="blog-meta">
-                      <a href="blog.html">Interior</a>
-                      <a href="blog.html">by Johon Smith</a>
-                    </div>
-                    <h3 class="box-title">
-                      <a href="blog-details.html"
-                        >Are custom-made sofas a good choice for premium quality
-                        interior design?</a
-                      >
-                    </h3>
+    <a href="blog.html">Architecture</a>
+    <a href="blog.html">Interior Zone</a>
+</div>
+
+<h3 class="box-title">
+    <a href="blog-details.html">
+        Benefits of Professional Architecture and Space Planning
+    </a>
+</h3>
                     <a href="blog-details.html" class="th-btn black-border"
                       >Read More</a
                     >
@@ -2430,7 +1816,7 @@
         </div>
       </div>
     </section>
-   
+
     <?php include 'footer.php'; ?>
     <div class="scroll-top">
       <svg
@@ -2449,6 +1835,17 @@
         ></path>
       </svg>
     </div>
+
+    <script>
+window.addEventListener('load', function () {
+    const preloader = document.querySelector('.preloader');
+    preloader.style.opacity = '0';
+    
+    setTimeout(function () {
+        preloader.style.display = 'none';
+    }, 500);
+});
+</script>
     <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>

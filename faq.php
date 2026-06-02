@@ -147,12 +147,9 @@
       <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
         <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
       </svg>
-      <div class="loader-wrap-heading">
-        <div class="load-text">
-          <span>L</span> <span>o</span> <span>a</span> <span>d</span>
-          <span>i</span> <span>n</span> <span>g</span>
-        </div>
-      </div>
+       <div class="preloader" style="position:fixed;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:99999;display:flex;align-items:center;justify-content:center;transition:opacity .5s ease;">
+    <img src="assets/img/logo1.png" alt="Interior Zone" style="width:300px;height:auto;">
+</div>
     </div>
     <div class="sidemenu-wrapper">
       <div class="sidemenu-content">
@@ -1050,6 +1047,16 @@
         ></path>
       </svg>
     </div>
+    <script>
+window.addEventListener('load', function () {
+    const preloader = document.querySelector('.preloader');
+    preloader.style.opacity = '0';
+    
+    setTimeout(function () {
+        preloader.style.display = 'none';
+    }, 500);
+});
+</script>
     <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>

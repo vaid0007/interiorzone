@@ -2,111 +2,101 @@
 <html class="no-js" lang="zxx">
   <!-- Mirrored from html.themehour.net/faren/demo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 May 2026 18:56:27 GMT -->
   <head>
+    <!-- Basic Page Needs -->
     <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Faren - Architecture & Interior Design Template - Contact Us</title>
-    <meta name="author" content="themeholy" />
-    <meta
-      name="description"
-      content="Faren   - Architecture & Interior Design Template"
-    />
-    <meta
-      name="keywords"
-      content="Faren   - Architecture & Interior Design Template"
-    />
-    <meta name="robots" content="INDEX,FOLLOW" />
-    <meta
-      name="viewport"
-      content="width=device-width,initial-scale=1,shrink-to-fit=no"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="57x57"
-      href="assets/img/favicons/apple-icon-57x57.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="60x60"
-      href="assets/img/favicons/apple-icon-60x60.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="72x72"
-      href="assets/img/favicons/apple-icon-72x72.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="76x76"
-      href="assets/img/favicons/apple-icon-76x76.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="114x114"
-      href="assets/img/favicons/apple-icon-114x114.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="120x120"
-      href="assets/img/favicons/apple-icon-120x120.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="144x144"
-      href="assets/img/favicons/apple-icon-144x144.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="152x152"
-      href="assets/img/favicons/apple-icon-152x152.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="assets/img/favicons/apple-icon-180x180.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="192x192"
-      href="assets/img/favicons/android-icon-192x192.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="assets/img/favicons/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="96x96"
-      href="assets/img/favicons/favicon-96x96.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="assets/img/favicons/favicon-16x16.png"
-    />
-    <link rel="manifest" href="assets/img/favicons/manifest.json" />
-    <meta name="msapplication-TileColor" content="#ffffff" />
-    <meta
-      name="msapplication-TileImage"
-      content="assets/img/favicons/ms-icon-144x144.png"
-    />
-    <meta name="theme-color" content="#ffffff" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- SEO -->
+    <title>Contact Interior Zone | Interior Designer in Janakpuri East, Delhi</title>
+
+    <meta name="title" content="Contact Interior Zone | Interior Designer in Janakpuri East, Delhi" />
+
+    <meta name="description"
+        content="Contact Interior Zone for Interior Design, Architecture, Construction, Modular Kitchen, Renovation, Wood Work and Turnkey Project Solutions in Janakpuri East, New Delhi." />
+
+    <meta name="keywords"
+        content="Contact Interior Zone, Interior Designer Janakpuri East, Interior Design Delhi, Architecture Services Delhi, Construction Company Delhi, Modular Kitchen Delhi, Home Interior Designer Delhi, Office Interior Design Delhi, Turnkey Solutions Delhi" />
+
+    <meta name="author" content="Interior Zone" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="English" />
+
+    <!-- Mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://yourdomain.com/contact.html" />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#111111" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Contact Interior Zone | Interior Design Experts" />
+    <meta property="og:description"
+        content="Get in touch with Interior Zone for premium interior design, architecture, construction and renovation services in Delhi NCR." />
+    <meta property="og:url" content="https://yourdomain.com/contact.html" />
+    <meta property="og:site_name" content="Interior Zone" />
+    <meta property="og:image" content="assets/img/logo1.png" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Contact Interior Zone" />
+    <meta name="twitter:description"
+        content="Talk to our interior design and construction experts in Janakpuri East, New Delhi." />
+    <meta name="twitter:image" content="assets/img/logo1.png" />
+
+    <!-- Local SEO -->
+    <meta name="geo.region" content="IN-DL" />
+    <meta name="geo.placename" content="Janakpuri East, New Delhi" />
+    <meta name="geo.position" content="28.6278;77.0910" />
+    <meta name="ICBM" content="28.6278,77.0910" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png" />
+    <link rel="icon" href="assets/img/favicons/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-chrome-192x192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/favicons/android-chrome-512x512.png" />
+    <link rel="manifest" href="assets/img/favicons/site.webmanifest" />
+
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet" />
+
+    <!-- CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
-  </head>
+
+    <!-- Contact Page Schema -->
+    <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"ContactPage",
+      "name":"Contact Interior Zone",
+      "url":"https://yourdomain.com/contact.html",
+      "mainEntity":{
+        "@type":"LocalBusiness",
+        "name":"Interior Zone",
+        "telephone":"+91-9217664414",
+        "address":{
+          "@type":"PostalAddress",
+          "streetAddress":"G-36 Jaina Tower-II, District Centre",
+          "addressLocality":"Janakpuri East",
+          "addressRegion":"Delhi",
+          "postalCode":"110058",
+          "addressCountry":"IN"
+        }
+      }
+    }
+    </script>
+
+</head>
   <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
@@ -145,12 +135,9 @@
       <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
         <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
       </svg>
-      <div class="loader-wrap-heading">
-        <div class="load-text">
-          <span>L</span> <span>o</span> <span>a</span> <span>d</span>
-          <span>i</span> <span>n</span> <span>g</span>
-        </div>
-      </div>
+       <div class="preloader" style="position:fixed;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:99999;display:flex;align-items:center;justify-content:center;transition:opacity .5s ease;">
+    <img src="assets/img/logo1.png" alt="Interior Zone" style="width:300px;height:auto;">
+</div>
     </div>
     <div class="sidemenu-wrapper">
       <div class="sidemenu-content">
@@ -621,6 +608,16 @@
         ></path>
       </svg>
     </div>
+    <script>
+window.addEventListener('load', function () {
+    const preloader = document.querySelector('.preloader');
+    preloader.style.opacity = '0';
+    
+    setTimeout(function () {
+        preloader.style.display = 'none';
+    }, 500);
+});
+</script>
     <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>

@@ -2,113 +2,92 @@
 <html class="no-js" lang="zxx">
   <!-- Mirrored from html.themehour.net/faren/demo/blog-grid.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 May 2026 18:56:18 GMT -->
   <head>
+    <!-- Basic Page Needs -->
     <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>
-      Faren - Architecture & Interior Design Template - Blog Grid View
-    </title>
-    <meta name="author" content="themeholy" />
-    <meta
-      name="description"
-      content="Faren   - Architecture & Interior Design Template"
-    />
-    <meta
-      name="keywords"
-      content="Faren   - Architecture & Interior Design Template"
-    />
-    <meta name="robots" content="INDEX,FOLLOW" />
-    <meta
-      name="viewport"
-      content="width=device-width,initial-scale=1,shrink-to-fit=no"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="57x57"
-      href="assets/img/favicons/apple-icon-57x57.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="60x60"
-      href="assets/img/favicons/apple-icon-60x60.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="72x72"
-      href="assets/img/favicons/apple-icon-72x72.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="76x76"
-      href="assets/img/favicons/apple-icon-76x76.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="114x114"
-      href="assets/img/favicons/apple-icon-114x114.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="120x120"
-      href="assets/img/favicons/apple-icon-120x120.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="144x144"
-      href="assets/img/favicons/apple-icon-144x144.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="152x152"
-      href="assets/img/favicons/apple-icon-152x152.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="assets/img/favicons/apple-icon-180x180.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="192x192"
-      href="assets/img/favicons/android-icon-192x192.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="assets/img/favicons/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="96x96"
-      href="assets/img/favicons/favicon-96x96.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="assets/img/favicons/favicon-16x16.png"
-    />
-    <link rel="manifest" href="assets/img/favicons/manifest.json" />
-    <meta name="msapplication-TileColor" content="#ffffff" />
-    <meta
-      name="msapplication-TileImage"
-      content="assets/img/favicons/ms-icon-144x144.png"
-    />
-    <meta name="theme-color" content="#ffffff" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <!-- SEO -->
+    <title>Interior Design Blog | Interior Zone Delhi</title>
+
+    <meta name="title" content="Interior Design Blog | Interior Zone Delhi" />
+
+    <meta name="description"
+        content="Explore expert interior design tips, modular kitchen ideas, home renovation guides, architecture trends, office design inspiration, and construction advice from Interior Zone." />
+
+    <meta name="keywords"
+        content="Interior Design Blog Delhi, Home Interior Ideas, Modular Kitchen Tips, Interior Design Trends, Office Interior Design, Home Renovation Guide, Architecture Blog Delhi, Construction Tips, Interior Zone Blog" />
+
+    <meta name="author" content="Interior Zone" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="English" />
+
+    <!-- Mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://yourdomain.com/blog.html" />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#111111" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Interior Design Blog | Interior Zone" />
+    <meta property="og:description"
+        content="Get the latest interior design trends, home décor ideas, modular kitchen inspiration, architecture insights and renovation tips." />
+    <meta property="og:url" content="https://yourdomain.com/blog.html" />
+    <meta property="og:site_name" content="Interior Zone" />
+    <meta property="og:image" content="assets/img/logo1.png" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Interior Design Blog | Interior Zone" />
+    <meta name="twitter:description"
+        content="Expert interior design, architecture, renovation and home décor articles from Interior Zone." />
+    <meta name="twitter:image" content="assets/img/logo1.png" />
+
+    <!-- Local SEO -->
+    <meta name="geo.region" content="IN-DL" />
+    <meta name="geo.placename" content="Janakpuri East, New Delhi" />
+    <meta name="geo.position" content="28.6278;77.0910" />
+    <meta name="ICBM" content="28.6278,77.0910" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png" />
+    <link rel="icon" href="assets/img/favicons/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-chrome-192x192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/favicons/android-chrome-512x512.png" />
+    <link rel="manifest" href="assets/img/favicons/site.webmanifest" />
+
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet" />
+
+    <!-- CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
-  </head>
+
+    <!-- Blog Schema -->
+    <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"Blog",
+      "name":"Interior Zone Blog",
+      "description":"Interior design, architecture, construction and renovation articles by Interior Zone.",
+      "publisher":{
+        "@type":"Organization",
+        "name":"Interior Zone"
+      }
+    }
+    </script>
+
+</head>
   <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
@@ -147,12 +126,9 @@
       <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
         <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
       </svg>
-      <div class="loader-wrap-heading">
-        <div class="load-text">
-          <span>L</span> <span>o</span> <span>a</span> <span>d</span>
-          <span>i</span> <span>n</span> <span>g</span>
-        </div>
-      </div>
+      <div class="preloader" style="position:fixed;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:99999;display:flex;align-items:center;justify-content:center;transition:opacity .5s ease;">
+    <img src="assets/img/logo1.png" alt="Interior Zone" style="width:300px;height:auto;">
+</div>
     </div>
     <div class="sidemenu-wrapper">
       <div class="sidemenu-content">
@@ -722,6 +698,17 @@
         ></path>
       </svg>
     </div>
+
+    <script>
+window.addEventListener('load', function () {
+    const preloader = document.querySelector('.preloader');
+    preloader.style.opacity = '0';
+    
+    setTimeout(function () {
+        preloader.style.display = 'none';
+    }, 500);
+});
+</script>
     <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>

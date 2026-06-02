@@ -7,9 +7,9 @@
                 <div class="header-logo">
                   <a href="home-interior.html">
                     <img
-                      src="assets/img/logo1.png"
+                      src="assets/img/IZ_logo1.png"
                       alt="Faren"
-                      style="width: 220px; height: 70px"
+                      style="width: 200px;"
                     />
                   </a>
                 </div>
@@ -24,8 +24,15 @@
                       <a href="about.php">About</a>
                     </li>
                     <li class="menu-item-has-children">
-                      <a href="service-details.php">Services</a>
-                    </li>
+    <a href="interior-design.php">Services</a>
+    <ul class="sub-menu">
+        <li><a href="interior-design.php">Interior Design</a></li>
+        <li><a href="modular-kitchen.php">Modular Kitchen</a></li>
+        <li><a href="architecture-services.php">Architecture & Planning</a></li>
+        <li><a href="construction-renovation.php">Construction & Renovation</a></li>
+        <li><a href="commercial-interior-design.php">Commercial Interior Design</a></li>
+    </ul>
+</li>
                     <li class="">
                       <a href="gallery.php">gallery</a>
                     </li>
@@ -45,12 +52,7 @@
                       ><img src="assets/img/icon/call.svg" alt="" /> </span
                     >+91 9217664414</a
                   >
-                  <button
-                    type="button"
-                    class="icon-btn sideMenuToggler d-none d-lg-block"
-                  >
-                    <i class="fa-regular fa-bars"></i>
-                  </button>
+                  
                   <button
                     type="button"
                     class="th-menu-toggle d-block d-lg-none"
