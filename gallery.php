@@ -7,43 +7,62 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
     <!-- SEO -->
-    <title>Project Gallery | Interior Design Portfolio | Interior Zone Delhi</title>
+    <title>
+      Project Gallery | Interior Design Portfolio | Interior Zone Delhi
+    </title>
 
-    <meta name="title" content="Project Gallery | Interior Design Portfolio | Interior Zone Delhi" />
+    <meta
+      name="title"
+      content="Project Gallery | Interior Design Portfolio | Interior Zone Delhi"
+    />
 
-    <meta name="description"
-        content="Explore Interior Zone's gallery showcasing luxury home interiors, modular kitchens, office interiors, architecture projects, construction work, and renovation projects completed across Delhi NCR." />
+    <meta
+      name="description"
+      content="Explore Interior Zone's gallery showcasing luxury home interiors, modular kitchens, office interiors, architecture projects, construction work, and renovation projects completed across Delhi NCR."
+    />
 
-    <meta name="keywords"
-        content="Interior Design Gallery Delhi, Interior Design Portfolio, Home Interior Projects Delhi, Modular Kitchen Gallery, Office Interior Design Delhi, Architecture Portfolio Delhi, Construction Projects Delhi, Interior Zone Gallery, Luxury Interior Design Delhi" />
+    <meta
+      name="keywords"
+      content="Interior Design Gallery Delhi, Interior Design Portfolio, Home Interior Projects Delhi, Modular Kitchen Gallery, Office Interior Design Delhi, Architecture Portfolio Delhi, Construction Projects Delhi, Interior Zone Gallery, Luxury Interior Design Delhi"
+    />
 
     <meta name="author" content="Interior Zone" />
     <meta name="robots" content="index, follow" />
     <meta name="language" content="English" />
 
     <!-- Mobile -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://yourdomain.com/gallery.html" />
+    <link rel="canonical" href="https://yourdomain.com/gallery" />
 
     <!-- Theme Color -->
     <meta name="theme-color" content="#111111" />
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Interior Zone Gallery | Interior Design Portfolio" />
-    <meta property="og:description"
-        content="View our completed interior design, architecture, modular kitchen, office interior, and construction projects across Delhi NCR." />
-    <meta property="og:url" content="https://yourdomain.com/gallery.html" />
+    <meta
+      property="og:title"
+      content="Interior Zone Gallery | Interior Design Portfolio"
+    />
+    <meta
+      property="og:description"
+      content="View our completed interior design, architecture, modular kitchen, office interior, and construction projects across Delhi NCR."
+    />
+    <meta property="og:url" content="https://yourdomain.com/gallery" />
     <meta property="og:site_name" content="Interior Zone" />
     <meta property="og:image" content="assets/img/logo1.png" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Interior Zone Project Gallery" />
-    <meta name="twitter:description"
-        content="Browse our premium interior design, architecture, renovation and construction project gallery." />
+    <meta
+      name="twitter:description"
+      content="Browse our premium interior design, architecture, renovation and construction project gallery."
+    />
     <meta name="twitter:image" content="assets/img/logo1.png" />
 
     <!-- Local SEO -->
@@ -53,18 +72,45 @@
     <meta name="ICBM" content="28.6278,77.0910" />
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/img/favicons/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/img/favicons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/img/favicons/favicon-16x16.png"
+    />
     <link rel="icon" href="assets/img/favicons/favicon.ico" />
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-chrome-192x192.png" />
-    <link rel="icon" type="image/png" sizes="512x512" href="assets/img/favicons/android-chrome-512x512.png" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="assets/img/favicons/android-chrome-192x192.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="512x512"
+      href="assets/img/favicons/android-chrome-512x512.png"
+    />
     <link rel="manifest" href="assets/img/favicons/site.webmanifest" />
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap"
+      rel="stylesheet"
+    />
 
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
@@ -75,61 +121,48 @@
 
     <!-- Gallery Schema -->
     <script type="application/ld+json">
-    {
-      "@context":"https://schema.org",
-      "@type":"ImageGallery",
-      "name":"Interior Zone Project Gallery",
-      "description":"Portfolio of interior design, architecture, construction, renovation and modular kitchen projects completed by Interior Zone.",
-      "url":"https://yourdomain.com/gallery.html",
-      "publisher":{
-        "@type":"Organization",
-        "name":"Interior Zone"
+      {
+        "@context": "https://schema.org",
+        "@type": "ImageGallery",
+        "name": "Interior Zone Project Gallery",
+        "description": "Portfolio of interior design, architecture, construction, renovation and modular kitchen projects completed by Interior Zone.",
+        "url": "https://yourdomain.com/gallery",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Interior Zone"
+        }
       }
-    }
     </script>
-
-</head>
+  </head>
   <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
-    <div class="color-scheme-wrap active">
-      <button class="switchIcon"><i class="fa-solid fa-palette"></i></button>
-      <h4 class="color-scheme-wrap-title">
-        <i class="far fa-palette me-2"></i>Style Swicher
-      </h4>
-      <div class="color-switch-btns">
-        <button data-color="#3E66F3">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#684DF4">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#008080">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#323F7C">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#FC3737">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#8a2be2">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-      </div>
-      <a
-        href="https://themeforest.net/user/themeholy"
-        class="th-btn text-center w-100"
-        ><i class="fa fa-shopping-cart me-2"></i> Purchase</a
-      >
-    </div>
     <div class="loader-wrap">
       <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
         <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
       </svg>
-       <div class="preloader" style="position:fixed;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:99999;display:flex;align-items:center;justify-content:center;transition:opacity .5s ease;">
-    <img src="assets/img/logo1.png" alt="Interior Zone" style="width:300px;height:auto;">
-</div>
+      <div
+        class="preloader"
+        style="
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: #ffffff;
+          z-index: 99999;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          transition: opacity 0.5s ease;
+        "
+      >
+        <img
+          src="assets/img/logo1.png"
+          alt="Interior Zone"
+          style="width: 300px; height: auto"
+        />
+      </div>
     </div>
     <div class="sidemenu-wrapper">
       <div class="sidemenu-content">
@@ -139,7 +172,7 @@
         <div class="widget footer-widget mb-0">
           <div class="th-widget-about">
             <div class="about-logo">
-              <a href="index.html"
+              <a href="/"
                 ><img src="assets/img/logo.svg" alt="Faren  "
               /></a>
             </div>
@@ -155,7 +188,7 @@
           <div class="recent-post-wrap">
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-1.jpg"
                     alt="Blog Image"
@@ -163,11 +196,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -175,7 +208,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-2.jpg"
                     alt="Blog Image"
@@ -183,11 +216,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -195,7 +228,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-3.jpg"
                     alt="Blog Image"
@@ -203,11 +236,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -215,7 +248,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-4.jpg"
                     alt="Blog Image"
@@ -223,11 +256,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -264,56 +297,56 @@
       <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-          <a href="home-interior.html"
+          <a href="home-interior"
             ><img src="assets/img/logo.svg" alt="Faren  "
           /></a>
         </div>
         <div class="th-mobile-menu">
           <ul>
             <li class="menu-item-has-children">
-              <a href="home-interior.html">Home</a>
+              <a href="home-interior">Home</a>
               <ul class="sub-menu">
-                <li><a href="home-interior.html">01. Home Home Interio</a></li>
+                <li><a href="home-interior">01. Home Home Interio</a></li>
                 <li>
-                  <a href="home-architecture.html">02. Home architecture</a>
+                  <a href="home-architecture">02. Home architecture</a>
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury.html"
+                  <a href="home-minimalist-luxury"
                     >03. Home Minimalist and luxury Dark</a
                   >
                 </li>
                 <li>
-                  <a href="home-hotel-hospitality-design.html"
+                  <a href="home-hotel-hospitality-design"
                     >04. Home Hotel & Hospitality Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-green-architecture.html"
+                  <a href="home-green-architecture"
                     >05. Home Sustainable & Green Architecture</a
                   >
                 </li>
                 <li>
-                  <a href="home-industrial-factory-design.html"
+                  <a href="home-industrial-factory-design"
                     >06. Home Industrial & Factory Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-architural-solutions.html"
+                  <a href="home-real-estate-architural-solutions"
                     >07. Real Estate Architural solutions</a
                   >
                 </li>
                 <li>
-                  <a href="landscape-exterior-design.html"
+                  <a href="landscape-exterior-design"
                     >08. Landscape Exterior Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury-light.html"
+                  <a href="home-minimalist-luxury-light"
                     >09. Home Minimalist and luxury Light</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-property.html"
+                  <a href="home-real-estate-property"
                     >10. Home Real Estate Property</a
                   >
                 </li>
@@ -322,22 +355,22 @@
             <li class="menu-item-has-children">
               <a href="#">About</a>
               <ul class="sub-menu">
-                <li><a href="about.html">About Style 1</a></li>
-                <li><a href="about-2.html">About Style 2</a></li>
+                <li><a href="about">About Style 1</a></li>
+                <li><a href="about-2">About Style 2</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Services</a>
               <ul class="sub-menu">
-                <li><a href="service.html">Services</a></li>
-                <li><a href="service-details.html">Service Details</a></li>
+                <li><a href="service">Services</a></li>
+                <li><a href="service-details">Service Details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Projects</a>
               <ul class="sub-menu">
-                <li><a href="project.html">project</a></li>
-                <li><a href="project-details.html">project details</a></li>
+                <li><a href="project">project</a></li>
+                <li><a href="project-details">project details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
@@ -346,11 +379,11 @@
                 <li class="menu-item-has-children">
                   <a href="#">Shop</a>
                   <ul class="sub-menu">
-                    <li><a href="shop.html">Shop</a></li>
-                    <li><a href="shop-details.html">Shop Details</a></li>
-                    <li><a href="cart.html">Cart Page</a></li>
-                    <li><a href="checkout.html">Checkout</a></li>
-                    <li><a href="wishlist.html">Wishlist</a></li>
+                    <li><a href="shop">Shop</a></li>
+                    <li><a href="shop-details">Shop Details</a></li>
+                    <li><a href="cart">Cart Page</a></li>
+                    <li><a href="checkout">Checkout</a></li>
+                    <li><a href="wishlist">Wishlist</a></li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -359,28 +392,28 @@
                     <li>
                       <a href="#">Blog Layout</a>
                       <ul class="sub-menu">
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
+                        <li><a href="blog">Blog</a></li>
+                        <li><a href="blog-grid">Blog Grid</a></li>
                         <li>
-                          <a href="blog-grid-sidebar.html"
+                          <a href="blog-grid-sidebar"
                             >Blog Grid With Sidebar</a
                           >
                         </li>
                       </ul>
                     </li>
-                    <li><a href="blog-details.html">Blog Details</a></li>
+                    <li><a href="blog-details">Blog Details</a></li>
                   </ul>
                 </li>
-                <li><a href="team.html">Team</a></li>
-                <li><a href="team-details.html">Team Details</a></li>
-                <li><a href="testimonial.html">Testimonial</a></li>
-                <li><a href="pricing.html">Price Table</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="error.html">Error Page</a></li>
+                <li><a href="team">Team</a></li>
+                <li><a href="team-details">Team Details</a></li>
+                <li><a href="testimonial">Testimonial</a></li>
+                <li><a href="pricing">Price Table</a></li>
+                <li><a href="gallery">Gallery</a></li>
+                <li><a href="faq">Faq</a></li>
+                <li><a href="error">Error Page</a></li>
               </ul>
             </li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="contact">Contact</a></li>
           </ul>
         </div>
       </div>
@@ -389,14 +422,14 @@
     <div class="breadcumb-area">
       <div
         class="breadcumb-wrapper"
-        data-bg-src="assets/img/bg/breadcumb-bg.jpg"
+        data-bg-src="assets/img/hero/gallery_hero.png"
       >
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">Awesome Gallery</h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="home-interior.html">Home</a>
+                <a href="/">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">Gallery Page</li>
             </ul>
@@ -408,258 +441,24 @@
         data-bg-src="assets/img/shape/scale.png"
       ></div>
     </div>
-    <div class="overflow-hidden space overflow-hidden" id="project-sec">
+    <section class="container gallery-section space px-5">
       <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-xl-7">
-            <div class="filter-menu indicator-active mb-60 filter-menu-active">
-              <button data-filter="*" class="tab-btn active" type="button">
-                View All
-              </button>
-              <button data-filter=".cat1" class="tab-btn" type="button">
-                Interior
-              </button>
-              <button data-filter=".cat2" class="tab-btn" type="button">
-                Architecture
-              </button>
-              <button data-filter=".cat3" class="tab-btn" type="button">
-                Building
-              </button>
-              <button data-filter=".cat4" class="tab-btn" type="button">
-                Exterior
-              </button>
-              <button data-filter=".cat5" class="tab-btn" type="button">
-                Shape
-              </button>
+        <div class="row g-4">
+          <?php for($i = 1; $i <= 30; $i++) { ?>
+          <div class="col-md-6 col-lg-4">
+            <div class="gallery-item overflow-hidden rounded">
+              <img
+                src="assets/img/img/<?php echo $i; ?>.jpeg"
+                class="img-fluid w-100"
+                alt="Gallery Image <?php echo $i; ?>"
+                style="height:600px; object-fit:cover;"
+              />
             </div>
           </div>
-        </div>
-        <div class="row gy-4 gallery-row filter-active">
-          <div class="col-lg-6 col-xl-4 col-xxl-auto filter-item cat2 cat5">
-            <div class="gallery-card">
-              <div class="box-img global-img">
-                <img
-                  src="assets/img/gallery/gallery_2_1.jpg"
-                  alt="gallery image"
-                />
-                <a
-                  href="assets/img/gallery/gallery_2_1.jpg"
-                  class="icon-btn th-popup-image"
-                  ><i class="far fa-plus"></i
-                ></a>
-                <div class="shape">
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                </div>
-              </div>
-              <div class="gallery-content">
-                <h2 class="box-title">Open Kitchen Interior Design</h2>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4 col-xxl-auto filter-item cat3 cat2">
-            <div class="gallery-card">
-              <div class="box-img global-img">
-                <img
-                  src="assets/img/gallery/gallery_2_2.jpg"
-                  alt="gallery image"
-                />
-                <a
-                  href="assets/img/gallery/gallery_2_2.jpg"
-                  class="icon-btn th-popup-image"
-                  ><i class="far fa-plus"></i
-                ></a>
-                <div class="shape">
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                </div>
-              </div>
-              <div class="gallery-content">
-                <h2 class="box-title">Open Kitchen Interior Design</h2>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4 col-xxl-auto filter-item cat3 cat5">
-            <div class="gallery-card">
-              <div class="box-img global-img">
-                <img
-                  src="assets/img/gallery/gallery_2_3.jpg"
-                  alt="gallery image"
-                />
-                <a
-                  href="assets/img/gallery/gallery_2_3.jpg"
-                  class="icon-btn th-popup-image"
-                  ><i class="far fa-plus"></i
-                ></a>
-                <div class="shape">
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                </div>
-              </div>
-              <div class="gallery-content">
-                <h2 class="box-title">Open Kitchen Interior Design</h2>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4 col-xxl-auto filter-item cat1 cat5">
-            <div class="gallery-card">
-              <div class="box-img global-img">
-                <img
-                  src="assets/img/gallery/gallery_2_4.jpg"
-                  alt="gallery image"
-                />
-                <a
-                  href="assets/img/gallery/gallery_2_4.jpg"
-                  class="icon-btn th-popup-image"
-                  ><i class="far fa-plus"></i
-                ></a>
-                <div class="shape">
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                </div>
-              </div>
-              <div class="gallery-content">
-                <h2 class="box-title">Open Kitchen Interior Design</h2>
-              </div>
-            </div>
-          </div>
-          <div
-            class="col-lg-6 col-xl-4 col-xxl-auto filter-item cat4 cat2 cat1"
-          >
-            <div class="gallery-card">
-              <div class="box-img global-img">
-                <img
-                  src="assets/img/gallery/gallery_2_5.jpg"
-                  alt="gallery image"
-                />
-                <a
-                  href="assets/img/gallery/gallery_2_5.jpg"
-                  class="icon-btn th-popup-image"
-                  ><i class="far fa-plus"></i
-                ></a>
-                <div class="shape">
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                </div>
-              </div>
-              <div class="gallery-content">
-                <h2 class="box-title">Open Kitchen Interior Design</h2>
-              </div>
-            </div>
-          </div>
-          <div
-            class="col-lg-6 col-xl-4 col-xxl-auto filter-item cat4 cat3 cat1"
-          >
-            <div class="gallery-card">
-              <div class="box-img global-img">
-                <img
-                  src="assets/img/gallery/gallery_2_6.jpg"
-                  alt="gallery image"
-                />
-                <a
-                  href="assets/img/gallery/gallery_2_6.jpg"
-                  class="icon-btn th-popup-image"
-                  ><i class="far fa-plus"></i
-                ></a>
-                <div class="shape">
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                </div>
-              </div>
-              <div class="gallery-content">
-                <h2 class="box-title">Open Kitchen Interior Design</h2>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4 col-xxl-auto filter-item cat3 cat5">
-            <div class="gallery-card">
-              <div class="box-img global-img">
-                <img
-                  src="assets/img/gallery/gallery_2_7.jpg"
-                  alt="gallery image"
-                />
-                <a
-                  href="assets/img/gallery/gallery_2_7.jpg"
-                  class="icon-btn th-popup-image"
-                  ><i class="far fa-plus"></i
-                ></a>
-                <div class="shape">
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                </div>
-              </div>
-              <div class="gallery-content">
-                <h2 class="box-title">Open Kitchen Interior Design</h2>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4 col-xxl-auto filter-item cat1 cat5">
-            <div class="gallery-card">
-              <div class="box-img global-img">
-                <img
-                  src="assets/img/gallery/gallery_2_8.jpg"
-                  alt="gallery image"
-                />
-                <a
-                  href="assets/img/gallery/gallery_2_8.jpg"
-                  class="icon-btn th-popup-image"
-                  ><i class="far fa-plus"></i
-                ></a>
-                <div class="shape">
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                </div>
-              </div>
-              <div class="gallery-content">
-                <h2 class="box-title">Open Kitchen Interior Design</h2>
-              </div>
-            </div>
-          </div>
-          <div
-            class="col-lg-6 col-xl-4 col-xxl-auto filter-item cat4 cat2 cat1"
-          >
-            <div class="gallery-card">
-              <div class="box-img global-img">
-                <img
-                  src="assets/img/gallery/gallery_2_9.jpg"
-                  alt="gallery image"
-                />
-                <a
-                  href="assets/img/gallery/gallery_2_9.jpg"
-                  class="icon-btn th-popup-image"
-                  ><i class="far fa-plus"></i
-                ></a>
-                <div class="shape">
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                  <div class="dot"></div>
-                </div>
-              </div>
-              <div class="gallery-content">
-                <h2 class="box-title">Open Kitchen Interior Design</h2>
-              </div>
-            </div>
-          </div>
+          <?php } ?>
         </div>
       </div>
-    </div>
+    </section>
     <?php include 'footer.php'; ?>
     <div class="scroll-top">
       <svg
@@ -679,15 +478,15 @@
       </svg>
     </div>
     <script>
-window.addEventListener('load', function () {
-    const preloader = document.querySelector('.preloader');
-    preloader.style.opacity = '0';
-    
-    setTimeout(function () {
-        preloader.style.display = 'none';
-    }, 500);
-});
-</script>
+      window.addEventListener("load", function () {
+        const preloader = document.querySelector(".preloader");
+        preloader.style.opacity = "0";
+
+        setTimeout(function () {
+          preloader.style.display = "none";
+        }, 500);
+      });
+    </script>
     <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>

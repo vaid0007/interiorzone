@@ -25,7 +25,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://yourdomain.com/blog.html" />
+    <link rel="canonical" href="https://yourdomain.com/blog" />
 
     <!-- Theme Color -->
     <meta name="theme-color" content="#111111" />
@@ -35,7 +35,7 @@
     <meta property="og:title" content="Interior Design Blog | Interior Zone" />
     <meta property="og:description"
         content="Get the latest interior design trends, home décor ideas, modular kitchen inspiration, architecture insights and renovation tips." />
-    <meta property="og:url" content="https://yourdomain.com/blog.html" />
+    <meta property="og:url" content="https://yourdomain.com/blog" />
     <meta property="og:site_name" content="Interior Zone" />
     <meta property="og:image" content="assets/img/logo1.png" />
 
@@ -91,37 +91,7 @@
   <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
-    <div class="color-scheme-wrap active">
-      <button class="switchIcon"><i class="fa-solid fa-palette"></i></button>
-      <h4 class="color-scheme-wrap-title">
-        <i class="far fa-palette me-2"></i>Style Swicher
-      </h4>
-      <div class="color-switch-btns">
-        <button data-color="#3E66F3">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#684DF4">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#008080">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#323F7C">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#FC3737">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#8a2be2">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-      </div>
-      <a
-        href="https://themeforest.net/user/themeholy"
-        class="th-btn text-center w-100"
-        ><i class="fa fa-shopping-cart me-2"></i> Purchase</a
-      >
-    </div>
+    
     <div class="loader-wrap">
       <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
         <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
@@ -138,7 +108,7 @@
         <div class="widget footer-widget mb-0">
           <div class="th-widget-about">
             <div class="about-logo">
-              <a href="index.html"
+              <a href="/"
                 ><img src="assets/img/logo.svg" alt="Faren  "
               /></a>
             </div>
@@ -154,7 +124,7 @@
           <div class="recent-post-wrap">
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="#"
                   ><img
                     src="assets/img/blog/recent-post-1-1.jpg"
                     alt="Blog Image"
@@ -162,11 +132,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="#"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -174,7 +144,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="#"
                   ><img
                     src="assets/img/blog/recent-post-1-2.jpg"
                     alt="Blog Image"
@@ -182,11 +152,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="#"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -194,7 +164,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="#"
                   ><img
                     src="assets/img/blog/recent-post-1-3.jpg"
                     alt="Blog Image"
@@ -202,11 +172,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="#"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -214,7 +184,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="#"
                   ><img
                     src="assets/img/blog/recent-post-1-4.jpg"
                     alt="Blog Image"
@@ -222,11 +192,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="#"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -263,56 +233,56 @@
       <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-          <a href="home-interior.html"
+          <a href="home-interior"
             ><img src="assets/img/logo.svg" alt="Faren  "
           /></a>
         </div>
         <div class="th-mobile-menu">
           <ul>
             <li class="menu-item-has-children">
-              <a href="home-interior.html">Home</a>
+              <a href="home-interior">Home</a>
               <ul class="sub-menu">
-                <li><a href="home-interior.html">01. Home Home Interio</a></li>
+                <li><a href="home-interior">01. Home Home Interio</a></li>
                 <li>
-                  <a href="home-architecture.html">02. Home architecture</a>
+                  <a href="home-architecture">02. Home architecture</a>
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury.html"
+                  <a href="home-minimalist-luxury"
                     >03. Home Minimalist and luxury Dark</a
                   >
                 </li>
                 <li>
-                  <a href="home-hotel-hospitality-design.html"
+                  <a href="home-hotel-hospitality-design"
                     >04. Home Hotel & Hospitality Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-green-architecture.html"
+                  <a href="home-green-architecture"
                     >05. Home Sustainable & Green Architecture</a
                   >
                 </li>
                 <li>
-                  <a href="home-industrial-factory-design.html"
+                  <a href="home-industrial-factory-design"
                     >06. Home Industrial & Factory Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-architural-solutions.html"
+                  <a href="home-real-estate-architural-solutions"
                     >07. Real Estate Architural solutions</a
                   >
                 </li>
                 <li>
-                  <a href="landscape-exterior-design.html"
+                  <a href="landscape-exterior-design"
                     >08. Landscape Exterior Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury-light.html"
+                  <a href="home-minimalist-luxury-light"
                     >09. Home Minimalist and luxury Light</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-property.html"
+                  <a href="home-real-estate-property"
                     >10. Home Real Estate Property</a
                   >
                 </li>
@@ -321,22 +291,22 @@
             <li class="menu-item-has-children">
               <a href="#">About</a>
               <ul class="sub-menu">
-                <li><a href="about.html">About Style 1</a></li>
-                <li><a href="about-2.html">About Style 2</a></li>
+                <li><a href="about">About Style 1</a></li>
+                <li><a href="about-2">About Style 2</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Services</a>
               <ul class="sub-menu">
-                <li><a href="service.html">Services</a></li>
-                <li><a href="service-details.html">Service Details</a></li>
+                <li><a href="service">Services</a></li>
+                <li><a href="service-details">Service Details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Projects</a>
               <ul class="sub-menu">
-                <li><a href="project.html">project</a></li>
-                <li><a href="project-details.html">project details</a></li>
+                <li><a href="project">project</a></li>
+                <li><a href="project-details">project details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
@@ -345,11 +315,11 @@
                 <li class="menu-item-has-children">
                   <a href="#">Shop</a>
                   <ul class="sub-menu">
-                    <li><a href="shop.html">Shop</a></li>
-                    <li><a href="shop-details.html">Shop Details</a></li>
-                    <li><a href="cart.html">Cart Page</a></li>
-                    <li><a href="checkout.html">Checkout</a></li>
-                    <li><a href="wishlist.html">Wishlist</a></li>
+                    <li><a href="shop">Shop</a></li>
+                    <li><a href="shop-details">Shop Details</a></li>
+                    <li><a href="cart">Cart Page</a></li>
+                    <li><a href="checkout">Checkout</a></li>
+                    <li><a href="wishlist">Wishlist</a></li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -358,28 +328,28 @@
                     <li>
                       <a href="#">Blog Layout</a>
                       <ul class="sub-menu">
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
+                        <li><a href="blog">Blog</a></li>
+                        <li><a href="blog-grid">Blog Grid</a></li>
                         <li>
-                          <a href="blog-grid-sidebar.html"
+                          <a href="blog-grid-sidebar"
                             >Blog Grid With Sidebar</a
                           >
                         </li>
                       </ul>
                     </li>
-                    <li><a href="blog-details.html">Blog Details</a></li>
+                    <li><a href="#">Blog Details</a></li>
                   </ul>
                 </li>
-                <li><a href="team.html">Team</a></li>
-                <li><a href="team-details.html">Team Details</a></li>
-                <li><a href="testimonial.html">Testimonial</a></li>
-                <li><a href="pricing.html">Price Table</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="error.html">Error Page</a></li>
+                <li><a href="team">Team</a></li>
+                <li><a href="team-details">Team Details</a></li>
+                <li><a href="testimonial">Testimonial</a></li>
+                <li><a href="pricing">Price Table</a></li>
+                <li><a href="gallery">Gallery</a></li>
+                <li><a href="faq">Faq</a></li>
+                <li><a href="error">Error Page</a></li>
               </ul>
             </li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="contact">Contact</a></li>
           </ul>
         </div>
       </div>
@@ -388,14 +358,14 @@
     <div class="breadcumb-area">
       <div
         class="breadcumb-wrapper"
-        data-bg-src="assets/img/bg/breadcumb-bg.jpg"
+        data-bg-src="assets/img/hero/blog_hero.png"
       >
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">Blog Grid View</h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="home-interior.html">Home</a>
+                <a href="home-interior">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">All Blogs</li>
             </ul>
@@ -413,23 +383,23 @@
           <div class="col-lg-6 col-xl-4">
             <div class="th-blog blog-single has-post-thumbnail single-grid">
               <div class="blog-img global-img">
-                <a href="blog-details.html"
+                <a href="#"
                   ><img src="assets/img/blog/blog-grid-1.jpg" alt="Blog Image"
                 /></a>
               </div>
               <div class="blog-content">
                 <div class="blog-meta">
-                  <a href="blog.html">Interior</a>
-                  <a class="author" href="blog.html">by Johon Smith</a>
+                  <a href="blog">Interior</a>
+                  <a class="author" href="blog">by Johon Smith</a>
                 </div>
                 <h2 class="box-title">
-                  <a href="blog-details.html"
+                  <a href="#"
                     >Are custom-made sofas a good choice for premium quality
                     interior design?</a
                   >
                 </h2>
                 <div class="btn-group justify-content-between">
-                  <a href="contact.html" class="th-btn th-border">Read More</a>
+                  <a href="contact" class="th-btn th-border">Read More</a>
                   <div class="blog-date">
                     <span class="date">18</span>
                     <span class="month">JUNE 2025</span>
@@ -441,23 +411,23 @@
           <div class="col-lg-6 col-xl-4">
             <div class="th-blog blog-single has-post-thumbnail single-grid">
               <div class="blog-img global-img">
-                <a href="blog-details.html"
+                <a href="#"
                   ><img src="assets/img/blog/blog-grid-2.jpg" alt="Blog Image"
                 /></a>
               </div>
               <div class="blog-content">
                 <div class="blog-meta">
-                  <a href="blog.html">Interior</a>
-                  <a class="author" href="blog.html">by Johon Smith</a>
+                  <a href="blog">Interior</a>
+                  <a class="author" href="blog">by Johon Smith</a>
                 </div>
                 <h2 class="box-title">
-                  <a href="blog-details.html"
+                  <a href="#"
                     >Are custom-made sofas a good choice for premium quality
                     interior design?</a
                   >
                 </h2>
                 <div class="btn-group justify-content-between">
-                  <a href="contact.html" class="th-btn th-border">Read More</a>
+                  <a href="contact" class="th-btn th-border">Read More</a>
                   <div class="blog-date">
                     <span class="date">18</span>
                     <span class="month">JUNE 2025</span>
@@ -469,23 +439,23 @@
           <div class="col-lg-6 col-xl-4">
             <div class="th-blog blog-single has-post-thumbnail single-grid">
               <div class="blog-img global-img">
-                <a href="blog-details.html"
+                <a href="#"
                   ><img src="assets/img/blog/blog-grid-3.jpg" alt="Blog Image"
                 /></a>
               </div>
               <div class="blog-content">
                 <div class="blog-meta">
-                  <a href="blog.html">Interior</a>
-                  <a class="author" href="blog.html">by Johon Smith</a>
+                  <a href="blog">Interior</a>
+                  <a class="author" href="blog">by Johon Smith</a>
                 </div>
                 <h2 class="box-title">
-                  <a href="blog-details.html"
+                  <a href="#"
                     >What are the latest trends in outdoor living spaces for
                     2025?</a
                   >
                 </h2>
                 <div class="btn-group justify-content-between">
-                  <a href="contact.html" class="th-btn th-border">Read More</a>
+                  <a href="contact" class="th-btn th-border">Read More</a>
                   <div class="blog-date">
                     <span class="date">18</span>
                     <span class="month">JUNE 2025</span>
@@ -497,162 +467,22 @@
           <div class="col-lg-6 col-xl-4">
             <div class="th-blog blog-single has-post-thumbnail single-grid">
               <div class="blog-img global-img">
-                <a href="blog-details.html"
+                <a href="#"
                   ><img src="assets/img/blog/blog-grid-4.jpg" alt="Blog Image"
                 /></a>
               </div>
               <div class="blog-content">
                 <div class="blog-meta">
-                  <a href="blog.html">Interior</a>
-                  <a class="author" href="blog.html">by Johon Smith</a>
+                  <a href="blog">Interior</a>
+                  <a class="author" href="blog">by Johon Smith</a>
                 </div>
                 <h2 class="box-title">
-                  <a href="blog-details.html"
+                  <a href="#"
                     >How does proper lighting enhance the ambiance of a room?</a
                   >
                 </h2>
                 <div class="btn-group justify-content-between">
-                  <a href="contact.html" class="th-btn th-border">Read More</a>
-                  <div class="blog-date">
-                    <span class="date">18</span>
-                    <span class="month">JUNE 2025</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4">
-            <div class="th-blog blog-single has-post-thumbnail single-grid">
-              <div class="blog-img global-img">
-                <a href="blog-details.html"
-                  ><img src="assets/img/blog/blog-grid-5.jpg" alt="Blog Image"
-                /></a>
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <a href="blog.html">Interior</a>
-                  <a class="author" href="blog.html">by Johon Smith</a>
-                </div>
-                <h2 class="box-title">
-                  <a href="blog-details.html"
-                    >What are the benefits of using sustainable materials in
-                    outdoor spaces?</a
-                  >
-                </h2>
-                <div class="btn-group justify-content-between">
-                  <a href="contact.html" class="th-btn th-border">Read More</a>
-                  <div class="blog-date">
-                    <span class="date">18</span>
-                    <span class="month">JUNE 2025</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4">
-            <div class="th-blog blog-single has-post-thumbnail single-grid">
-              <div class="blog-img global-img">
-                <a href="blog-details.html"
-                  ><img src="assets/img/blog/blog-grid-6.jpg" alt="Blog Image"
-                /></a>
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <a href="blog.html">Interior</a>
-                  <a class="author" href="blog.html">by Johon Smith</a>
-                </div>
-                <h2 class="box-title">
-                  <a href="blog-details.html"
-                    >How to Interior design maximize space in small kitchen
-                    designs?</a
-                  >
-                </h2>
-                <div class="btn-group justify-content-between">
-                  <a href="contact.html" class="th-btn th-border">Read More</a>
-                  <div class="blog-date">
-                    <span class="date">18</span>
-                    <span class="month">JUNE 2025</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4">
-            <div class="th-blog blog-single has-post-thumbnail single-grid">
-              <div class="blog-img global-img">
-                <a href="blog-details.html"
-                  ><img src="assets/img/blog/blog-grid-7.jpg" alt="Blog Image"
-                /></a>
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <a href="blog.html">Interior</a>
-                  <a class="author" href="blog.html">by Johon Smith</a>
-                </div>
-                <h2 class="box-title">
-                  <a href="blog-details.html"
-                    >Are custom-made sofas a good choice for premium quality
-                    interior design?</a
-                  >
-                </h2>
-                <div class="btn-group justify-content-between">
-                  <a href="contact.html" class="th-btn th-border">Read More</a>
-                  <div class="blog-date">
-                    <span class="date">18</span>
-                    <span class="month">JUNE 2025</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4">
-            <div class="th-blog blog-single has-post-thumbnail single-grid">
-              <div class="blog-img global-img">
-                <a href="blog-details.html"
-                  ><img src="assets/img/blog/blog-grid-8.jpg" alt="Blog Image"
-                /></a>
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <a href="blog.html">Interior</a>
-                  <a class="author" href="blog.html">by Johon Smith</a>
-                </div>
-                <h2 class="box-title">
-                  <a href="blog-details.html"
-                    >Are custom-made sofas a good choice for premium quality
-                    interior design?</a
-                  >
-                </h2>
-                <div class="btn-group justify-content-between">
-                  <a href="contact.html" class="th-btn th-border">Read More</a>
-                  <div class="blog-date">
-                    <span class="date">18</span>
-                    <span class="month">JUNE 2025</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-xl-4">
-            <div class="th-blog blog-single has-post-thumbnail single-grid">
-              <div class="blog-img global-img">
-                <a href="blog-details.html"
-                  ><img src="assets/img/blog/blog-grid-9.jpg" alt="Blog Image"
-                /></a>
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <a href="blog.html">Interior</a>
-                  <a class="author" href="blog.html">by Johon Smith</a>
-                </div>
-                <h2 class="box-title">
-                  <a href="blog-details.html"
-                    >Are custom-made sofas a good choice for premium quality
-                    interior design?</a
-                  >
-                </h2>
-                <div class="btn-group justify-content-between">
-                  <a href="contact.html" class="th-btn th-border">Read More</a>
+                  <a href="contact" class="th-btn th-border">Read More</a>
                   <div class="blog-date">
                     <span class="date">18</span>
                     <span class="month">JUNE 2025</span>
@@ -665,14 +495,14 @@
         <div class="th-pagination text-center mt-30">
           <ul>
             <li>
-              <a href="blog.html"><i class="fa-regular fa-arrow-left"></i></a>
+              <a href="blog"><i class="fa-regular fa-arrow-left"></i></a>
             </li>
-            <li><a href="blog.html">1</a></li>
-            <li><a href="blog.html">2</a></li>
-            <li><a href="blog.html">3</a></li>
-            <li><a href="blog.html">4</a></li>
+            <li><a href="blog">1</a></li>
+            <li><a href="blog">2</a></li>
+            <li><a href="blog">3</a></li>
+            <li><a href="blog">4</a></li>
             <li>
-              <a href="blog.html"
+              <a href="blog"
                 >Next <i class="fa-regular fa-arrow-right"></i
               ></a>
             </li>

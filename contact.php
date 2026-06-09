@@ -25,7 +25,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://yourdomain.com/contact.html" />
+    <link rel="canonical" href="https://yourdomain.com/contact" />
 
     <!-- Theme Color -->
     <meta name="theme-color" content="#111111" />
@@ -35,7 +35,7 @@
     <meta property="og:title" content="Contact Interior Zone | Interior Design Experts" />
     <meta property="og:description"
         content="Get in touch with Interior Zone for premium interior design, architecture, construction and renovation services in Delhi NCR." />
-    <meta property="og:url" content="https://yourdomain.com/contact.html" />
+    <meta property="og:url" content="https://yourdomain.com/contact" />
     <meta property="og:site_name" content="Interior Zone" />
     <meta property="og:image" content="assets/img/logo1.png" />
 
@@ -79,7 +79,7 @@
       "@context":"https://schema.org",
       "@type":"ContactPage",
       "name":"Contact Interior Zone",
-      "url":"https://yourdomain.com/contact.html",
+      "url":"https://yourdomain.com/contact",
       "mainEntity":{
         "@type":"LocalBusiness",
         "name":"Interior Zone",
@@ -100,37 +100,7 @@
   <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
-    <div class="color-scheme-wrap active">
-      <button class="switchIcon"><i class="fa-solid fa-palette"></i></button>
-      <h4 class="color-scheme-wrap-title">
-        <i class="far fa-palette me-2"></i>Style Swicher
-      </h4>
-      <div class="color-switch-btns">
-        <button data-color="#3E66F3">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#684DF4">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#008080">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#323F7C">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#FC3737">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#8a2be2">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-      </div>
-      <a
-        href="https://themeforest.net/user/themeholy"
-        class="th-btn text-center w-100"
-        ><i class="fa fa-shopping-cart me-2"></i> Purchase</a
-      >
-    </div>
+    
     <div class="loader-wrap">
       <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
         <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
@@ -147,7 +117,7 @@
         <div class="widget footer-widget mb-0">
           <div class="th-widget-about">
             <div class="about-logo">
-              <a href="index.html"
+              <a href="/"
                 ><img src="assets/img/logo.svg" alt="Faren  "
               /></a>
             </div>
@@ -163,7 +133,7 @@
           <div class="recent-post-wrap">
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-1.jpg"
                     alt="Blog Image"
@@ -171,11 +141,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -183,7 +153,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-2.jpg"
                     alt="Blog Image"
@@ -191,11 +161,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -203,7 +173,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-3.jpg"
                     alt="Blog Image"
@@ -211,11 +181,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -223,7 +193,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-4.jpg"
                     alt="Blog Image"
@@ -231,11 +201,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -272,56 +242,56 @@
       <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-          <a href="home-interior.html"
+          <a href="home-interior"
             ><img src="assets/img/logo.svg" alt="Faren  "
           /></a>
         </div>
         <div class="th-mobile-menu">
           <ul>
             <li class="menu-item-has-children">
-              <a href="home-interior.html">Home</a>
+              <a href="home-interior">Home</a>
               <ul class="sub-menu">
-                <li><a href="home-interior.html">01. Home Home Interio</a></li>
+                <li><a href="home-interior">01. Home Home Interio</a></li>
                 <li>
-                  <a href="home-architecture.html">02. Home architecture</a>
+                  <a href="home-architecture">02. Home architecture</a>
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury.html"
+                  <a href="home-minimalist-luxury"
                     >03. Home Minimalist and luxury Dark</a
                   >
                 </li>
                 <li>
-                  <a href="home-hotel-hospitality-design.html"
+                  <a href="home-hotel-hospitality-design"
                     >04. Home Hotel & Hospitality Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-green-architecture.html"
+                  <a href="home-green-architecture"
                     >05. Home Sustainable & Green Architecture</a
                   >
                 </li>
                 <li>
-                  <a href="home-industrial-factory-design.html"
+                  <a href="home-industrial-factory-design"
                     >06. Home Industrial & Factory Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-architural-solutions.html"
+                  <a href="home-real-estate-architural-solutions"
                     >07. Real Estate Architural solutions</a
                   >
                 </li>
                 <li>
-                  <a href="landscape-exterior-design.html"
+                  <a href="landscape-exterior-design"
                     >08. Landscape Exterior Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury-light.html"
+                  <a href="home-minimalist-luxury-light"
                     >09. Home Minimalist and luxury Light</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-property.html"
+                  <a href="home-real-estate-property"
                     >10. Home Real Estate Property</a
                   >
                 </li>
@@ -330,22 +300,22 @@
             <li class="menu-item-has-children">
               <a href="#">About</a>
               <ul class="sub-menu">
-                <li><a href="about.html">About Style 1</a></li>
-                <li><a href="about-2.html">About Style 2</a></li>
+                <li><a href="about">About Style 1</a></li>
+                <li><a href="about-2">About Style 2</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Services</a>
               <ul class="sub-menu">
-                <li><a href="service.html">Services</a></li>
-                <li><a href="service-details.html">Service Details</a></li>
+                <li><a href="service">Services</a></li>
+                <li><a href="service-details">Service Details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Projects</a>
               <ul class="sub-menu">
-                <li><a href="project.html">project</a></li>
-                <li><a href="project-details.html">project details</a></li>
+                <li><a href="project">project</a></li>
+                <li><a href="project-details">project details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
@@ -354,11 +324,11 @@
                 <li class="menu-item-has-children">
                   <a href="#">Shop</a>
                   <ul class="sub-menu">
-                    <li><a href="shop.html">Shop</a></li>
-                    <li><a href="shop-details.html">Shop Details</a></li>
-                    <li><a href="cart.html">Cart Page</a></li>
-                    <li><a href="checkout.html">Checkout</a></li>
-                    <li><a href="wishlist.html">Wishlist</a></li>
+                    <li><a href="shop">Shop</a></li>
+                    <li><a href="shop-details">Shop Details</a></li>
+                    <li><a href="cart">Cart Page</a></li>
+                    <li><a href="checkout">Checkout</a></li>
+                    <li><a href="wishlist">Wishlist</a></li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -367,28 +337,28 @@
                     <li>
                       <a href="#">Blog Layout</a>
                       <ul class="sub-menu">
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
+                        <li><a href="blog">Blog</a></li>
+                        <li><a href="blog-grid">Blog Grid</a></li>
                         <li>
-                          <a href="blog-grid-sidebar.html"
+                          <a href="blog-grid-sidebar"
                             >Blog Grid With Sidebar</a
                           >
                         </li>
                       </ul>
                     </li>
-                    <li><a href="blog-details.html">Blog Details</a></li>
+                    <li><a href="blog-details">Blog Details</a></li>
                   </ul>
                 </li>
-                <li><a href="team.html">Team</a></li>
-                <li><a href="team-details.html">Team Details</a></li>
-                <li><a href="testimonial.html">Testimonial</a></li>
-                <li><a href="pricing.html">Price Table</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="error.html">Error Page</a></li>
+                <li><a href="team">Team</a></li>
+                <li><a href="team-details">Team Details</a></li>
+                <li><a href="testimonial">Testimonial</a></li>
+                <li><a href="pricing">Price Table</a></li>
+                <li><a href="gallery">Gallery</a></li>
+                <li><a href="faq">Faq</a></li>
+                <li><a href="error">Error Page</a></li>
               </ul>
             </li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="contact">Contact</a></li>
           </ul>
         </div>
       </div>
@@ -397,14 +367,14 @@
     <div class="breadcumb-area">
       <div
         class="breadcumb-wrapper"
-        data-bg-src="assets/img/bg/breadcumb-bg.jpg"
+        data-bg-src="assets/img/hero/contact_hero.png"
       >
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">Contact Us</h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="home-interior.html">Home</a>
+                <a href="/">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">Contact Us</li>
             </ul>
@@ -427,7 +397,9 @@
               <div class="media-body">
                 <h5 class="box-title">Our Current Location</h5>
                 <p class="box-text">
-                  4517 Washington Ave. Manchester, Kentucky 39495. USA
+                  G-36, Jaina Tower-II,
+District Centre, Janakpuri East,
+New Delhi
                 </p>
               </div>
             </div>
@@ -438,8 +410,7 @@
               <div class="media-body">
                 <h5 class="box-title">Phone Number</h5>
                 <p class="box-text">
-                  <a href="tel:+00123666000666">+00 (123) 666 000 666</a>
-                  <a href="tel:+00123888000222">+00 (123) 888 000 222</a>
+                  <a href="tel:+91 9217664414">+91 9217664414</a>
                 </p>
               </div>
             </div>
@@ -450,8 +421,7 @@
               <div class="media-body">
                 <h5 class="box-title">Email Address</h5>
                 <p class="box-text">
-                  <a href="mailto:info@examplemail.com">info@examplemail.com</a>
-                  <a href="mailto:help@faren.com">help@faren.com</a>
+                  <a href="mailto:interiorzonepvt@gmail.com">interiorzonepvt@gmail.com</a>
                 </p>
               </div>
             </div>
@@ -464,7 +434,7 @@
         <div class="row gy-4">
           <div class="col-xl-6">
             <form
-              action="https://html.themehour.net/faren/demo/mail.php"
+              action="https://html.themehour.net/faren/demo/mail"
               method="POST"
               class="contact-form ajax-contact"
             >
@@ -580,11 +550,7 @@
     </div>
     <div class="">
       <div class="contact-map">
-        <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2sAngfuztheme!5e0!3m2!1sen!2sbd!4v1651028958211!5m2!1sen!2sbd"
-          allowfullscreen=""
-          loading="lazy"
-        ></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28020.469998333163!2d77.06705917295332!3d28.613011372773503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d05cddbe8b8db%3A0x162744fb6e4c116!2sJaina%20Tower%20-2%20Commerical%20Complex!5e0!3m2!1sen!2sin!4v1780996230292!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <div class="contact-icon">
           <img src="assets/img/icon/location-dot.svg" alt="" />
         </div>

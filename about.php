@@ -1,6 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
-  <!-- Mirrored from html.themehour.net/faren/demo/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 May 2026 18:56:00 GMT -->
+  <!-- Mirrored from html.themehour.net/faren/demo/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 May 2026 18:56:00 GMT -->
  <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
@@ -25,7 +25,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://yourdomain.com/about.html" />
+    <link rel="canonical" href="https://yourdomain.com/about" />
 
     <!-- Theme Color -->
     <meta name="theme-color" content="#111111" />
@@ -35,7 +35,7 @@
     <meta property="og:title" content="About Interior Zone | Interior Design & Construction Experts" />
     <meta property="og:description"
         content="Discover Interior Zone's journey, expertise, and commitment to delivering premium interior design, architecture and construction solutions." />
-    <meta property="og:url" content="https://yourdomain.com/about.html" />
+    <meta property="og:url" content="https://yourdomain.com/about" />
     <meta property="og:site_name" content="Interior Zone" />
     <meta property="og:image" content="assets/img/logo1.png" />
 
@@ -106,37 +106,7 @@
   <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
-    <div class="color-scheme-wrap active">
-      <button class="switchIcon"><i class="fa-solid fa-palette"></i></button>
-      <h4 class="color-scheme-wrap-title">
-        <i class="far fa-palette me-2"></i>Style Swicher
-      </h4>
-      <div class="color-switch-btns">
-        <button data-color="#3E66F3">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#684DF4">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#008080">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#323F7C">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#FC3737">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#8a2be2">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-      </div>
-      <a
-        href="https://themeforest.net/user/themeholy"
-        class="th-btn text-center w-100"
-        ><i class="fa fa-shopping-cart me-2"></i> Purchase</a
-      >
-    </div>
+    
     <div class="loader-wrap">
       <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
         <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
@@ -153,7 +123,7 @@
         <div class="widget footer-widget mb-0">
           <div class="th-widget-about">
             <div class="about-logo">
-              <a href="index.html"
+              <a href="/"
                 ><img src="assets/img/logo.svg" alt="Faren  "
               /></a>
             </div>
@@ -169,7 +139,7 @@
           <div class="recent-post-wrap">
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog"
                   ><img
                     src="assets/img/blog/recent-post-1-1.jpg"
                     alt="Blog Image"
@@ -177,11 +147,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -189,7 +159,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog"
                   ><img
                     src="assets/img/blog/recent-post-1-2.jpg"
                     alt="Blog Image"
@@ -197,11 +167,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -209,7 +179,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog"
                   ><img
                     src="assets/img/blog/recent-post-1-3.jpg"
                     alt="Blog Image"
@@ -217,11 +187,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -229,7 +199,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog"
                   ><img
                     src="assets/img/blog/recent-post-1-4.jpg"
                     alt="Blog Image"
@@ -237,11 +207,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -278,56 +248,56 @@
       <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-          <a href="home-interior.html"
+          <a href="home-interior"
             ><img src="assets/img/logo.svg" alt="Faren  "
           /></a>
         </div>
         <div class="th-mobile-menu">
           <ul>
             <li class="menu-item-has-children">
-              <a href="home-interior.html">Home</a>
+              <a href="home-interior">Home</a>
               <ul class="sub-menu">
-                <li><a href="home-interior.html">01. Home Home Interio</a></li>
+                <li><a href="home-interior">01. Home Home Interio</a></li>
                 <li>
-                  <a href="home-architecture.html">02. Home architecture</a>
+                  <a href="home-architecture">02. Home architecture</a>
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury.html"
+                  <a href="home-minimalist-luxury"
                     >03. Home Minimalist and luxury Dark</a
                   >
                 </li>
                 <li>
-                  <a href="home-hotel-hospitality-design.html"
+                  <a href="home-hotel-hospitality-design"
                     >04. Home Hotel & Hospitality Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-green-architecture.html"
+                  <a href="home-green-architecture"
                     >05. Home Sustainable & Green Architecture</a
                   >
                 </li>
                 <li>
-                  <a href="home-industrial-factory-design.html"
+                  <a href="home-industrial-factory-design"
                     >06. Home Industrial & Factory Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-architural-solutions.html"
+                  <a href="home-real-estate-architural-solutions"
                     >07. Real Estate Architural solutions</a
                   >
                 </li>
                 <li>
-                  <a href="landscape-exterior-design.html"
+                  <a href="landscape-exterior-design"
                     >08. Landscape Exterior Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury-light.html"
+                  <a href="home-minimalist-luxury-light"
                     >09. Home Minimalist and luxury Light</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-property.html"
+                  <a href="home-real-estate-property"
                     >10. Home Real Estate Property</a
                   >
                 </li>
@@ -336,22 +306,22 @@
             <li class="menu-item-has-children">
               <a href="#">About</a>
               <ul class="sub-menu">
-                <li><a href="about.html">About Style 1</a></li>
-                <li><a href="about-2.html">About Style 2</a></li>
+                <li><a href="about">About Style 1</a></li>
+                <li><a href="about-2">About Style 2</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Services</a>
               <ul class="sub-menu">
-                <li><a href="service.html">Services</a></li>
-                <li><a href="service-details.html">Service Details</a></li>
+                <li><a href="service">Services</a></li>
+                <li><a href="service-details">Service Details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Projects</a>
               <ul class="sub-menu">
-                <li><a href="project.html">project</a></li>
-                <li><a href="project-details.html">project details</a></li>
+                <li><a href="project">project</a></li>
+                <li><a href="project-details">project details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
@@ -360,11 +330,11 @@
                 <li class="menu-item-has-children">
                   <a href="#">Shop</a>
                   <ul class="sub-menu">
-                    <li><a href="shop.html">Shop</a></li>
-                    <li><a href="shop-details.html">Shop Details</a></li>
-                    <li><a href="cart.html">Cart Page</a></li>
-                    <li><a href="checkout.html">Checkout</a></li>
-                    <li><a href="wishlist.html">Wishlist</a></li>
+                    <li><a href="shop">Shop</a></li>
+                    <li><a href="shop-details">Shop Details</a></li>
+                    <li><a href="cart">Cart Page</a></li>
+                    <li><a href="checkout">Checkout</a></li>
+                    <li><a href="wishlist">Wishlist</a></li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -373,28 +343,28 @@
                     <li>
                       <a href="#">Blog Layout</a>
                       <ul class="sub-menu">
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
+                        <li><a href="blog">Blog</a></li>
+                        <li><a href="blog-grid">Blog Grid</a></li>
                         <li>
-                          <a href="blog-grid-sidebar.html"
+                          <a href="blog-grid-sidebar"
                             >Blog Grid With Sidebar</a
                           >
                         </li>
                       </ul>
                     </li>
-                    <li><a href="blog-details.html">Blog Details</a></li>
+                    <li><a href="blog">Blog Details</a></li>
                   </ul>
                 </li>
-                <li><a href="team.html">Team</a></li>
-                <li><a href="team-details.html">Team Details</a></li>
-                <li><a href="testimonial.html">Testimonial</a></li>
-                <li><a href="pricing.html">Price Table</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="error.html">Error Page</a></li>
+                <li><a href="team">Team</a></li>
+                <li><a href="team-details">Team Details</a></li>
+                <li><a href="testimonial">Testimonial</a></li>
+                <li><a href="pricing">Price Table</a></li>
+                <li><a href="gallery">Gallery</a></li>
+                <li><a href="faq">Faq</a></li>
+                <li><a href="error">Error Page</a></li>
               </ul>
             </li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="contact">Contact</a></li>
           </ul>
         </div>
       </div>
@@ -402,15 +372,16 @@
     <?php include 'header.php'; ?>
     <div class="breadcumb-area">
       <div
-        class="breadcumb-wrapper"
-        data-bg-src="assets/img/bg/breadcumb-bg.jpg"
-      >
+    class="breadcumb-wrapper"
+    data-bg-src="assets/img/hero/about_hero.png"
+    style="background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('assets/img/hero/about_hero.png'); background-size: cover; background-position: center;"
+>
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">About Our Firm</h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="home-interior.html">Home</a>
+                <a href="/">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">About us</li>
             </ul>
@@ -480,8 +451,8 @@
               <div class="img-box5">
                 <div class="img1 global-img img-anim-left">
                   <img
-                    class="w-100"
-                    src="assets/img/normal/about_6_1.jpg"
+                    class=""
+                    src="assets/img/img/33.jpeg"
                     alt="About"
                   />
                 </div>
@@ -491,62 +462,162 @@
         </div>
       </div>
     </div>
-    <div class="counter-area2 space-bottom overflow-hidden">
+    <div class="overflow-hidden overflow-hidden space-top">
       <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6">
-            <div class="title-area text-center text-md-start">
-              <span class="sub-title style3 text-anime"
-                >Experience with 120k Visitors</span
-              >
-              <h2 class="sec-title style4 split-text">
-                Our Featured Facilities
-              </h2>
-              <p class="wow fadeInUp" data-wow-delay=".3s">
-                Our practice is Designing Complete EnvironmentsTM—exceptional
-                buildings, communities and places—in special situations, where a
-                unique historic or natural environment requires an especially
-                thoughtful and innovative solution.
-              </p>
+        <div class="about-area2">
+          <div class="row align-items-center flex-row-reverse">
+            <div class="col-xl-5">
+              <div class="img-box5">
+                <div class="img1 global-img img-anim-left">
+                  <img
+                    class="w-100"
+                    src="assets/img/img/34.jpeg"
+                    alt="About"
+                  />
+                </div>
+              </div>
             </div>
-          </div>
-          <div class="counter-card_wrapp style3">
-            <div class="counter-card style5 wow fadeInUp" data-wow-delay=".2s">
-              <h3 class="box-number">
-                <span class="counter-number">98</span>%
-              </h3>
-              <p class="box-text">happy customer</p>
-            </div>
-            <div class="counter-card style5 wow fadeInUp" data-wow-delay=".4s">
-              <h3 class="box-number">
-                <span class="counter-number">4.9</span>
-              </h3>
-              <p class="box-text">average reviews</p>
-            </div>
-            <div class="counter-card style5 wow fadeInUp" data-wow-delay=".5s">
-              <h3 class="box-number">
-                <span class="counter-number">1.6</span>k+
-              </h3>
-              <p class="box-text">Complete Project</p>
-            </div>
-            <div class="counter-card style5 wow fadeInUp" data-wow-delay=".6s">
-              <h3 class="box-number">
-                <span class="counter-number">126</span>
-              </h3>
-              <p class="box-text">Award Win</p>
-            </div>
-          </div>
+            <div class="col-xl-7">
+              <div class="about-area3">
+                <div class="title-area mb-30 text-center text-sm-start">
+    <span class="sub-title style3 text-anime">Our Mission</span>
+    <h2 class="sec-title style4 split-text">
+        Creating Inspiring Spaces That Enhance Lives
+    </h2>
+    <p>
+        Our mission is to transform homes and commercial spaces through innovative
+        interior design, exceptional craftsmanship, and personalized solutions that
+        reflect our clients' vision and lifestyle.
+    </p>
+</div>
+
+<div class="about-box-wrap">
+
+    <div class="about-box wow fadeInUp" data-wow-delay=".4s">
+        <div class="box-icon">
+            <img src="assets/img/icon/about_1_1.svg" alt="Icon" />
         </div>
-        <div
-          class="shape-mockup d-none d-md-block"
-          data-bottom="0%"
-          data-right="0%"
-        >
-          <img src="assets/img/normal/counter-img.jpg" alt="" />
+        <div class="media-body">
+            <h3 class="box-title">Design Excellence</h3>
+            <p>
+                We strive to create beautiful, functional, and timeless interiors
+                that perfectly balance aesthetics and practicality.
+            </p>
+        </div>
+    </div>
+
+    <div class="about-box wow fadeInUp" data-wow-delay=".5s">
+        <div class="box-icon">
+            <img src="assets/img/icon/about_1_2.svg" alt="Icon" />
+        </div>
+        <div class="media-body">
+            <h3 class="box-title">Client Satisfaction</h3>
+            <p>
+                Every project is tailored to our clients' needs, ensuring a smooth
+                experience and results that exceed expectations.
+            </p>
+        </div>
+    </div>
+
+    <div class="about-box wow fadeInUp" data-wow-delay=".7s">
+        <div class="box-icon">
+            <img src="assets/img/icon/about_1_3.svg" alt="Icon" />
+        </div>
+        <div class="media-body">
+            <h3 class="box-title">Quality & Innovation</h3>
+            <p>
+                We combine premium materials, modern technology, and creative ideas
+                to deliver exceptional interior solutions.
+            </p>
+        </div>
+    </div>
+
+</div>
+              </div>
+            </div>
+            
+          </div>
         </div>
       </div>
     </div>
-    <section class="team-sec space overflow-hidden">
+    <div class="overflow-hidden overflow-hidden space-top">
+      <div class="container">
+        <div class="about-area2">
+          <div class="row align-items-center flex-row-reverse">
+            <div class="col-xl-7">
+              <div class="about-area3">
+                <div class="title-area mb-30 text-center text-sm-start">
+    <span class="sub-title style3 text-anime">Our Vision</span>
+    <h2 class="sec-title style4 split-text">
+        Shaping Exceptional Spaces for the Future
+    </h2>
+    <p>
+        Our vision is to become a trusted leader in interior design and space
+        transformation by creating innovative, functional, and inspiring
+        environments that elevate everyday living and working experiences.
+    </p>
+</div>
+
+<div class="about-box-wrap">
+
+    <div class="about-box wow fadeInUp" data-wow-delay=".4s">
+        <div class="box-icon">
+            <img src="assets/img/icon/about_1_1.svg" alt="Icon" />
+        </div>
+        <div class="media-body">
+            <h3 class="box-title">Creative Innovation</h3>
+            <p>
+                We envision spaces that blend creativity, functionality, and
+                modern design trends to deliver unique experiences.
+            </p>
+        </div>
+    </div>
+
+    <div class="about-box wow fadeInUp" data-wow-delay=".5s">
+        <div class="box-icon">
+            <img src="assets/img/icon/about_1_2.svg" alt="Icon" />
+        </div>
+        <div class="media-body">
+            <h3 class="box-title">Sustainable Growth</h3>
+            <p>
+                We aim to promote environmentally responsible design practices
+                while creating long-lasting and efficient interiors.
+            </p>
+        </div>
+    </div>
+
+    <div class="about-box wow fadeInUp" data-wow-delay=".7s">
+        <div class="box-icon">
+            <img src="assets/img/icon/about_1_3.svg" alt="Icon" />
+        </div>
+        <div class="media-body">
+            <h3 class="box-title">Trusted Excellence</h3>
+            <p>
+                Our goal is to be recognized for delivering exceptional quality,
+                craftsmanship, and customer satisfaction in every project.
+            </p>
+        </div>
+    </div>
+
+</div>
+              </div>
+            </div>
+            <div class="col-xl-5">
+              <div class="img-box5">
+                <div class="img1 global-img img-anim-left">
+                  <img
+                    class="w-100"
+                    src="assets/img/img/30.jpeg"
+                    alt="About"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- <section class="team-sec space overflow-hidden">
       <div class="container z-index-common">
         <div class="row justify-content-center">
           <div class="col-xl-6">
@@ -571,7 +642,7 @@
                   <div class="box-content">
                     <div>
                       <h3 class="box-title">
-                        <a href="team-details.html">Jack Mack Daniel</a>
+                        <a href="team-details">Jack Mack Daniel</a>
                       </h3>
                       <span class="team-desig">Manager</span>
                     </div>
@@ -586,7 +657,7 @@
                   <div class="box-content">
                     <div>
                       <h3 class="box-title">
-                        <a href="team-details.html">Emma Sinclair</a>
+                        <a href="team-details">Emma Sinclair</a>
                       </h3>
                       <span class="team-desig">Designer</span>
                     </div>
@@ -601,7 +672,7 @@
                   <div class="box-content">
                     <div>
                       <h3 class="box-title">
-                        <a href="team-details.html">Michael Reed</a>
+                        <a href="team-details">Michael Reed</a>
                       </h3>
                       <span class="team-desig">Director</span>
                     </div>
@@ -616,7 +687,7 @@
                   <div class="box-content">
                     <div>
                       <h3 class="box-title">
-                        <a href="team-details.html">Chloe Bennett</a>
+                        <a href="team-details">Chloe Bennett</a>
                       </h3>
                       <span class="team-desig">Designer</span>
                     </div>
@@ -631,7 +702,7 @@
                   <div class="box-content">
                     <div>
                       <h3 class="box-title">
-                        <a href="team-details.html">Jack Mack Daniel</a>
+                        <a href="team-details">Jack Mack Daniel</a>
                       </h3>
                       <span class="team-desig">Manager</span>
                     </div>
@@ -646,7 +717,7 @@
                   <div class="box-content">
                     <div>
                       <h3 class="box-title">
-                        <a href="team-details.html">Emma Sinclair</a>
+                        <a href="team-details">Emma Sinclair</a>
                       </h3>
                       <span class="team-desig">Designer</span>
                     </div>
@@ -661,7 +732,7 @@
                   <div class="box-content">
                     <div>
                       <h3 class="box-title">
-                        <a href="team-details.html">Michael Reed</a>
+                        <a href="team-details">Michael Reed</a>
                       </h3>
                       <span class="team-desig">Director</span>
                     </div>
@@ -676,7 +747,7 @@
                   <div class="box-content">
                     <div>
                       <h3 class="box-title">
-                        <a href="team-details.html">Chloe Bennett</a>
+                        <a href="team-details">Chloe Bennett</a>
                       </h3>
                       <span class="team-desig">Designer</span>
                     </div>
@@ -687,7 +758,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <section class="position-relative overflow-hidden space" id="service-sec">
       <div class="container">
         <div class="row">
@@ -699,69 +770,71 @@
         </div>
         <div class="service-area3">
           <div class="row gy-4 justify-content-center">
-            <div class="col-md-6 col-xl-4">
-              <div class="service-item wow fadeInUp" data-wow-delay=".1s">
-                <div class="box-content">
-                  <div class="box-icon">
-                    <img src="assets/img/icon/service_3_1.svg" alt="Icon" />
-                  </div>
-                  <h3 class="box-title">
-                    <a href="service-details.html"
-                      >Architectural Design & Planning</a
-                    >
-                  </h3>
-                  <p class="box-text">
-                    Architectural design is the art and science of enhancing the
-                    interiors of a space to create a more aesthetically pleasing
-                    and functional
-                  </p>
-                  <a href="service.html" class="line-btn"
-                    >Read More <i class="fa-regular fa-arrow-right"></i
-                  ></a>
+
+    <!-- Interior Design -->
+    <div class="col-md-6 col-xl-4">
+        <div class="service-item wow fadeInUp" data-wow-delay=".1s">
+            <div class="box-content">
+                <div class="box-icon">
+                    <img src="assets/img/icon/service_3_1.svg" alt="Interior Design" />
                 </div>
-              </div>
+                <h3 class="box-title">
+                    <a href="interior-design">Interior Design</a>
+                </h3>
+                <p class="box-text">
+                    Transform your space with creative and functional interior
+                    design solutions tailored to your lifestyle and preferences.
+                </p>
+                <a href="interior-design" class="line-btn">
+                    Read More <i class="fa-regular fa-arrow-right"></i>
+                </a>
             </div>
-            <div class="col-md-6 col-xl-4">
-              <div class="service-item wow fadeInUp" data-wow-delay=".3s">
-                <div class="box-content">
-                  <div class="box-icon">
-                    <img src="assets/img/icon/service_3_1.svg" alt="Icon" />
-                  </div>
-                  <h3 class="box-title">
-                    <a href="service-details.html">Urban & Master Planning</a>
-                  </h3>
-                  <p class="box-text">
-                    Architectural design is the art and science of enhancing the
-                    interiors of a space to create a more aesthetically pleasing
-                    and functional
-                  </p>
-                  <a href="service.html" class="line-btn"
-                    >Read More <i class="fa-regular fa-arrow-right"></i
-                  ></a>
+        </div>
+    </div>
+
+    <!-- Modular Kitchen -->
+    <div class="col-md-6 col-xl-4">
+        <div class="service-item wow fadeInUp" data-wow-delay=".3s">
+            <div class="box-content">
+                <div class="box-icon">
+                    <img src="assets/img/icon/service_3_1.svg" alt="Modular Kitchen" />
                 </div>
-              </div>
+                <h3 class="box-title">
+                    <a href="modular-kitchen">Modular Kitchen</a>
+                </h3>
+                <p class="box-text">
+                    Smart, stylish, and space-efficient modular kitchens designed
+                    with premium materials and modern storage solutions.
+                </p>
+                <a href="modular-kitchen" class="line-btn">
+                    Read More <i class="fa-regular fa-arrow-right"></i>
+                </a>
             </div>
-            <div class="col-md-6 col-xl-4">
-              <div class="service-item wow fadeInUp" data-wow-delay=".5s">
-                <div class="box-content">
-                  <div class="box-icon">
-                    <img src="assets/img/icon/service_3_1.svg" alt="Icon" />
-                  </div>
-                  <h3 class="box-title">
-                    <a href="service-details.html">Visualization & Rendering</a>
-                  </h3>
-                  <p class="box-text">
-                    Architectural design is the art and science of enhancing the
-                    interiors of a space to create a more aesthetically pleasing
-                    and functional
-                  </p>
-                  <a href="service.html" class="line-btn"
-                    >Read More <i class="fa-regular fa-arrow-right"></i
-                  ></a>
+        </div>
+    </div>
+
+    <!-- Construction & Renovation -->
+    <div class="col-md-6 col-xl-4">
+        <div class="service-item wow fadeInUp" data-wow-delay=".5s">
+            <div class="box-content">
+                <div class="box-icon">
+                    <img src="assets/img/icon/service_3_1.svg" alt="Construction & Renovation" />
                 </div>
-              </div>
+                <h3 class="box-title">
+                    <a href="construction-renovation">Construction & Renovation</a>
+                </h3>
+                <p class="box-text">
+                    End-to-end construction and renovation services ensuring
+                    quality workmanship, timely delivery, and lasting value.
+                </p>
+                <a href="construction-renovation" class="line-btn">
+                    Read More <i class="fa-regular fa-arrow-right"></i>
+                </a>
             </div>
-          </div>
+        </div>
+    </div>
+
+</div>
         </div>
       </div>
     </section>
@@ -779,26 +852,7 @@
                 <span class="text-theme">Engineering</span>
               </h2>
             </div>
-            <div class="filter-menu indicator-active mb-60 filter-menu-active">
-              <button data-filter="*" class="tab-btn active" type="button">
-                View All
-              </button>
-              <button data-filter=".cat1" class="tab-btn" type="button">
-                Interior
-              </button>
-              <button data-filter=".cat2" class="tab-btn" type="button">
-                Architecture
-              </button>
-              <button data-filter=".cat3" class="tab-btn" type="button">
-                Building
-              </button>
-              <button data-filter=".cat4" class="tab-btn" type="button">
-                Exterior
-              </button>
-              <button data-filter=".cat5" class="tab-btn" type="button">
-                Shape
-              </button>
-            </div>
+            
           </div>
         </div>
         <div class="row gy-4 gallery-row filter-active">
@@ -964,9 +1018,12 @@
         <div class="row justify-content-center">
           <div class="col-lg-7">
             <div class="title-area text-center">
-              <span class="sub-title style4 text-white">Why Choose Us</span>
+              <span class="sub-title style4 text-white"
+                >Why Choose Interior Zone</span
+              >
+
               <h3 class="sec-title split-text text-white">
-                Why Should You Choose Us
+                Trusted Interior Design & Construction Experts in Delhi
               </h3>
             </div>
           </div>
@@ -985,10 +1042,14 @@
                     <img src="assets/img/icon/choose_2_1.svg" alt="img" />
                   </div>
                   <div class="box-content">
-                    <h3 class="box-title text-white">Design Excellence</h3>
+                    <h3 class="box-title text-white">
+                      Complete Turnkey Solutions
+                    </h3>
+
                     <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
+                      From design and planning to execution and handover, we
+                      provide end-to-end interior, architecture, and
+                      construction services under one roof.
                     </p>
                   </div>
                 </div>
@@ -1000,11 +1061,13 @@
                   </div>
                   <div class="box-content">
                     <h3 class="box-title text-white">
-                      Client-Centered Approach
+                      Experienced Design Team
                     </h3>
+
                     <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
+                      Our skilled interior designers, architects, and engineers
+                      create modern, functional, and visually stunning spaces
+                      tailored to your needs.
                     </p>
                   </div>
                 </div>
@@ -1016,11 +1079,13 @@
                   </div>
                   <div class="box-content">
                     <h3 class="box-title text-white">
-                      Customer-Focused Design
+                      Premium Quality Materials
                     </h3>
+
                     <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
+                      We use high-quality materials, premium finishes, and
+                      trusted brands to ensure durability, elegance, and
+                      long-lasting value.
                     </p>
                   </div>
                 </div>
@@ -1031,10 +1096,14 @@
                     <img src="assets/img/icon/choose_2_4.svg" alt="img" />
                   </div>
                   <div class="box-content">
-                    <h3 class="box-title text-white">Sustainable Innovation</h3>
+                    <h3 class="box-title text-white">
+                      On-Time Project Delivery
+                    </h3>
+
                     <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
+                      With professional project management and expert execution,
+                      we ensure timely completion without compromising on
+                      quality.
                     </p>
                   </div>
                 </div>
@@ -1045,10 +1114,14 @@
                     <img src="assets/img/icon/choose_2_1.svg" alt="img" />
                   </div>
                   <div class="box-content">
-                    <h3 class="box-title text-white">Design Excellence</h3>
+                    <h3 class="box-title text-white">
+                      Customized Interior Solutions
+                    </h3>
+
                     <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
+                      Every project is designed according to your lifestyle,
+                      preferences, space requirements, and budget for a truly
+                      personalized experience.
                     </p>
                   </div>
                 </div>
@@ -1060,34 +1133,16 @@
                   </div>
                   <div class="box-content">
                     <h3 class="box-title text-white">
-                      Client-Centered Approach
+                      Serving Delhi NCR & Beyond
                     </h3>
+
                     <p class="box-text">
-                      We blend creativity with technical mastery to deliver
-                      iconic, functional, and timeless architecture...
+                      Based in Janakpuri East, Delhi, we provide residential and
+                      commercial interior design, modular kitchens,
+                      construction, and renovation services across India.
                     </p>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="marquee-content style2 positive-relative overflow-hidden">
-          <div class="marquee">
-            <div class="marquee-group style3">
-              <div class="item">
-                <img src="assets/img/shape/timeline.png" alt="" />
-              </div>
-              <div class="item">
-                <img src="assets/img/shape/timeline.png" alt="" />
-              </div>
-            </div>
-            <div aria-hidden="true" class="marquee-group style3">
-              <div class="item">
-                <img src="assets/img/shape/timeline.png" alt="" />
-              </div>
-              <div class="item">
-                <img src="assets/img/shape/timeline.png" alt="" />
               </div>
             </div>
           </div>
@@ -1116,7 +1171,7 @@
                       aria-expanded="false"
                       aria-controls="collapse-1"
                     >
-                      1. What does an architect do??
+                      1. What interior design services do you offer?
                     </button>
                   </div>
                   <div
@@ -1127,10 +1182,7 @@
                   >
                     <div class="accordion-body">
                       <p class="faq-text">
-                        Most medical centers offer charity programs, counseling,
-                        and financial assistance for those in need. Non-Muslims
-                        are welcome to visit mosques. They should dress modestly
-                        and remove their shoes upon entering.
+                       We provide complete interior design solutions including residential interiors, modular kitchens, space planning, furniture selection, false ceiling design, lighting design, and turnkey project execution.
                       </p>
                     </div>
                   </div>
@@ -1148,8 +1200,7 @@
                       aria-expanded="true"
                       aria-controls="collapse-2"
                     >
-                      2. What is the difference between an architect and an
-                      engineer??
+                      2. How much does an interior design project cost?
                     </button>
                   </div>
                   <div
@@ -1160,10 +1211,7 @@
                   >
                     <div class="accordion-body">
                       <p class="faq-text">
-                        Most medical centers offer charity programs, counseling,
-                        and financial assistance for those in need. Non-Muslims
-                        are welcome to visit mosques. They should dress modestly
-                        and remove their shoes upon entering.
+                       The cost depends on the project size, design requirements, materials selected, and customization level. We provide a detailed quotation after understanding your requirements.
                       </p>
                     </div>
                   </div>
@@ -1178,7 +1226,7 @@
                       aria-expanded="false"
                       aria-controls="collapse-3"
                     >
-                      3. Do I need an architect for my project?
+                      3. How long does an interior design project take?
                     </button>
                   </div>
                   <div
@@ -1189,10 +1237,7 @@
                   >
                     <div class="accordion-body">
                       <p class="faq-text">
-                        Most medical centers offer charity programs, counseling,
-                        and financial assistance for those in need. Non-Muslims
-                        are welcome to visit mosques. They should dress modestly
-                        and remove their shoes upon entering.
+                        Project timelines vary depending on the scope of work. Most residential interior projects are completed within 4 to 12 weeks after design approval.
                       </p>
                     </div>
                   </div>
@@ -1207,7 +1252,7 @@
                       aria-expanded="false"
                       aria-controls="collapse-4"
                     >
-                      4. How much does it cost to hire an architect?
+                      4. Do you provide modular kitchen solutions?
                     </button>
                   </div>
                   <div
@@ -1218,10 +1263,7 @@
                   >
                     <div class="accordion-body">
                       <p class="faq-text">
-                        Most medical centers offer charity programs, counseling,
-                        and financial assistance for those in need. Non-Muslims
-                        are welcome to visit mosques. They should dress modestly
-                        and remove their shoes upon entering.
+                        Yes, we specialize in modern modular kitchen designs with customized layouts, smart storage solutions, premium finishes, and high-quality hardware.
                       </p>
                     </div>
                   </div>
@@ -1236,7 +1278,7 @@
                       aria-expanded="false"
                       aria-controls="collapse-5"
                     >
-                      5. What is sustainable or green architecture??
+                      5. Do you handle both design and execution?
                     </button>
                   </div>
                   <div
@@ -1247,10 +1289,7 @@
                   >
                     <div class="accordion-body">
                       <p class="faq-text">
-                        Most medical centers offer charity programs, counseling,
-                        and financial assistance for those in need. Non-Muslims
-                        are welcome to visit mosques. They should dress modestly
-                        and remove their shoes upon entering.
+                        Yes, we offer complete turnkey interior solutions, managing everything from concept design and material selection to execution and final handover.
                       </p>
                     </div>
                   </div>
@@ -1266,7 +1305,7 @@
         </div>
       </div>
     </div>
-    <section
+    <!-- <section
       class="testi-area2 overflow-hidden space overflow-hidden"
       id="testi-sec"
     >
@@ -1430,8 +1469,8 @@
           </div>
         </div>
       </div>
-    </section>
-    <div class="overflow-hidden space-bottom bg-smoke2 overflow-hidden">
+    </section> -->
+    <div class="overflow-hidden space-bottom overflow-hidden bg-smoke2">
       <div class="container">
         <div class="title-area text-center">
           <span class="sub-title style3 text-anime"
@@ -1453,11 +1492,11 @@
                   <a href="#"
                     ><img
                       class="original"
-                      src="assets/img/brand/brand_1_1.svg"
+                      src="assets/img/brand/b1.png"
                       alt="Brand Logo" />
                     <img
                       class="gray"
-                      src="assets/img/brand/brand_1_1.svg"
+                      src="assets/img/brand/b1.png"
                       alt="Brand Logo"
                   /></a>
                 </div>
@@ -1467,11 +1506,11 @@
                   <a href="#"
                     ><img
                       class="original"
-                      src="assets/img/brand/brand_1_2.svg"
+                      src="assets/img/brand/b2.png"
                       alt="Brand Logo" />
                     <img
                       class="gray"
-                      src="assets/img/brand/brand_1_2.svg"
+                      src="assets/img/brand/b2.png"
                       alt="Brand Logo"
                   /></a>
                 </div>
@@ -1481,11 +1520,11 @@
                   <a href="#"
                     ><img
                       class="original"
-                      src="assets/img/brand/brand_1_3.svg"
+                      src="assets/img/brand/b3.png"
                       alt="Brand Logo" />
                     <img
                       class="gray"
-                      src="assets/img/brand/brand_1_3.svg"
+                      src="assets/img/brand/b3.png"
                       alt="Brand Logo"
                   /></a>
                 </div>
@@ -1495,11 +1534,11 @@
                   <a href="#"
                     ><img
                       class="original"
-                      src="assets/img/brand/brand_1_4.svg"
+                      src="assets/img/brand/b4.png"
                       alt="Brand Logo" />
                     <img
                       class="gray"
-                      src="assets/img/brand/brand_1_4.svg"
+                      src="assets/img/brand/b4.png"
                       alt="Brand Logo"
                   /></a>
                 </div>
@@ -1509,11 +1548,11 @@
                   <a href="#"
                     ><img
                       class="original"
-                      src="assets/img/brand/brand_1_5.svg"
+                      src="assets/img/brand/b5.png"
                       alt="Brand Logo" />
                     <img
                       class="gray"
-                      src="assets/img/brand/brand_1_5.svg"
+                      src="assets/img/brand/b5.png"
                       alt="Brand Logo"
                   /></a>
                 </div>
@@ -1523,67 +1562,11 @@
                   <a href="#"
                     ><img
                       class="original"
-                      src="assets/img/brand/brand_1_1.svg"
+                      src="assets/img/brand/b6.png"
                       alt="Brand Logo" />
                     <img
                       class="gray"
-                      src="assets/img/brand/brand_1_1.svg"
-                      alt="Brand Logo"
-                  /></a>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="brand-card">
-                  <a href="#"
-                    ><img
-                      class="original"
-                      src="assets/img/brand/brand_1_2.svg"
-                      alt="Brand Logo" />
-                    <img
-                      class="gray"
-                      src="assets/img/brand/brand_1_2.svg"
-                      alt="Brand Logo"
-                  /></a>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="brand-card">
-                  <a href="#"
-                    ><img
-                      class="original"
-                      src="assets/img/brand/brand_1_3.svg"
-                      alt="Brand Logo" />
-                    <img
-                      class="gray"
-                      src="assets/img/brand/brand_1_3.svg"
-                      alt="Brand Logo"
-                  /></a>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="brand-card">
-                  <a href="#"
-                    ><img
-                      class="original"
-                      src="assets/img/brand/brand_1_4.svg"
-                      alt="Brand Logo" />
-                    <img
-                      class="gray"
-                      src="assets/img/brand/brand_1_4.svg"
-                      alt="Brand Logo"
-                  /></a>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="brand-card">
-                  <a href="#"
-                    ><img
-                      class="original"
-                      src="assets/img/brand/brand_1_5.svg"
-                      alt="Brand Logo" />
-                    <img
-                      class="gray"
-                      src="assets/img/brand/brand_1_5.svg"
+                      src="assets/img/brand/b6.png"
                       alt="Brand Logo"
                   /></a>
                 </div>
@@ -1643,5 +1626,5 @@ window.addEventListener('load', function () {
     <script src="assets/js/CustomEase.min.js"></script>
     <script src="assets/js/main.js"></script>
   </body>
-  <!-- Mirrored from html.themehour.net/faren/demo/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 May 2026 18:56:03 GMT -->
+  <!-- Mirrored from html.themehour.net/faren/demo/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 May 2026 18:56:03 GMT -->
 </html>

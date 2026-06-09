@@ -16,12 +16,12 @@
         <h3 class="widget_title">Quick Links</h3>
 
         <ul class="menu">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="service.html">Services</a></li>
-            <li><a href="project.html">Projects</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="about">About Us</a></li>
+            <li><a href="service">Services</a></li>
+            <li><a href="project">Projects</a></li>
+            <li><a href="blog">Blog</a></li>
+            <li><a href="contact">Contact Us</a></li>
         </ul>
     </div>
 </div>
@@ -37,7 +37,7 @@
 
         <p>
             <strong>Email:</strong><br>
-            <a href="mailto:xyz@gmail.com">xyz@gmail.com</a>
+            <a href="mailto:interiorzonepvt@gmail.com">interiorzonepvt@gmail.com</a>
         </p>
 
         <p>
@@ -184,9 +184,9 @@
             <div class="col-lg-6 text-center text-lg-end">
               <div class="footer-links">
                 <ul>
-                  <li><a href="about.html">Terms of service</a></li>
-                  <li><a href="about.html">Privacy policy</a></li>
-                  <li><a href="about.html">cookies</a></li>
+                  <li><a href="about">Terms of service</a></li>
+                  <li><a href="about">Privacy policy</a></li>
+                  <li><a href="about">cookies</a></li>
                 </ul>
               </div>
             </div>

@@ -1360,9 +1360,9 @@ ol.wp-block-rss {
 @font-face {
   font-family: "gallery_modernregular";
   src:
-    url("gallerymodern-webfont.html") format("woff2"),
-    url("gallerymodern-webfont-2.html") format("woff"),
-    url("gallerymodern-webfont-3.html") format("truetype");
+    url("gallerymodern-webfont") format("woff2"),
+    url("gallerymodern-webfont-2") format("woff"),
+    url("gallerymodern-webfont-3") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -8947,7 +8947,7 @@ ol.widget_recent_comments,
   margin-right: 3px;
   padding-right: 5px;
   list-style: none;
-  color: var(--title-color);
+  color: white;
   position: relative;
   font-weight: 400;
   font-size: 18px;
@@ -8983,6 +8983,7 @@ ol.widget_recent_comments,
   position: relative;
   z-index: 2;
   margin-left: 25px;
+  color: white;
 }
 .breadcumb-menu a:before {
   content: "";
@@ -8994,7 +8995,7 @@ ol.widget_recent_comments,
   background-image: url("../img/shape/shape-1.svg");
 }
 .breadcumb-title {
-  color: var(--title-color);
+  color: white;
   font-weight: 700;
   font-size: 72px;
   margin: -0.22em 0 -0.14em 0;
@@ -9003,7 +9004,21 @@ ol.widget_recent_comments,
 .breadcumb-wrapper {
   position: relative;
   background-color: var(--title-color);
-  padding: 188px 0;
+  padding: 320px 0;
+  z-index: 2;
+  overflow: hidden;
+}
+
+.breadcumb-wrapper::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6); /* Adjust darkness here */
+  z-index: 1;
+}
+
+.breadcumb-wrapper .container {
+  position: relative;
   z-index: 2;
 }
 @media (max-width: 1199px) {
@@ -19146,7 +19161,7 @@ span.select2-selection.select2-selection--single:focus {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("../img/team/element2.html");
+  background-image: url("../img/team/element2");
   background-size: auto;
   background-position: center center;
   background-repeat: no-repeat;
@@ -22068,7 +22083,7 @@ span.select2-selection.select2-selection--single:focus {
   justify-content: space-evenly;
 }
 .brand-card {
-  height: 101px;
+  height: 200px;
   overflow: hidden;
   position: relative;
   display: block;

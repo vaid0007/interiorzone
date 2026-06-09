@@ -4,152 +4,94 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
+
     <title>
-      Faren - Architecture & Interior Design Template - Interior Design
+        Modular Kitchen Design Services | Modern Kitchen Solutions | Interior Zone
     </title>
-    <meta name="author" content="themeholy" />
+
+    <meta name="author" content="Interior Zone" />
+
     <meta
-      name="description"
-      content="Faren   - Architecture & Interior Design Template"
+        name="description"
+        content="Get stylish and functional modular kitchen designs with smart storage solutions, premium finishes, customized layouts, and expert installation services from Interior Zone."
     />
+
     <meta
-      name="keywords"
-      content="Faren   - Architecture & Interior Design Template"
+        name="keywords"
+        content="Modular Kitchen, Modular Kitchen Design, Modern Kitchen Design, Kitchen Interior Design, Custom Kitchen Cabinets, Kitchen Renovation, Smart Kitchen Storage, Interior Zone"
     />
-    <meta name="robots" content="INDEX,FOLLOW" />
+
+    <meta name="robots" content="index, follow" />
+
     <meta
-      name="viewport"
-      content="width=device-width,initial-scale=1,shrink-to-fit=no"
+        name="viewport"
+        content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <link
-      rel="apple-touch-icon"
-      sizes="57x57"
-      href="assets/img/favicons/apple-icon-57x57.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="60x60"
-      href="assets/img/favicons/apple-icon-60x60.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="72x72"
-      href="assets/img/favicons/apple-icon-72x72.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="76x76"
-      href="assets/img/favicons/apple-icon-76x76.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="114x114"
-      href="assets/img/favicons/apple-icon-114x114.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="120x120"
-      href="assets/img/favicons/apple-icon-120x120.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="144x144"
-      href="assets/img/favicons/apple-icon-144x144.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="152x152"
-      href="assets/img/favicons/apple-icon-152x152.png"
-    />
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="assets/img/favicons/apple-icon-180x180.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="192x192"
-      href="assets/img/favicons/android-icon-192x192.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="assets/img/favicons/favicon-32x32.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="96x96"
-      href="assets/img/favicons/favicon-96x96.png"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="assets/img/favicons/favicon-16x16.png"
-    />
-    <link rel="manifest" href="assets/img/favicons/manifest.json" />
-    <meta name="msapplication-TileColor" content="#ffffff" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Modular Kitchen Design Services | Interior Zone" />
     <meta
-      name="msapplication-TileImage"
-      content="assets/img/favicons/ms-icon-144x144.png"
+        property="og:description"
+        content="Customized modular kitchen solutions with premium materials, modern layouts, smart storage, and professional installation."
     />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/img/hero/S2_hero.png" />
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://yourdomain.com/modular-kitchen" />
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png" />
+
     <meta name="theme-color" content="#ffffff" />
+
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;display=swap"
-      rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet"
     />
+
+    <!-- CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
-  </head>
+</head>
   <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
-    <div class="color-scheme-wrap active">
-      <button class="switchIcon"><i class="fa-solid fa-palette"></i></button>
-      <h4 class="color-scheme-wrap-title">
-        <i class="far fa-palette me-2"></i>Style Swicher
-      </h4>
-      <div class="color-switch-btns">
-        <button data-color="#3E66F3">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#684DF4">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#008080">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#323F7C">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#FC3737">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-        <button data-color="#8a2be2">
-          <i class="fa-solid fa-droplet"></i>
-        </button>
-      </div>
-      <a
-        href="https://themeforest.net/user/themeholy"
-        class="th-btn text-center w-100"
-        ><i class="fa fa-shopping-cart me-2"></i> Purchase</a
-      >
-    </div>
+
     <div class="loader-wrap">
       <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
         <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
       </svg>
-       <div class="preloader" style="position:fixed;top:0;left:0;width:100%;height:100%;background:#ffffff;z-index:99999;display:flex;align-items:center;justify-content:center;transition:opacity .5s ease;">
-    <img src="assets/img/logo1.png" alt="Interior Zone" style="width:300px;height:auto;">
-</div>
+      <div
+        class="preloader"
+        style="
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: #ffffff;
+          z-index: 99999;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          transition: opacity 0.5s ease;
+        "
+      >
+        <img
+          src="assets/img/logo1.png"
+          alt="Interior Zone"
+          style="width: 300px; height: auto"
+        />
+      </div>
     </div>
     <div class="sidemenu-wrapper">
       <div class="sidemenu-content">
@@ -159,7 +101,7 @@
         <div class="widget footer-widget mb-0">
           <div class="th-widget-about">
             <div class="about-logo">
-              <a href="index.html"
+              <a href="/"
                 ><img src="assets/img/logo.svg" alt="Faren  "
               /></a>
             </div>
@@ -175,7 +117,7 @@
           <div class="recent-post-wrap">
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-1.jpg"
                     alt="Blog Image"
@@ -183,11 +125,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -195,7 +137,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-2.jpg"
                     alt="Blog Image"
@@ -203,11 +145,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -215,7 +157,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-3.jpg"
                     alt="Blog Image"
@@ -223,11 +165,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -235,7 +177,7 @@
             </div>
             <div class="recent-post">
               <div class="media-img">
-                <a href="blog-details.html"
+                <a href="blog-details"
                   ><img
                     src="assets/img/blog/recent-post-1-4.jpg"
                     alt="Blog Image"
@@ -243,11 +185,11 @@
               </div>
               <div class="media-body">
                 <div class="recent-post-meta">
-                  <a href="blog.html">June 12, 2025</a>
-                  <a href="blog.html">6 min read</a>
+                  <a href="blog">June 12, 2025</a>
+                  <a href="blog">6 min read</a>
                 </div>
                 <h4 class="post-title">
-                  <a class="text-inherit" href="blog-details.html"
+                  <a class="text-inherit" href="blog-details"
                     >Good choice for premium quality interior design?</a
                   >
                 </h4>
@@ -284,56 +226,56 @@
       <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-          <a href="home-interior.html"
+          <a href="home-interior"
             ><img src="assets/img/logo.svg" alt="Faren  "
           /></a>
         </div>
         <div class="th-mobile-menu">
           <ul>
             <li class="menu-item-has-children">
-              <a href="home-interior.html">Home</a>
+              <a href="home-interior">Home</a>
               <ul class="sub-menu">
-                <li><a href="home-interior.html">01. Home Home Interio</a></li>
+                <li><a href="home-interior">01. Home Home Interio</a></li>
                 <li>
-                  <a href="home-architecture.html">02. Home architecture</a>
+                  <a href="home-architecture">02. Home architecture</a>
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury.html"
+                  <a href="home-minimalist-luxury"
                     >03. Home Minimalist and luxury Dark</a
                   >
                 </li>
                 <li>
-                  <a href="home-hotel-hospitality-design.html"
+                  <a href="home-hotel-hospitality-design"
                     >04. Home Hotel & Hospitality Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-green-architecture.html"
+                  <a href="home-green-architecture"
                     >05. Home Sustainable & Green Architecture</a
                   >
                 </li>
                 <li>
-                  <a href="home-industrial-factory-design.html"
+                  <a href="home-industrial-factory-design"
                     >06. Home Industrial & Factory Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-architural-solutions.html"
+                  <a href="home-real-estate-architural-solutions"
                     >07. Real Estate Architural solutions</a
                   >
                 </li>
                 <li>
-                  <a href="landscape-exterior-design.html"
+                  <a href="landscape-exterior-design"
                     >08. Landscape Exterior Design</a
                   >
                 </li>
                 <li>
-                  <a href="home-minimalist-luxury-light.html"
+                  <a href="home-minimalist-luxury-light"
                     >09. Home Minimalist and luxury Light</a
                   >
                 </li>
                 <li>
-                  <a href="home-real-estate-property.html"
+                  <a href="home-real-estate-property"
                     >10. Home Real Estate Property</a
                   >
                 </li>
@@ -342,22 +284,22 @@
             <li class="menu-item-has-children">
               <a href="#">About</a>
               <ul class="sub-menu">
-                <li><a href="about.html">About Style 1</a></li>
-                <li><a href="about-2.html">About Style 2</a></li>
+                <li><a href="about">About Style 1</a></li>
+                <li><a href="about-2">About Style 2</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Services</a>
               <ul class="sub-menu">
-                <li><a href="service.html">Services</a></li>
-                <li><a href="service-details.html">Service Details</a></li>
+                <li><a href="service">Services</a></li>
+                <li><a href="service-details">Service Details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Projects</a>
               <ul class="sub-menu">
-                <li><a href="project.html">project</a></li>
-                <li><a href="project-details.html">project details</a></li>
+                <li><a href="project">project</a></li>
+                <li><a href="project-details">project details</a></li>
               </ul>
             </li>
             <li class="menu-item-has-children">
@@ -366,11 +308,11 @@
                 <li class="menu-item-has-children">
                   <a href="#">Shop</a>
                   <ul class="sub-menu">
-                    <li><a href="shop.html">Shop</a></li>
-                    <li><a href="shop-details.html">Shop Details</a></li>
-                    <li><a href="cart.html">Cart Page</a></li>
-                    <li><a href="checkout.html">Checkout</a></li>
-                    <li><a href="wishlist.html">Wishlist</a></li>
+                    <li><a href="shop">Shop</a></li>
+                    <li><a href="shop-details">Shop Details</a></li>
+                    <li><a href="cart">Cart Page</a></li>
+                    <li><a href="checkout">Checkout</a></li>
+                    <li><a href="wishlist">Wishlist</a></li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -379,44 +321,41 @@
                     <li>
                       <a href="#">Blog Layout</a>
                       <ul class="sub-menu">
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
+                        <li><a href="blog">Blog</a></li>
+                        <li><a href="blog-grid">Blog Grid</a></li>
                         <li>
-                          <a href="blog-grid-sidebar.html"
+                          <a href="blog-grid-sidebar"
                             >Blog Grid With Sidebar</a
                           >
                         </li>
                       </ul>
                     </li>
-                    <li><a href="blog-details.html">Blog Details</a></li>
+                    <li><a href="blog-details">Blog Details</a></li>
                   </ul>
                 </li>
-                <li><a href="team.html">Team</a></li>
-                <li><a href="team-details.html">Team Details</a></li>
-                <li><a href="testimonial.html">Testimonial</a></li>
-                <li><a href="pricing.html">Price Table</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="error.html">Error Page</a></li>
+                <li><a href="team">Team</a></li>
+                <li><a href="team-details">Team Details</a></li>
+                <li><a href="testimonial">Testimonial</a></li>
+                <li><a href="pricing">Price Table</a></li>
+                <li><a href="gallery">Gallery</a></li>
+                <li><a href="faq">Faq</a></li>
+                <li><a href="error">Error Page</a></li>
               </ul>
             </li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="contact">Contact</a></li>
           </ul>
         </div>
       </div>
     </div>
     <?php include 'header.php'; ?>
     <div class="breadcumb-area">
-      <div
-        class="breadcumb-wrapper"
-        data-bg-src="assets/img/bg/breadcumb-bg.jpg"
-      >
+      <div class="breadcumb-wrapper" data-bg-src="assets/img/hero/S2_hero.png">
         <div class="container">
           <div class="breadcumb-content">
-            <h1 class="breadcumb-title text-anime">Interior Design</h1>
+            <h1 class="breadcumb-title text-anime">Modular Kitchen</h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="home-interior.html">Home</a>
+                <a href="home-interior">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">Service Details</li>
             </ul>
@@ -429,24 +368,11 @@
       ></div>
     </div>
     <section class="space overflow-hidden">
-      <div class="container">
-        <div class="page-img space-bottom">
-          <img src="assets/img/service/service_details.jpg" alt="About" />
-        </div>
+      <div class="container px-5">
         <div class="row gy-4">
           <div class="col-xl-8">
             <div class="page-content">
-              <span class="page-subtitle">Residential Interior</span>
-              <h3 class="">Curate Your Unique Aesthetic</h3>
-              <p class="fs-18 mb-50">
-                We believe that the right styling can transform any space into a
-                personalized haven. Our Interior Styling service focuses on
-                enhancing the beauty and functionality of your home or office
-                through thoughtful design choices. From selecting the perfect
-                color palettes to accessorizing with decor that reflects your
-                personality, we’re here to help you create an environment that
-                resonates with your style and vision.
-              </p>
+              <span class="page-subtitle">Modular Kitchen</span> <h3 class="">Smart & Stylish Kitchen Solutions</h3> <p class="fs-18 mb-50"> Our Modular Kitchen service is designed to create modern, efficient, and aesthetically appealing cooking spaces that perfectly match your lifestyle. We combine innovative layouts, premium materials, and smart storage solutions to deliver kitchens that are both functional and elegant. Whether you prefer a contemporary, minimalist, or luxury kitchen, our team creates customized designs tailored to your needs. </p>
               <div class="row gy-4">
                 <div class="col-lg-6 col-xxl-7">
                   <div class="page-img service-img img-anim-left">
@@ -467,164 +393,48 @@
                   </div>
                 </div>
               </div>
-              <h4 class="mt-25">Features</h4>
-              <p>With our Interior Styling service, you can expect:</p>
-              <div class="checklist style4 me-xl-5 pe-xl-5">
-                <ul>
-                  <li class="wow fadeInUp" data-wow-delay=".1s">
-                    Personalized Styling: We take the time to understand your
-                    lifestyle, preferences, and design goals to curate a
-                    tailored styling solution that complements your space.
-                  </li>
-                  <li class="wow fadeInUp" data-wow-delay=".3s">
-                    Expert Material Selection: Our team stays updated on the
-                    latest trends and timeless classics, helping you choose
-                    furnishings, textiles, and decor that enhance your aesthetic
-                    while providing comfort and functionality.
-                  </li>
-                  <li class="wow fadeInUp" data-wow-delay=".4s">
-                    Cohesive Design: We ensure that every element in your space
-                    works harmoniously, creating a cohesive and inviting
-                    atmosphere that feels both stylish and practical.
-                  </li>
-                </ul>
-              </div>
-              <h4 class="mt-25">Process</h4>
-              <p class="page-text">
-                Our approach was rooted in Claire’s vision of California coastal
-                luxury, focusing on enhancing spaciousness and warmth. Key steps
-                included:
-              </p>
-              <p class="mb-0">
-                Curating the perfect look for your space with a personalized
-                styling process that enhances and refines every detail.
-              </p>
+              <h4 class="mt-25">Features</h4> <p>With our Modular Kitchen service, you can expect:</p>
+
+              <div class="checklist style4 me-xl-5 pe-xl-5"> <ul> <li class="wow fadeInUp" data-wow-delay=".1s"> Customized Kitchen Layouts: We design kitchens that maximize available space while ensuring comfort, accessibility, and efficiency. </li> <li class="wow fadeInUp" data-wow-delay=".3s"> Smart Storage Solutions: Innovative cabinets, drawers, and organizers help keep your kitchen clutter-free and well-organized. </li> <li class="wow fadeInUp" data-wow-delay=".4s"> Premium Materials & Finishes: Choose from a wide range of high-quality finishes, countertops, hardware, and accessories for a stylish and durable kitchen. </li> </ul> </div>
+              <h4 class="mt-25">Process</h4> <p class="page-text"> Our modular kitchen design process focuses on functionality, aesthetics, and precision execution. </p> <p class="mb-0"> We carefully plan every detail to ensure your kitchen is beautiful, practical, and built to meet your daily requirements. </p>
+
               <div class="checklist style5 me-xl-5 pe-xl-5">
-                <ul>
-                  <li class="wow fadeInUp" data-wow-delay=".1s">
-                    1. Discovery Consultation: We start with a discovery
-                    consultation to discuss your vision, preferences, and the
-                    specific needs of your space. Understanding your style and
-                    how you use your environment is essential for a successful
-                    outcome.
-                  </li>
-                  <li class="wow fadeInUp" data-wow-delay=".3s">
-                    2. Concept Development: Our design team crafts a detailed
-                    styling concept, which may include mood boards, color
-                    schemes, and a curated selection of furniture and decor
-                    items that align with your vision. This step is key to
-                    ensuring that all elements reflect your unique style.
-                  </li>
-                  <li class="wow fadeInUp" data-wow-delay=".4s">
-                    3. Sourcing & Selection: We assist you in sourcing the
-                    selected items, whether it’s furniture, accessories, or art.
-                    Our extensive network of suppliers ensures that you have
-                    access to high-quality materials and the latest design
-                    trends.
-                  </li>
-                  <li class="wow fadeInUp" data-wow-delay=".5s">
-                    4. Styling Execution: Once the items are sourced, our
-                    skilled team takes charge of the styling process. We
-                    meticulously arrange and position each piece to create an
-                    aesthetically pleasing and functional environment. Our goal
-                    is to ensure every detail is considered and enhances the
-                    overall design.
-                  </li>
-                  <li class="wow fadeInUp" data-wow-delay=".6s">
-                    5. Final Touches: We conduct a final walkthrough with you to
-                    make sure everything aligns with your vision. During this
-                    phase, we fine-tune the arrangement and ensure that your
-                    space is ready to be enjoyed.
-                  </li>
-                </ul>
+                <ul> <li class="wow fadeInUp" data-wow-delay=".1s"> 1. Consultation & Requirement Analysis: We understand your cooking habits, storage needs, space dimensions, and design preferences. </li> <li class="wow fadeInUp" data-wow-delay=".3s"> 2. Kitchen Design & Planning: Our experts create customized layouts, 3D designs, and material recommendations that align with your vision. </li> <li class="wow fadeInUp" data-wow-delay=".4s"> 3. Material Selection: Select from premium cabinets, countertops, hardware, finishes, and accessories. </li> <li class="wow fadeInUp" data-wow-delay=".5s"> 4. Manufacturing & Installation: Precision-crafted kitchen components are manufactured and professionally installed by our skilled team. </li> <li class="wow fadeInUp" data-wow-delay=".6s"> 5. Final Inspection & Handover: We perform detailed quality checks and ensure every element is perfectly installed before project completion. </li> </ul>
               </div>
-              <h3 class="mt-25">Transform Your Environment</h3>
-              <p class="mb-50">
-                Our Interior Styling service is dedicated to helping you achieve
-                a space that is not only beautiful but also uniquely yours. With
-                our expertise and personalized approach, we elevate your
-                interiors to reflect your style and enhance your everyday
-                living. Let us partner with you to curate a space that inspires
-                and rejuvenates.
-              </p>
+              <h3 class="mt-25">Build Your Dream Kitchen</h3> <p class="mb-50"> Our Modular Kitchen solutions combine innovation, style, and practicality to create a kitchen that enhances your everyday life. From compact urban kitchens to luxurious cooking spaces, we deliver customized designs that add beauty, convenience, and long-term value to your home. </p>
               <hr class="line2 mb-60" />
-              <div class="blog-navigation">
-                <a href="service.html" class="nav-btn prev"
-                  ><img
-                    src="assets/img/blog/blog-nav-1.jpg"
-                    alt="blog img"
-                    class="nav-img"
-                  />
-                  <span class="nav-text"
-                    ><span class="icon"
-                      ><img src="assets/img/icon/left-arrow.svg" alt="" /></span
-                    >Previous Post</span
-                  > </a
-                ><a href="service.html" class="blog-btn"
-                  ><i class="fa-solid fa-grid"></i
-                ></a>
-                <a href="service.html" class="nav-btn next"
-                  ><img
-                    src="assets/img/blog/blog-nav-2.jpg"
-                    alt="blog img"
-                    class="nav-img" />
-                  <span class="nav-text"
-                    >Next Post<span class="icon"
-                      ><img
-                        src="assets/img/icon/right-arrow.svg"
-                        alt="" /></span></span
-                ></a>
-              </div>
             </div>
           </div>
           <div class="col-xl-4">
             <aside class="sidebar-area">
               <div class="widget widget_nav_menu">
-                <h3 class="widget_title">Service Overview</h3>
-                <div class="service-info">
-                  <ul>
-                    <li>Estimate Time <span>4-5 Weeks</span></li>
-                    <li>
-                      Rating
-                      <span
-                        >5/5
-                        <span
-                          ><i class="fa-solid fa-star"></i
-                          ><i class="fa-solid fa-star"></i
-                          ><i class="fa-solid fa-star"></i
-                          ><i class="fa-solid fa-star"></i
-                          ><i class="fa-solid fa-star"></i></span
-                      ></span>
-                    </li>
-                    <li>Satisfaction Rate <span>100% Happy Client</span></li>
-                    <li>Cost <span>$1,25000-5,0000</span></li>
-                    <li>Completed Services <span>1250+</span></li>
-                  </ul>
-                  <div class="service-btn">
-                    <a href="contact.html" class="th-btn black-border th-icon"
-                      >Get A Quotation</a
-                    >
-                  </div>
-                </div>
-              </div>
-              <div class="widget widget_nav_menu">
                 <h3 class="widget_title">Services List</h3>
                 <div class="menu-all-pages-container">
                   <ul>
-                    <li><a href="service.html">Residential Interior</a></li>
-                    <li><a href="service.html">Real Estate</a></li>
-                    <li><a href="service.html">Consultation</a></li>
-                    <li><a href="service.html">Exterior Planning</a></li>
-                    <li><a href="service.html">Building Development</a></li>
-                    <li><a href="service.html">Furniture Design</a></li>
-                    <li><a href="service.html">Art & Decoration</a></li>
+                    <li><a href="interior-design">Interior Design</a></li>
+                    <li><a href="modular-kitchen">Modular Kitchen</a></li>
+                    <li>
+                      <a href="architecture-services"
+                        >Architecture & Planning</a
+                      >
+                    </li>
+                    <li>
+                      <a href="construction-renovation"
+                        >Construction & Renovation</a
+                      >
+                    </li>
+                    <li>
+                      <a href="commercial-interior-design"
+                        >Commercial Interior Design</a
+                      >
+                    </li>
                   </ul>
                 </div>
               </div>
               <div class="widget widget_quote">
                 <h3 class="widget_title">Have any Question?</h3>
                 <form
-                  action="https://html.themehour.net/faren/demo/mail.php"
+                  action="https://html.themehour.net/faren/demo/mail"
                   method="POST"
                   class="widget-form"
                 >
@@ -706,411 +516,7 @@
         </div>
       </div>
     </section>
-    <div class="marquee-area2 overflow-hidden">
-      <div class="marquee-content positive-relative overflow-hidden">
-        <div class="marquee">
-          <div class="marquee-group style2">
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Bright Halls"
-                >Bright Halls</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Sustainable Architecture"
-                >Sustainable Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Landscape Architecture"
-                >Landscape Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" />
-              <a target="_blank" href="#" data-hover="Commercial Spa"
-                >Commercial Spa</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Bright Halls"
-                >Bright Halls</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Sustainable Architecture"
-                >Sustainable Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Landscape Architecture"
-                >Landscape Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" />
-              <a target="_blank" href="#" data-hover="Commercial Spa"
-                >Commercial Spa</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Bright Halls"
-                >Bright Halls</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Sustainable Architecture"
-                >Sustainable Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Landscape Architecture"
-                >Landscape Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" />
-              <a target="_blank" href="#" data-hover="Commercial Spa"
-                >Commercial Spa</a
-              >
-            </div>
-          </div>
-          <div aria-hidden="true" class="marquee-group style2">
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Bright Halls"
-                >Bright Halls</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Sustainable Architecture"
-                >Sustainable Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Landscape Architecture"
-                >Landscape Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" />
-              <a target="_blank" href="#" data-hover="Commercial Spa"
-                >Commercial Spa</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Bright Halls"
-                >Bright Halls</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Sustainable Architecture"
-                >Sustainable Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Landscape Architecture"
-                >Landscape Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" />
-              <a target="_blank" href="#" data-hover="Commercial Spa"
-                >Commercial Spa</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Bright Halls"
-                >Bright Halls</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Sustainable Architecture"
-                >Sustainable Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" /><a
-                target="_blank"
-                href="#"
-                data-hover="Landscape Architecture"
-                >Landscape Architecture</a
-              >
-            </div>
-            <div class="item">
-              <img src="assets/img/icon/star3.svg" alt="" />
-              <a target="_blank" href="#" data-hover="Commercial Spa"
-                >Commercial Spa</a
-              >
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="overflow-hidden space-top overflow-hidden" id="contact-sec">
-      <div class="container">
-        <div class="row gy-4 justify-content-between">
-          <div class="col-lg-3">
-            <div class="contact-image-one global-img">
-              <img src="assets/img/normal/contact-image-1.jpg" alt="" />
-            </div>
-          </div>
-          <div class="col-lg-5">
-            <div class="title-area text-center">
-              <span class="sub-title style2 text-anime">get in touch</span>
-              <h2 class="sec-title split-text">
-                Transforming visions into reality
-              </h2>
-            </div>
-            <div class="text-center">
-              <a href="contact.html" class="th-btn style3">Contact Us</a>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="contact-image-two global-img">
-              <img src="assets/img/normal/contact-image-2.jpg" alt="" />
-            </div>
-          </div>
-        </div>
-        <div class="row gx-160 mt-50 justify-content-center">
-          <div class="col-lg-4">
-            <div class="contact-image-three global-img">
-              <img src="assets/img/normal/contact-image-3.jpg" alt="" />
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="contact-image-four global-img">
-              <img src="assets/img/normal/contact-image-4.jpg" alt="" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <section class="overflow-hidden space" id="testi-sec">
-      <div class="container">
-        <div class="row gy-24 justify-content-center">
-          <div class="col-xl-6">
-            <div class="title-area text-center">
-              <span class="sub-title text-anime">TESTIMONIALS</span>
-              <h2 class="sec-title split-text">
-                What Our <span class="text-theme">Client’s </span>Say
-              </h2>
-            </div>
-          </div>
-        </div>
-        <div class="row gy-24 align-items-center">
-          <div class="col-xl-5">
-            <div class="testi-image_wrapp">
-              <div class="testi-review">
-                <div class="testi-img1 global-img">
-                  <img src="assets/img/testimonial/testi-img1.jpg" alt="" />
-                </div>
-                <div class="box-content">
-                  <h3 class="box-title">Excellence Residence</h3>
-                  <p class="box-text">Interior Decoration</p>
-                </div>
-              </div>
-              <div class="testi-img2 global-img">
-                <img src="assets/img/testimonial/testi-img2.jpg" alt="" />
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-7">
-            <div class="slider-wrap">
-              <div
-                class="swiper th-slider testiSlide1 has-shadow"
-                id="testiSlide1"
-                data-slider-options='{"effect":"slide","loop":true}'
-              >
-                <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                    <div class="testi-card style1">
-                      <div class="box-wrapp">
-                        <div class="box-quote">
-                          <img src="assets/img/icon/quote2.svg" alt="" />
-                        </div>
-                        <div class="box-rating">
-                          <span class="rating">4.9/5.0</span>
-                          <span class="review"
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                          ></span>
-                        </div>
-                      </div>
-                      <p class="box-text">
-                        "It was clear from the start that sustainability wasn’t
-                        an afterthought — it was central to every design
-                        decision. The passive cooling and natural materials make
-                        our building both eco-friendly and elegant."
-                      </p>
-                      <div class="box-profile">
-                        <div class="box-author">
-                          <img
-                            src="assets/img/testimonial/testi_1_1.png"
-                            alt="Avater"
-                          />
-                        </div>
-                        <div class="box-info">
-                          <h3 class="box-title">Carlos Mendez</h3>
-                          <span class="box-desig">Company Owner</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="testi-card style1">
-                      <div class="box-wrapp">
-                        <div class="box-quote">
-                          <img src="assets/img/icon/quote2.svg" alt="" />
-                        </div>
-                        <div class="box-rating">
-                          <span class="rating">4.9/5.0</span>
-                          <span class="review"
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                          ></span>
-                        </div>
-                      </div>
-                      <p class="box-text">
-                        Working with Faren transformed our dream into reality.
-                        The design of our home perfectly balances privacy,
-                        natural light, and open space. It’s not just a house —
-                        it feels like a sanctuary.
-                      </p>
-                      <div class="box-profile">
-                        <div class="box-author">
-                          <img
-                            src="assets/img/testimonial/testi_1_2.png"
-                            alt="Avater"
-                          />
-                        </div>
-                        <div class="box-info">
-                          <h3 class="box-title">James Thompson</h3>
-                          <span class="box-desig">Company Owner</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="testi-card style1">
-                      <div class="box-wrapp">
-                        <div class="box-quote">
-                          <img src="assets/img/icon/quote2.svg" alt="" />
-                        </div>
-                        <div class="box-rating">
-                          <span class="rating">4.9/5.0</span>
-                          <span class="review"
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                            ><i class="fa-solid fa-star"></i
-                          ></span>
-                        </div>
-                      </div>
-                      <p class="box-text">
-                        We were amazed by the attention to detail and the
-                        understanding of how a home should ‘feel.’ The layout is
-                        functional and beautiful — we love every inch of our new
-                        space.
-                      </p>
-                      <div class="box-profile">
-                        <div class="box-author">
-                          <img
-                            src="assets/img/testimonial/testi_1_3.png"
-                            alt="Avater"
-                          />
-                        </div>
-                        <div class="box-info">
-                          <h3 class="box-title">Aditi Banerjee</h3>
-                          <span class="box-desig">Company Owner</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="icon-box">
-                  <button
-                    data-slider-prev="#testiSlide1"
-                    class="slider-arrow style4 default slider-prev"
-                  >
-                    <img src="assets/img/icon/right-arrow4.svg" alt="" />
-                  </button>
-                  <button
-                    data-slider-next="#testiSlide1"
-                    class="slider-arrow style4 default slider-next"
-                  >
-                    <img src="assets/img/icon/left-arrow4.svg" alt="" />
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div
-        class="shape-mockup d-none d-xxl-block"
-        data-bottom="0%"
-        data-left="0%"
-      >
-        <img src="assets/img/shape/element-4.png" alt="" />
-      </div>
-    </section>
+
     <?php include 'footer.php'; ?>
     <div class="scroll-top">
       <svg
@@ -1130,15 +536,15 @@
       </svg>
     </div>
     <script>
-window.addEventListener('load', function () {
-    const preloader = document.querySelector('.preloader');
-    preloader.style.opacity = '0';
-    
-    setTimeout(function () {
-        preloader.style.display = 'none';
-    }, 500);
-});
-</script>
+      window.addEventListener("load", function () {
+        const preloader = document.querySelector(".preloader");
+        preloader.style.opacity = "0";
+
+        setTimeout(function () {
+          preloader.style.display = "none";
+        }, 500);
+      });
+    </script>
     <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>

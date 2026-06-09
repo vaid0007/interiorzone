@@ -1,3 +1,32 @@
+<div class="color-scheme-wrap active">
+    <button class="switchIcon">
+        <i class="fa-solid fa-phone"></i>
+    </button>
+
+    <h4 class="color-scheme-wrap-title">
+        <i class="fa-solid fa-headset me-2"></i> Contact Us
+    </h4>
+
+    <div class="d-grid gap-3">
+
+        <!-- WhatsApp Button -->
+        <a href="https://wa.me/919999999999"
+           target="_blank"
+           class="th-btn w-100 text-center">
+            <i class="fab fa-whatsapp me-2"></i>
+            WhatsApp Us
+        </a>
+
+        <!-- Call Button -->
+        <a href="tel:+919999999999"
+           class="th-btn w-100 text-center">
+            <i class="fa-solid fa-phone me-2"></i>
+            Call Now
+        </a>
+
+    </div>
+</div>
+
 <header class="th-header header-layout4 header-absolute">
       <div class="sticky-wrapper">
         <div class="container">
@@ -5,7 +34,7 @@
             <div class="row align-items-center justify-content-between">
               <div class="col-auto">
                 <div class="header-logo">
-                  <a href="home-interior.html">
+                  <a href="home-interior">
                     <img
                       src="assets/img/IZ_logo1.png"
                       alt="Faren"
@@ -18,28 +47,28 @@
                 <nav class="main-menu d-none d-lg-inline-block">
                   <ul>
                     <li class="">
-                      <a href="index.php">Home</a>
+                      <a href="/">Home</a>
                     </li>
                     <li class="">
-                      <a href="about.php">About</a>
+                      <a href="about">About</a>
                     </li>
                     <li class="menu-item-has-children">
-    <a href="interior-design.php">Services</a>
+    <a href="interior-design">Services</a>
     <ul class="sub-menu">
-        <li><a href="interior-design.php">Interior Design</a></li>
-        <li><a href="modular-kitchen.php">Modular Kitchen</a></li>
-        <li><a href="architecture-services.php">Architecture & Planning</a></li>
-        <li><a href="construction-renovation.php">Construction & Renovation</a></li>
-        <li><a href="commercial-interior-design.php">Commercial Interior Design</a></li>
+        <li><a href="interior-design">Interior Design</a></li>
+        <li><a href="modular-kitchen">Modular Kitchen</a></li>
+        <li><a href="architecture-services">Architecture & Planning</a></li>
+        <li><a href="construction-renovation">Construction & Renovation</a></li>
+        <li><a href="commercial-interior-design">Commercial Interior Design</a></li>
     </ul>
 </li>
                     <li class="">
-                      <a href="gallery.php">gallery</a>
+                      <a href="gallery">gallery</a>
                     </li>
                     <li class="">
-                      <a href="blog.php">blog</a>
+                      <a href="blog">blog</a>
                     </li>
-                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="contact">Contact</a></li>
                   </ul>
                 </nav>
               </div>
@@ -66,3 +95,43 @@
         </div>
       </div>
     </header>
+
+    <div class="th-menu-wrapper">
+      <div class="th-menu-area text-center">
+        <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
+        <div class="mobile-logo">
+          <a href="home-interior"
+            ><img src="assets/img/logo.png" alt="Faren  "
+          /></a>
+        </div>
+        <div class="th-mobile-menu">
+          <ul>
+            <li class="menu-item-has-children">
+              <a href="/">Home</a>
+              
+            </li>
+            <li class="menu-item-has-children">
+              <a href="about">About</a>
+              
+            </li>
+            <li class="menu-item-has-children">
+              <a href="interior-design">Services</a>
+    <ul class="sub-menu">
+        <li><a href="interior-design">Interior Design</a></li>
+        <li><a href="modular-kitchen">Modular Kitchen</a></li>
+        <li><a href="architecture-services">Architecture & Planning</a></li>
+        <li><a href="construction-renovation">Construction & Renovation</a></li>
+        <li><a href="commercial-interior-design">Commercial Interior Design</a></li>
+    </ul>
+            </li>
+            <li class="">
+                      <a href="gallery">gallery</a>
+                    </li>
+                    <li class="">
+                      <a href="blog">blog</a>
+                    </li>
+                    <li><a href="contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
