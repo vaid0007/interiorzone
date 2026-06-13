@@ -349,7 +349,7 @@
     </div>
     <?php include 'header.php'; ?>
     <div class="breadcumb-area">
-      <div class="breadcumb-wrapper" data-bg-src="assets/img/hero/S4_hero.png">
+      <div class="breadcumb-wrapper" data-bg-src="assets/img/img/36.jpeg">
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">
@@ -357,7 +357,7 @@
             </h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="/">Home</a>
+                <a href="/interiorzone">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">Service Details</li>
             </ul>
@@ -372,6 +372,7 @@
     <section class="space overflow-hidden">
       <div class="container px-5">
         <div class="row gy-4">
+
           <div class="col-xl-8">
             <div class="page-content">
               <span class="page-subtitle">Construction & Renovation</span>
@@ -385,29 +386,31 @@
                 results that enhance functionality, aesthetics, and long-term
                 value.
               </p>
-              <div class="col-lg-6 col-xxl-7">
-                <div class="page-img service-img img-anim-left">
-                  <img
-                    class="w-100 h-100"
-                    src="assets/img/service/service_inner_1.jpg"
-                    alt="service"
-                  />
+              <div class="row gy-4">
+                <div class="col-lg-6 col-xxl-7">
+                  <div class="page-img service-img img-anim-left">
+                    <img
+                      class="w-100 h-100"
+                      src="assets/img/img/36.jpeg"
+                      alt="service"
+                    />
+                  </div>
+                </div>
+                <div class="col-lg-6 col-xxl-5">
+                  <div class="page-img service-img img-anim-top">
+                    <img
+                      class="w-100 h-100"
+                      src="assets/img/img/29.jpeg"
+                      alt="service"
+                    />
+                  </div>
                 </div>
               </div>
-              <div class="col-lg-6 col-xxl-5">
-                <div class="page-img service-img img-anim-top">
-                  <img
-                    class="w-100 h-100"
-                    src="assets/img/service/service_inner_2.jpg"
-                    alt="service"
-                  />
-                </div>
-              </div>
-            </div>
-            <h4 class="mt-25">Features</h4>
+              <h4 class="mt-25">Features</h4>
             <p>With our Construction & Renovation service, you can expect:</p>
-            <div class="checklist style4 me-xl-5 pe-xl-5">
-              <ul>
+
+              <div class="checklist style4 me-xl-5 pe-xl-5">
+                <ul>
                 <li class="wow fadeInUp" data-wow-delay=".1s">
                   Complete Project Management: We handle every aspect of
                   construction and renovation, ensuring smooth coordination and
@@ -424,8 +427,8 @@
                   preferences, and budget.
                 </li>
               </ul>
-            </div>
-            <h4 class="mt-25">Process</h4>
+              </div>
+              <h4 class="mt-25">Process</h4>
             <p class="page-text">
               Our structured approach ensures that every construction and
               renovation project is completed efficiently while maintaining the
@@ -435,8 +438,9 @@
               From planning and design to execution and final inspection, we
               focus on delivering outstanding results with minimal disruption.
             </p>
-            <div class="checklist style5 me-xl-5 pe-xl-5">
-              <ul>
+
+              <div class="checklist style5 me-xl-5 pe-xl-5">
+                <ul>
                 <li class="wow fadeInUp" data-wow-delay=".1s">
                   1. Consultation & Site Assessment: We evaluate your property,
                   discuss your goals, and understand your renovation or
@@ -463,6 +467,7 @@
                   project completion.
                 </li>
               </ul>
+              </div>
               <h3 class="mt-25">Build, Upgrade & Revitalize</h3>
               <p class="mb-50">
                 Our Construction & Renovation service helps transform outdated
@@ -471,6 +476,7 @@
                 commercial property, we deliver reliable solutions that combine
                 quality, efficiency, and lasting value.
               </p>
+              <hr class="line2 mb-60" />
             </div>
           </div>
           <div class="col-xl-4">

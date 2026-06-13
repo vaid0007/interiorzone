@@ -422,14 +422,14 @@
     <div class="breadcumb-area">
       <div
         class="breadcumb-wrapper"
-        data-bg-src="assets/img/hero/gallery_hero.png"
+        data-bg-src="assets/img/img/42.jpeg"
       >
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">Awesome Gallery</h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="/">Home</a>
+                <a href="/interiorzone">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">Gallery Page</li>
             </ul>
@@ -444,14 +444,14 @@
     <section class="container gallery-section space px-5">
       <div class="container">
         <div class="row g-4">
-          <?php for($i = 1; $i <= 30; $i++) { ?>
+          <?php for($i = 1; $i <= 102; $i++) { ?>
           <div class="col-md-6 col-lg-4">
             <div class="gallery-item overflow-hidden rounded">
               <img
                 src="assets/img/img/<?php echo $i; ?>.jpeg"
                 class="img-fluid w-100"
                 alt="Gallery Image <?php echo $i; ?>"
-                style="height:600px; object-fit:cover;"
+                style="height:500px; object-fit:cover;"
               />
             </div>
           </div>

@@ -1,38 +1,42 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
   <!-- Mirrored from html.themehour.net/faren/demo/service-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 24 May 2026 18:56:06 GMT -->
-<head>
+  <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
 
     <title>
-        Architecture & Planning Services | Architectural Design Experts | Interior Zone
+      Architecture & Planning Services | Architectural Design Experts | Interior
+      Zone
     </title>
 
     <meta name="author" content="Interior Zone" />
 
     <meta
-        name="description"
-        content="Professional architecture and planning services for residential, commercial, and industrial projects. We deliver innovative designs, space planning, construction drawings, and sustainable architectural solutions."
+      name="description"
+      content="Professional architecture and planning services for residential, commercial, and industrial projects. We deliver innovative designs, space planning, construction drawings, and sustainable architectural solutions."
     />
 
     <meta
-        name="keywords"
-        content="Architecture Services, Architectural Design, Building Planning, Space Planning, House Design, Commercial Architecture, Construction Drawings, Architectural Consultants, Interior Zone"
+      name="keywords"
+      content="Architecture Services, Architectural Design, Building Planning, Space Planning, House Design, Commercial Architecture, Construction Drawings, Architectural Consultants, Interior Zone"
     />
 
     <meta name="robots" content="index, follow" />
 
     <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1, shrink-to-fit=no"
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Architecture & Planning Services | Interior Zone" />
     <meta
-        property="og:description"
-        content="Innovative architecture and planning solutions for residential and commercial projects."
+      property="og:title"
+      content="Architecture & Planning Services | Interior Zone"
+    />
+    <meta
+      property="og:description"
+      content="Innovative architecture and planning solutions for residential and commercial projects."
     />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="assets/img/hero/S3_hero.png" />
@@ -41,9 +45,23 @@
     <link rel="canonical" href="https://yourdomain.com/architecture-planning" />
 
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/img/favicons/apple-icon-180x180.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/img/favicons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/img/favicons/favicon-16x16.png"
+    />
 
     <meta name="theme-color" content="#ffffff" />
 
@@ -51,8 +69,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <link
-        href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
     />
 
     <!-- CSS -->
@@ -61,7 +79,8 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
-</head>  <body id="show-grid">
+  </head>
+  <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
 
@@ -100,9 +119,7 @@
         <div class="widget footer-widget mb-0">
           <div class="th-widget-about">
             <div class="about-logo">
-              <a href="/"
-                ><img src="assets/img/logo.svg" alt="Faren  "
-              /></a>
+              <a href="/"><img src="assets/img/logo.svg" alt="Faren  " /></a>
             </div>
             <p class="about-text">
               Minimal interiors often feel larger than they are. Neutral colors,
@@ -323,9 +340,7 @@
                         <li><a href="blog">Blog</a></li>
                         <li><a href="blog-grid">Blog Grid</a></li>
                         <li>
-                          <a href="blog-grid-sidebar"
-                            >Blog Grid With Sidebar</a
-                          >
+                          <a href="blog-grid-sidebar">Blog Grid With Sidebar</a>
                         </li>
                       </ul>
                     </li>
@@ -348,13 +363,15 @@
     </div>
     <?php include 'header.php'; ?>
     <div class="breadcumb-area">
-      <div class="breadcumb-wrapper" data-bg-src="assets/img/hero/S3_hero.png">
+      <div class="breadcumb-wrapper" data-bg-src="assets/img/img/91.jpeg">
         <div class="container">
           <div class="breadcumb-content">
-            <h1 class="breadcumb-title text-anime">Architecture and Planning</h1>
+            <h1 class="breadcumb-title text-anime">
+              Architecture and Planning
+            </h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="/">Home</a>
+                <a href="/interiorzone">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">Service Details</li>
             </ul>
@@ -371,12 +388,23 @@
         <div class="row gy-4">
           <div class="col-xl-8">
             <div class="page-content">
-<span class="page-subtitle">Architecture & Planning</span> <h3 class="">Designing Spaces with Purpose & Precision</h3> <p class="fs-18 mb-50"> Our Architecture & Planning service focuses on creating innovative, functional, and sustainable spaces that meet the unique requirements of every client. From residential homes and commercial buildings to large-scale developments, we combine creative design with technical expertise to deliver architectural solutions that are visually appealing, practical, and built for the future. </p>              <div class="row gy-4">
+              <span class="page-subtitle">Architecture & Planning</span>
+              <h3 class="">Designing Spaces with Purpose & Precision</h3>
+              <p class="fs-18 mb-50">
+                Our Architecture & Planning service focuses on creating
+                innovative, functional, and sustainable spaces that meet the
+                unique requirements of every client. From residential homes and
+                commercial buildings to large-scale developments, we combine
+                creative design with technical expertise to deliver
+                architectural solutions that are visually appealing, practical,
+                and built for the future.
+              </p>
+              <div class="row gy-4">
                 <div class="col-lg-6 col-xxl-7">
                   <div class="page-img service-img img-anim-left">
                     <img
                       class="w-100 h-100"
-                      src="assets/img/service/service_inner_1.jpg"
+                      src="assets/img/img/38.jpeg"
                       alt="service"
                     />
                   </div>
@@ -385,19 +413,83 @@
                   <div class="page-img service-img img-anim-top">
                     <img
                       class="w-100 h-100"
-                      src="assets/img/service/service_inner_2.jpg"
+                      src="assets/img/img/45.jpeg"
                       alt="service"
                     />
                   </div>
                 </div>
               </div>
-              <h4 class="mt-25">Features</h4> <p>With our Architecture & Planning service, you can expect:</p>
+              <h4 class="mt-25">Features</h4>
+              <p>With our Architecture & Planning service, you can expect:</p>
 
-<div class="checklist style4 me-xl-5 pe-xl-5"> <ul> <li class="wow fadeInUp" data-wow-delay=".1s"> Customized Architectural Design: Every project is carefully planned to reflect your vision, requirements, and lifestyle while ensuring optimal functionality. </li> <li class="wow fadeInUp" data-wow-delay=".3s"> Efficient Space Planning: We maximize the use of available space through intelligent layouts that improve flow, comfort, and usability. </li> <li class="wow fadeInUp" data-wow-delay=".4s"> Sustainable Design Solutions: Our planning approach incorporates modern building practices, energy efficiency, and environmentally responsible design principles. </li> </ul> </div>              
-<h4 class="mt-25">Process</h4> <p class="page-text"> Our architectural process is designed to transform ideas into successful, well-executed projects through careful planning and collaboration. </p> <p class="mb-0"> From the initial concept to final construction documentation, we ensure every stage is completed with precision and attention to detail. </p>
+              <div class="checklist style4 me-xl-5 pe-xl-5">
+                <ul>
+                  <li class="wow fadeInUp" data-wow-delay=".1s">
+                    Customized Architectural Design: Every project is carefully
+                    planned to reflect your vision, requirements, and lifestyle
+                    while ensuring optimal functionality.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".3s">
+                    Efficient Space Planning: We maximize the use of available
+                    space through intelligent layouts that improve flow,
+                    comfort, and usability.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".4s">
+                    Sustainable Design Solutions: Our planning approach
+                    incorporates modern building practices, energy efficiency,
+                    and environmentally responsible design principles.
+                  </li>
+                </ul>
+              </div>
+              <h4 class="mt-25">Process</h4>
+              <p class="page-text">
+                Our architectural process is designed to transform ideas into
+                successful, well-executed projects through careful planning and
+                collaboration.
+              </p>
+              <p class="mb-0">
+                From the initial concept to final construction documentation, we
+                ensure every stage is completed with precision and attention to
+                detail.
+              </p>
               <div class="checklist style5 me-xl-5 pe-xl-5">
-<ul> <li class="wow fadeInUp" data-wow-delay=".1s"> 1. Consultation & Site Analysis: We assess your requirements, project goals, site conditions, and budget to establish a strong foundation for the design. </li> <li class="wow fadeInUp" data-wow-delay=".3s"> 2. Concept Development: Our architects develop preliminary sketches, layouts, and design concepts that align with your vision. </li> <li class="wow fadeInUp" data-wow-delay=".4s"> 3. Detailed Planning & Drawings: We prepare architectural drawings, floor plans, elevations, and technical documentation required for approvals and construction. </li> <li class="wow fadeInUp" data-wow-delay=".5s"> 4. Project Coordination: We collaborate with engineers, contractors, and consultants to ensure smooth project execution. </li> <li class="wow fadeInUp" data-wow-delay=".6s"> 5. Final Review & Support: We provide ongoing guidance and oversight to ensure the completed project matches the approved design and quality standards. </li> </ul>              </div>
-<h3 class="mt-25">Bringing Vision to Reality</h3> <p class="mb-50"> Our Architecture & Planning service is dedicated to creating inspiring, functional, and sustainable spaces that stand the test of time. Through innovative design, strategic planning, and technical excellence, we help transform your ideas into architectural realities that add lasting value. </p>              <hr class="line2 mb-60" />
+                <ul>
+                  <li class="wow fadeInUp" data-wow-delay=".1s">
+                    1. Consultation & Site Analysis: We assess your
+                    requirements, project goals, site conditions, and budget to
+                    establish a strong foundation for the design.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".3s">
+                    2. Concept Development: Our architects develop preliminary
+                    sketches, layouts, and design concepts that align with your
+                    vision.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".4s">
+                    3. Detailed Planning & Drawings: We prepare architectural
+                    drawings, floor plans, elevations, and technical
+                    documentation required for approvals and construction.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".5s">
+                    4. Project Coordination: We collaborate with engineers,
+                    contractors, and consultants to ensure smooth project
+                    execution.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".6s">
+                    5. Final Review & Support: We provide ongoing guidance and
+                    oversight to ensure the completed project matches the
+                    approved design and quality standards.
+                  </li>
+                </ul>
+              </div>
+              <h3 class="mt-25">Bringing Vision to Reality</h3>
+              <p class="mb-50">
+                Our Architecture & Planning service is dedicated to creating
+                inspiring, functional, and sustainable spaces that stand the
+                test of time. Through innovative design, strategic planning, and
+                technical excellence, we help transform your ideas into
+                architectural realities that add lasting value.
+              </p>
+              <hr class="line2 mb-60" />
             </div>
           </div>
           <div class="col-xl-4">

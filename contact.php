@@ -367,14 +367,14 @@
     <div class="breadcumb-area">
       <div
         class="breadcumb-wrapper"
-        data-bg-src="assets/img/hero/contact_hero.png"
+        data-bg-src="assets/img/img/81.jpeg"
       >
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">Contact Us</h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="/">Home</a>
+                <a href="/interiorzone">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">Contact Us</li>
             </ul>
@@ -411,6 +411,7 @@ New Delhi
                 <h5 class="box-title">Phone Number</h5>
                 <p class="box-text">
                   <a href="tel:+91 9217664414">+91 9217664414</a>
+                  <a href="tel:+91 8745825182">+91 8745825182</a>
                 </p>
               </div>
             </div>

@@ -12,10 +12,10 @@
     <meta name="title" content="About Interior Zone | Interior Design & Construction Experts in Janakpuri East" />
 
     <meta name="description"
-        content="Learn about Interior Zone, a trusted Interior Design, Architecture and Construction company in Janakpuri East, New Delhi. We specialize in residential and commercial interiors, modular kitchens, woodwork, renovation and turnkey projects." />
+        content="Learn about Interior Zone, a trusted Interior Design, Architecture and Construction company in Janakpuri East, New Delhi. We specialize in residential and commercial interiors, modular kitchens, Wardrobe, woodwork, renovation and turnkey projects." />
 
     <meta name="keywords"
-        content="About Interior Zone, Interior Designer Janakpuri East, Interior Design Company Delhi, Architecture Firm Delhi, Construction Company Delhi, Modular Kitchen Experts, Home Interior Design Delhi, Commercial Interior Design Delhi, Turnkey Interior Solutions" />
+        content="About Interior Zone, Interior Designer Janakpuri East, Interior Design Company Delhi, Architecture Firm Delhi, Construction Company Delhi, Modular Kitchen Experts, Wardrobe, Home Interior Design Delhi, Commercial Interior Design Delhi, Turnkey Interior Solutions" />
 
     <meta name="author" content="Interior Zone" />
     <meta name="robots" content="index, follow" />
@@ -373,7 +373,7 @@
     <div class="breadcumb-area">
       <div
     class="breadcumb-wrapper"
-    data-bg-src="assets/img/hero/about_hero.png"
+    data-bg-src="assets/img/img/88.jpeg"
     style="background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('assets/img/hero/about_hero.png'); background-size: cover; background-position: center;"
 >
         <div class="container">
@@ -381,7 +381,7 @@
             <h1 class="breadcumb-title text-anime">About Our Firm</h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="/">Home</a>
+                <a href="/interiorzone">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">About us</li>
             </ul>
@@ -1138,7 +1138,7 @@
 
                     <p class="box-text">
                       Based in Janakpuri East, Delhi, we provide residential and
-                      commercial interior design, modular kitchens,
+                      commercial interior design, modular kitchens, Wardrobe,
                       construction, and renovation services across India.
                     </p>
                   </div>

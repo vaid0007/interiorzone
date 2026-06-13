@@ -8959,7 +8959,7 @@ ol.widget_recent_comments,
   margin-left: 10px;
   font-weight: 500;
   font-size: 15px;
-  color: var(--title-color);
+  color: white;
   font-family: var(--icon-font);
 }
 .breadcumb-menu li:last-child {
@@ -8992,7 +8992,7 @@ ol.widget_recent_comments,
   left: -25px;
   width: 15px;
   height: 16px;
-  background-image: url("../img/shape/shape-1.svg");
+  background-image: url();
 }
 .breadcumb-title {
   color: white;

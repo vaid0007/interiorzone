@@ -6,33 +6,36 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
 
     <title>
-        Modular Kitchen Design Services | Modern Kitchen Solutions | Interior Zone
+      Modular Kitchen Design Services | Modern Kitchen Solutions | Interior Zone
     </title>
 
     <meta name="author" content="Interior Zone" />
 
     <meta
-        name="description"
-        content="Get stylish and functional modular kitchen designs with smart storage solutions, premium finishes, customized layouts, and expert installation services from Interior Zone."
+      name="description"
+      content="Get stylish and functional modular kitchen designs with smart storage solutions, premium finishes, customized layouts, and expert installation services from Interior Zone."
     />
 
     <meta
-        name="keywords"
-        content="Modular Kitchen, Modular Kitchen Design, Modern Kitchen Design, Kitchen Interior Design, Custom Kitchen Cabinets, Kitchen Renovation, Smart Kitchen Storage, Interior Zone"
+      name="keywords"
+      content="Modular Kitchen, Modular Kitchen Design, Modern Kitchen Design, Kitchen Interior Design, Custom Kitchen Cabinets, Kitchen Renovation, Smart Kitchen Storage, Interior Zone"
     />
 
     <meta name="robots" content="index, follow" />
 
     <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1, shrink-to-fit=no"
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Modular Kitchen Design Services | Interior Zone" />
     <meta
-        property="og:description"
-        content="Customized modular kitchen solutions with premium materials, modern layouts, smart storage, and professional installation."
+      property="og:title"
+      content="Modular Kitchen Design Services | Interior Zone"
+    />
+    <meta
+      property="og:description"
+      content="Customized modular kitchen solutions with premium materials, modern layouts, smart storage, and professional installation."
     />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="assets/img/hero/S2_hero.png" />
@@ -41,9 +44,23 @@
     <link rel="canonical" href="https://yourdomain.com/modular-kitchen" />
 
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/img/favicons/apple-icon-180x180.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/img/favicons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/img/favicons/favicon-16x16.png"
+    />
 
     <meta name="theme-color" content="#ffffff" />
 
@@ -51,8 +68,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <link
-        href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
     />
 
     <!-- CSS -->
@@ -61,7 +78,7 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
-</head>
+  </head>
   <body id="show-grid">
     <div class="cursor"></div>
     <div class="cursor2"></div>
@@ -101,9 +118,7 @@
         <div class="widget footer-widget mb-0">
           <div class="th-widget-about">
             <div class="about-logo">
-              <a href="/"
-                ><img src="assets/img/logo.svg" alt="Faren  "
-              /></a>
+              <a href="/"><img src="assets/img/logo.svg" alt="Faren  " /></a>
             </div>
             <p class="about-text">
               Minimal interiors often feel larger than they are. Neutral colors,
@@ -324,9 +339,7 @@
                         <li><a href="blog">Blog</a></li>
                         <li><a href="blog-grid">Blog Grid</a></li>
                         <li>
-                          <a href="blog-grid-sidebar"
-                            >Blog Grid With Sidebar</a
-                          >
+                          <a href="blog-grid-sidebar">Blog Grid With Sidebar</a>
                         </li>
                       </ul>
                     </li>
@@ -349,7 +362,7 @@
     </div>
     <?php include 'header.php'; ?>
     <div class="breadcumb-area">
-      <div class="breadcumb-wrapper" data-bg-src="assets/img/hero/S2_hero.png">
+      <div class="breadcumb-wrapper" data-bg-src="assets/img/img/93.jpeg">
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">Modular Kitchen</h1>
@@ -372,13 +385,23 @@
         <div class="row gy-4">
           <div class="col-xl-8">
             <div class="page-content">
-              <span class="page-subtitle">Modular Kitchen</span> <h3 class="">Smart & Stylish Kitchen Solutions</h3> <p class="fs-18 mb-50"> Our Modular Kitchen service is designed to create modern, efficient, and aesthetically appealing cooking spaces that perfectly match your lifestyle. We combine innovative layouts, premium materials, and smart storage solutions to deliver kitchens that are both functional and elegant. Whether you prefer a contemporary, minimalist, or luxury kitchen, our team creates customized designs tailored to your needs. </p>
+              <span class="page-subtitle">Modular Kitchen</span>
+              <h3 class="">Smart & Stylish Kitchen Solutions</h3>
+              <p class="fs-18 mb-50">
+                Our Modular Kitchen service is designed to create modern,
+                efficient, and aesthetically appealing cooking spaces that
+                perfectly match your lifestyle. We combine innovative layouts,
+                premium materials, and smart storage solutions to deliver
+                kitchens that are both functional and elegant. Whether you
+                prefer a contemporary, minimalist, or luxury kitchen, our team
+                creates customized designs tailored to your needs.
+              </p>
               <div class="row gy-4">
                 <div class="col-lg-6 col-xxl-7">
                   <div class="page-img service-img img-anim-left">
                     <img
                       class="w-100 h-100"
-                      src="assets/img/service/service_inner_1.jpg"
+                      src="assets/img/img/37.jpeg"
                       alt="service"
                     />
                   </div>
@@ -387,21 +410,80 @@
                   <div class="page-img service-img img-anim-top">
                     <img
                       class="w-100 h-100"
-                      src="assets/img/service/service_inner_2.jpg"
+                      src="assets/img/img/97.jpeg"
                       alt="service"
                     />
                   </div>
                 </div>
               </div>
-              <h4 class="mt-25">Features</h4> <p>With our Modular Kitchen service, you can expect:</p>
+              <h4 class="mt-25">Features</h4>
+              <p>With our Modular Kitchen service, you can expect:</p>
 
-              <div class="checklist style4 me-xl-5 pe-xl-5"> <ul> <li class="wow fadeInUp" data-wow-delay=".1s"> Customized Kitchen Layouts: We design kitchens that maximize available space while ensuring comfort, accessibility, and efficiency. </li> <li class="wow fadeInUp" data-wow-delay=".3s"> Smart Storage Solutions: Innovative cabinets, drawers, and organizers help keep your kitchen clutter-free and well-organized. </li> <li class="wow fadeInUp" data-wow-delay=".4s"> Premium Materials & Finishes: Choose from a wide range of high-quality finishes, countertops, hardware, and accessories for a stylish and durable kitchen. </li> </ul> </div>
-              <h4 class="mt-25">Process</h4> <p class="page-text"> Our modular kitchen design process focuses on functionality, aesthetics, and precision execution. </p> <p class="mb-0"> We carefully plan every detail to ensure your kitchen is beautiful, practical, and built to meet your daily requirements. </p>
+              <div class="checklist style4 me-xl-5 pe-xl-5">
+                <ul>
+                  <li class="wow fadeInUp" data-wow-delay=".1s">
+                    Customized Kitchen Layouts: We design kitchens that maximize
+                    available space while ensuring comfort, accessibility, and
+                    efficiency.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".3s">
+                    Smart Storage Solutions: Innovative cabinets, drawers, and
+                    organizers help keep your kitchen clutter-free and
+                    well-organized.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".4s">
+                    Premium Materials & Finishes: Choose from a wide range of
+                    high-quality finishes, countertops, hardware, and
+                    accessories for a stylish and durable kitchen.
+                  </li>
+                </ul>
+              </div>
+              <h4 class="mt-25">Process</h4>
+              <p class="page-text">
+                Our modular kitchen design process focuses on functionality,
+                aesthetics, and precision execution.
+              </p>
+              <p class="mb-0">
+                We carefully plan every detail to ensure your kitchen is
+                beautiful, practical, and built to meet your daily requirements.
+              </p>
 
               <div class="checklist style5 me-xl-5 pe-xl-5">
-                <ul> <li class="wow fadeInUp" data-wow-delay=".1s"> 1. Consultation & Requirement Analysis: We understand your cooking habits, storage needs, space dimensions, and design preferences. </li> <li class="wow fadeInUp" data-wow-delay=".3s"> 2. Kitchen Design & Planning: Our experts create customized layouts, 3D designs, and material recommendations that align with your vision. </li> <li class="wow fadeInUp" data-wow-delay=".4s"> 3. Material Selection: Select from premium cabinets, countertops, hardware, finishes, and accessories. </li> <li class="wow fadeInUp" data-wow-delay=".5s"> 4. Manufacturing & Installation: Precision-crafted kitchen components are manufactured and professionally installed by our skilled team. </li> <li class="wow fadeInUp" data-wow-delay=".6s"> 5. Final Inspection & Handover: We perform detailed quality checks and ensure every element is perfectly installed before project completion. </li> </ul>
+                <ul>
+                  <li class="wow fadeInUp" data-wow-delay=".1s">
+                    1. Consultation & Requirement Analysis: We understand your
+                    cooking habits, storage needs, space dimensions, and design
+                    preferences.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".3s">
+                    2. Kitchen Design & Planning: Our experts create customized
+                    layouts, 3D designs, and material recommendations that align
+                    with your vision.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".4s">
+                    3. Material Selection: Select from premium cabinets,
+                    countertops, hardware, finishes, and accessories.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".5s">
+                    4. Manufacturing & Installation: Precision-crafted kitchen
+                    components are manufactured and professionally installed by
+                    our skilled team.
+                  </li>
+                  <li class="wow fadeInUp" data-wow-delay=".6s">
+                    5. Final Inspection & Handover: We perform detailed quality
+                    checks and ensure every element is perfectly installed
+                    before project completion.
+                  </li>
+                </ul>
               </div>
-              <h3 class="mt-25">Build Your Dream Kitchen</h3> <p class="mb-50"> Our Modular Kitchen solutions combine innovation, style, and practicality to create a kitchen that enhances your everyday life. From compact urban kitchens to luxurious cooking spaces, we deliver customized designs that add beauty, convenience, and long-term value to your home. </p>
+              <h3 class="mt-25">Build Your Dream Kitchen</h3>
+              <p class="mb-50">
+                Our Modular Kitchen solutions combine innovation, style, and
+                practicality to create a kitchen that enhances your everyday
+                life. From compact urban kitchens to luxurious cooking spaces,
+                we deliver customized designs that add beauty, convenience, and
+                long-term value to your home.
+              </p>
               <hr class="line2 mb-60" />
             </div>
           </div>

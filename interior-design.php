@@ -348,7 +348,7 @@
     </div>
     <?php include 'header.php'; ?>
     <div class="breadcumb-area">
-      <div class="breadcumb-wrapper" data-bg-src="assets/img/hero/S1_hero.png">
+      <div class="breadcumb-wrapper" data-bg-src="assets/img/img/68.jpeg">
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">Interior Design</h1>
@@ -389,7 +389,7 @@
                   <div class="page-img service-img img-anim-left">
                     <img
                       class="w-100 h-100"
-                      src="assets/img/service/service_inner_1.jpg"
+                      src="assets/img/img/62.jpeg"
                       alt="service"
                     />
                   </div>
@@ -398,7 +398,7 @@
                   <div class="page-img service-img img-anim-top">
                     <img
                       class="w-100 h-100"
-                      src="assets/img/service/service_inner_2.jpg"
+                      src="assets/img/img/69.jpeg"
                       alt="service"
                     />
                   </div>

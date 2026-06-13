@@ -358,7 +358,7 @@
     <div class="breadcumb-area">
       <div
         class="breadcumb-wrapper"
-        data-bg-src="assets/img/hero/blog_hero.png"
+        data-bg-src="assets/img/img/91.jpeg"
       >
         <div class="container">
           <div class="breadcumb-content">

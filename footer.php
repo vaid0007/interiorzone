@@ -16,7 +16,7 @@
         <h3 class="widget_title">Quick Links</h3>
 
         <ul class="menu">
-            <li><a href="/">Home</a></li>
+            <li><a href="/interiorzone">Home</a></li>
             <li><a href="about">About Us</a></li>
             <li><a href="service">Services</a></li>
             <li><a href="project">Projects</a></li>
@@ -32,7 +32,8 @@
 
         <p>
             <strong>Phone:</strong><br>
-            <a href="tel:9217664414">+91 9217664414</a>
+            <a href="tel:9217664414">+91 9217664414</a><br/>
+            <a href="tel:8745825182">+91 8745825182</a>
         </p>
 
         <p>

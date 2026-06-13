@@ -349,13 +349,13 @@
     </div>
     <?php include 'header.php'; ?>
     <div class="breadcumb-area">
-      <div class="breadcumb-wrapper" data-bg-src="assets/img/hero/S5_hero.png">
+      <div class="breadcumb-wrapper" data-bg-src="assets/img/img/25.jpeg">
         <div class="container">
           <div class="breadcumb-content">
             <h1 class="breadcumb-title text-anime">Commercial Interior Design</h1>
             <ul class="breadcumb-menu">
               <li class="wow fadeInUp" data-wow-delay=".2s">
-                <a href="/">Home</a>
+                <a href="/interiorzone">Home</a>
               </li>
               <li class="wow fadeInUp" data-wow-delay=".3s">Service Details</li>
             </ul>
@@ -372,12 +372,13 @@
         <div class="row gy-4">
           <div class="col-xl-8">
             <div class="page-content">
-<span class="page-subtitle">Commercial Interior Design</span> <h3 class="">Creating Professional & Inspiring Business Spaces</h3> <p class="fs-18 mb-50"> Our Commercial Interior Design service is focused on creating modern, functional, and visually impressive environments that enhance productivity, strengthen brand identity, and improve customer experiences. Whether it's an office, retail store, showroom, restaurant, or corporate space, we deliver customized interior solutions that align with your business goals and vision. </p>
+             <span class="page-subtitle">Commercial Interior Design</span> <h3 class="">Creating Professional & Inspiring Business Spaces</h3> <p class="fs-18 mb-50"> Our Commercial Interior Design service is focused on creating modern, functional, and visually impressive environments that enhance productivity, strengthen brand identity, and improve customer experiences. Whether it's an office, retail store, showroom, restaurant, or corporate space, we deliver customized interior solutions that align with your business goals and vision. </p>
+             <div class="row gy-4">
                 <div class="col-lg-6 col-xxl-7">
                   <div class="page-img service-img img-anim-left">
                     <img
                       class="w-100 h-100"
-                      src="assets/img/service/service_inner_1.jpg"
+                      src="assets/img/img/27.jpeg"
                       alt="service"
                     />
                   </div>
@@ -386,7 +387,7 @@
                   <div class="page-img service-img img-anim-top">
                     <img
                       class="w-100 h-100"
-                      src="assets/img/service/service_inner_2.jpg"
+                      src="assets/img/img/28.jpeg"
                       alt="service"
                     />
                   </div>
@@ -397,7 +398,7 @@
 <div class="checklist style4 me-xl-5 pe-xl-5"> <ul> <li class="wow fadeInUp" data-wow-delay=".1s"> Customized Business Interiors: Tailor-made designs that reflect your brand identity while maximizing functionality and aesthetics. </li> <li class="wow fadeInUp" data-wow-delay=".3s"> Space Optimization: Smart planning and efficient layouts designed to improve workflow, employee productivity, and customer engagement. </li> <li class="wow fadeInUp" data-wow-delay=".4s"> Premium Finishes & Modern Design: High-quality materials, furnishings, lighting, and décor solutions that create a professional environment. </li> </ul> </div>
 <h4 class="mt-25">Process</h4> <p class="page-text"> Our commercial design process ensures every project is completed efficiently, professionally, and according to your business requirements. </p> <p class="mb-0"> We work closely with business owners, managers, and stakeholders to create spaces that are functional, attractive, and aligned with company objectives. </p>
               <div class="checklist style5 me-xl-5 pe-xl-5">
-<ul> <li class="wow fadeInUp" data-wow-delay=".1s"> 1. Consultation & Requirement Analysis: We understand your business, target audience, operational needs, and design preferences. </li> <li class="wow fadeInUp" data-wow-delay=".3s"> 2. Concept & Space Planning: Our designers develop layouts, concepts, mood boards, and design solutions that support your business goals. </li> <li class="wow fadeInUp" data-wow-delay=".4s"> 3. Material & Furniture Selection: We help select furniture, lighting, finishes, branding elements, and décor suitable for your commercial environment. </li> <li class="wow fadeInUp" data-wow-delay=".5s"> 4. Project Execution: Our team manages construction, installation, and finishing work while maintaining quality and timelines. </li> <li class="wow fadeInUp" data-wow-delay=".6s"> 5. Final Inspection & Handover: We ensure every detail meets the highest standards before delivering a fully completed commercial space. </li> </ul>
+<ul> <li class="wow fadeInUp" data-wow-delay=".1s"> 1. Consultation & Requirement Analysis: We understand your business, target audience, operational needs, and design preferences. </li> <li class="wow fadeInUp" data-wow-delay=".3s"> 2. Concept & Space Planning: Our designers develop layouts, concepts, mood boards, and design solutions that support your business goals. </li> <li class="wow fadeInUp" data-wow-delay=".4s"> 3. Material & Furniture Selection: We help select furniture, lighting, finishes, branding elements, and décor suitable for your commercial environment. </li> <li class="wow fadeInUp" data-wow-delay=".5s"> 4. Project Execution: Our team manages construction, installation, and finishing work while maintaining quality and timelines. </li> <li class="wow fadeInUp" data-wow-delay=".6s"> 5. Final Inspection & Handover: We ensure every detail meets the highest standards before delivering a fully completed commercial space. </li> </ul></div>
 <h3 class="mt-25">Elevate Your Business Environment</h3> <p class="mb-50"> Our Commercial Interior Design service transforms workplaces and commercial spaces into inspiring environments that promote productivity, enhance brand image, and create memorable experiences for employees and customers alike. Let us help you build a space that supports your business growth and success. </p>
             </div>
           </div>

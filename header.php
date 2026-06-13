@@ -47,7 +47,7 @@
                 <nav class="main-menu d-none d-lg-inline-block">
                   <ul>
                     <li class="">
-                      <a href="/">Home</a>
+                      <a href="/interiorzone">Home</a>
                     </li>
                     <li class="">
                       <a href="about">About</a>
@@ -107,7 +107,7 @@
         <div class="th-mobile-menu">
           <ul>
             <li class="menu-item-has-children">
-              <a href="/">Home</a>
+              <a href="/interiorzone">Home</a>
               
             </li>
             <li class="menu-item-has-children">
